@@ -1,0 +1,2631 @@
+customer_id,gender,Age,past_3_years_bike_related_purchases,job_title,job_industry_category,wealth_segment,owns_car
+1,Female,66.0,93,Executive Secretary,Health,Mass Customer,Yes
+2,Male,39.0,81,Administrative Officer,Financial Services,Mass Customer,Yes
+3,Male,66.0,61,Recruiting Manager,Property,Mass Customer,Yes
+9,Female,47.0,97,Business Systems Development Analyst,Argiculture,Affluent Customer,Yes
+10,Female,31.0,49,Senior Quality Engineer,Financial Services,Mass Customer,Yes
+12,Male,25.0,58,Nuclear Power Engineer,Manufacturing,Mass Customer,No
+13,Male,65.0,38,Developer I,Financial Services,High Net Worth,Yes
+14,Female,37.0,85,Account Executive,Financial Services,Affluent Customer,No
+15,Male,19.0,91,Junior Executive,Manufacturing,Mass Customer,No
+19,Female,19.0,76,Geological Engineer,Manufacturing,High Net Worth,No
+20,Male,39.0,72,Project Manager,Manufacturing,Mass Customer,No
+21,Male,39.0,74,Safety Technician I,Manufacturing,Affluent Customer,Yes
+24,Female,42.0,55,Research Assistant I,Argiculture,Mass Customer,Yes
+25,Male,43.0,72,Accounting Assistant III,Financial Services,Mass Customer,Yes
+26,Female,41.0,12,Editor,Financial Services,Mass Customer,Yes
+27,Male,41.0,37,Research Nurse,Health,Mass Customer,Yes
+28,Male,46.0,5,Senior Quality Engineer,Health,Affluent Customer,Yes
+29,Female,51.0,62,Safety Technician III,Manufacturing,Mass Customer,No
+31,Female,57.0,3,Staff Accountant III,Telecommunications,High Net Worth,Yes
+32,Female,25.0,17,Legal Assistant,Manufacturing,Affluent Customer,No
+35,Female,56.0,40,Information Systems Manager,Health,High Net Worth,Yes
+37,Female,34.0,46,Social Worker,Health,High Net Worth,No
+38,Female,64.0,37,Senior Cost Accountant,Financial Services,Affluent Customer,No
+39,Male,41.0,5,Assistant Media Planner,Entertainment,Mass Customer,No
+40,Female,38.0,91,Payment Adjustment Coordinator,Manufacturing,Affluent Customer,No
+41,Male,44.0,64,Food Chemist,Health,Mass Customer,No
+42,Female,43.0,24,Accountant III,Manufacturing,Mass Customer,No
+43,Female,37.0,38,Director of Sales,Retail,Mass Customer,No
+44,Male,38.0,63,Assistant Media Planner,Entertainment,Affluent Customer,Yes
+45,Male,44.0,64,Senior Financial Analyst,Financial Services,Mass Customer,No
+47,Male,27.0,51,Registered Nurse,Health,Affluent Customer,No
+50,Male,39.0,38,Account Executive,Manufacturing,Mass Customer,Yes
+51,Male,60.0,68,Computer Systems Analyst II,Retail,Mass Customer,No
+53,Female,66.0,22,Software Test Engineer II,Financial Services,Mass Customer,No
+54,Female,53.0,2,Sales Associate,Property,Mass Customer,Yes
+55,Male,63.0,48,Paralegal,Financial Services,Affluent Customer,Yes
+56,Male,23.0,44,VP Sales,Property,Mass Customer,Yes
+58,Female,52.0,26,Office Assistant III,Financial Services,Affluent Customer,Yes
+61,Female,60.0,47,Help Desk Operator,Property,High Net Worth,No
+63,Female,54.0,58,Senior Quality Engineer,Retail,Mass Customer,Yes
+64,Male,42.0,73,Legal Assistant,IT,High Net Worth,No
+65,Male,44.0,21,Information Systems Manager,Financial Services,Affluent Customer,Yes
+66,Male,18.0,46,Account Executive,Argiculture,High Net Worth,No
+70,Male,27.0,78,Paralegal,Financial Services,Affluent Customer,No
+71,Male,35.0,30,Research Associate,Argiculture,Affluent Customer,Yes
+72,Male,48.0,93,Administrative Officer,Manufacturing,Affluent Customer,Yes
+75,Female,41.0,28,VP Product Management,Property,Mass Customer,No
+76,Female,42.0,20,Statistician II,Retail,High Net Worth,Yes
+77,Male,30.0,79,Automation Specialist IV,Financial Services,Mass Customer,No
+78,Male,35.0,37,Business Systems Development Analyst,Argiculture,Affluent Customer,No
+79,Female,51.0,76,Account Executive,Manufacturing,Mass Customer,No
+80,Male,42.0,11,Data Coordiator,Entertainment,Mass Customer,No
+82,Female,54.0,93,Software Test Engineer III,Property,High Net Worth,No
+83,Male,53.0,97,Internal Auditor,IT,Mass Customer,Yes
+86,Male,31.0,75,Occupational Therapist,Health,High Net Worth,Yes
+87,Male,46.0,78,Editor,Financial Services,Mass Customer,No
+88,Female,54.0,41,Help Desk Operator,Property,High Net Worth,Yes
+89,Male,53.0,74,Speech Pathologist,Health,Mass Customer,Yes
+90,Male,35.0,76,Quality Control Specialist,Manufacturing,Mass Customer,No
+91,Male,65.0,69,Senior Financial Analyst,Financial Services,Affluent Customer,Yes
+92,Female,39.0,98,Recruiting Manager,Health,Mass Customer,No
+93,Male,43.0,63,Project Manager,Retail,Mass Customer,Yes
+94,Male,45.0,33,Civil Engineer,Manufacturing,Mass Customer,No
+95,Female,59.0,67,Software Engineer III,Manufacturing,Affluent Customer,Yes
+96,Male,51.0,33,Nuclear Power Engineer,Manufacturing,Mass Customer,No
+97,Male,40.0,16,Community Outreach Specialist,Financial Services,Mass Customer,Yes
+99,Male,21.0,97,VP Accounting,Financial Services,Mass Customer,No
+100,Male,52.0,80,General Manager,Financial Services,Mass Customer,Yes
+101,Male,44.0,83,Nurse Practicioner,Manufacturing,High Net Worth,No
+102,Male,63.0,51,Quality Control Specialist,Manufacturing,Affluent Customer,No
+103,Female,23.0,49,Product Engineer,Financial Services,Affluent Customer,Yes
+104,Female,42.0,40,Automation Specialist II,Health,Mass Customer,Yes
+105,Female,18.0,25,Recruiting Manager,Manufacturing,Mass Customer,No
+107,Female,29.0,97,Nurse Practicioner,Financial Services,Mass Customer,Yes
+112,Female,44.0,88,Marketing Manager,Retail,High Net Worth,No
+114,Female,34.0,10,Teacher,Entertainment,Affluent Customer,No
+116,Male,21.0,49,Assistant Professor,Manufacturing,Affluent Customer,Yes
+117,Female,38.0,75,Marketing Manager,Manufacturing,Mass Customer,No
+120,Male,41.0,80,Legal Assistant,Financial Services,High Net Worth,Yes
+121,Male,62.0,82,Graphic Designer,Manufacturing,Mass Customer,No
+122,Male,41.0,87,Quality Control Specialist,Financial Services,Mass Customer,Yes
+123,Female,31.0,85,Analyst Programmer,Financial Services,High Net Worth,No
+124,Female,25.0,27,Administrative Assistant II,Health,High Net Worth,Yes
+125,Female,60.0,94,Computer Systems Analyst II,Property,Mass Customer,No
+126,Male,27.0,53,Administrative Officer,Health,Mass Customer,Yes
+127,Female,45.0,81,Compensation Analyst,Financial Services,Mass Customer,No
+128,Male,42.0,73,Systems Administrator III,Property,Mass Customer,Yes
+129,Male,34.0,64,Financial Advisor,Financial Services,High Net Worth,Yes
+130,Male,22.0,32,Chemical Engineer,Manufacturing,Mass Customer,No
+131,Female,55.0,57,Administrative Officer,Retail,High Net Worth,No
+132,Female,56.0,5,Web Designer I,Manufacturing,Mass Customer,Yes
+133,Male,42.0,12,VP Accounting,Financial Services,Mass Customer,Yes
+134,Female,22.0,34,Legal Assistant,Telecommunications,Affluent Customer,Yes
+135,Female,45.0,18,Internal Auditor,IT,Mass Customer,No
+136,Male,47.0,46,Senior Developer,Manufacturing,High Net Worth,Yes
+137,Male,32.0,27,Office Assistant II,Property,High Net Worth,No
+138,Male,35.0,5,Recruiter,Financial Services,Affluent Customer,Yes
+140,Male,26.0,9,Programmer Analyst III,Manufacturing,Mass Customer,No
+141,Male,65.0,67,Teacher,Financial Services,High Net Worth,Yes
+142,Male,52.0,57,Quality Engineer,Health,Affluent Customer,No
+143,Male,62.0,19,Operator,Argiculture,Mass Customer,Yes
+145,Male,22.0,33,Account Executive,Financial Services,Mass Customer,No
+146,Male,35.0,34,Quality Control Specialist,Manufacturing,Mass Customer,No
+147,Female,46.0,32,Analog Circuit Design manager,Health,Mass Customer,Yes
+149,Female,25.0,41,Research Nurse,Health,Mass Customer,Yes
+150,Male,36.0,6,Cost Accountant,Financial Services,Affluent Customer,No
+151,Male,55.0,36,Marketing Manager,Manufacturing,Mass Customer,Yes
+152,Female,39.0,5,Compensation Analyst,Financial Services,Mass Customer,No
+153,Female,42.0,73,Assistant Media Planner,Entertainment,Mass Customer,Yes
+155,Male,34.0,4,Quality Engineer,Manufacturing,Mass Customer,No
+156,Female,40.0,23,Cost Accountant,Financial Services,Mass Customer,Yes
+157,Male,45.0,97,Financial Advisor,Financial Services,Affluent Customer,No
+159,Male,33.0,90,Research Nurse,Health,Affluent Customer,No
+160,Male,55.0,5,Registered Nurse,Health,Mass Customer,No
+162,Male,40.0,90,Nurse Practicioner,IT,Mass Customer,No
+163,Female,43.0,58,Librarian,Entertainment,High Net Worth,Yes
+164,Female,20.0,55,Senior Editor,Retail,Affluent Customer,Yes
+165,Male,36.0,61,Administrative Officer,Argiculture,Mass Customer,Yes
+166,Male,64.0,54,Structural Analysis Engineer,Manufacturing,Affluent Customer,No
+169,Male,62.0,20,Data Coordiator,Telecommunications,High Net Worth,Yes
+170,Male,45.0,80,Pharmacist,Health,High Net Worth,No
+171,Female,49.0,62,Assistant Manager,Manufacturing,Mass Customer,No
+172,Male,31.0,54,Editor,Manufacturing,Affluent Customer,Yes
+173,Female,23.0,99,General Manager,Health,Affluent Customer,No
+174,Female,30.0,93,Food Chemist,Health,Mass Customer,No
+175,Male,44.0,36,Quality Engineer,Manufacturing,Affluent Customer,No
+176,Male,28.0,39,Accountant I,Property,Mass Customer,No
+177,Female,30.0,25,Professor,Financial Services,High Net Worth,No
+179,Male,54.0,23,Environmental Tech,Manufacturing,High Net Worth,Yes
+180,Female,48.0,16,Web Designer III,Argiculture,Affluent Customer,No
+181,Female,37.0,49,Senior Editor,Manufacturing,Mass Customer,No
+182,Male,27.0,99,Sales Associate,Financial Services,Affluent Customer,Yes
+183,Female,22.0,7,Geologist III,Retail,Affluent Customer,No
+184,Male,48.0,40,Marketing Manager,Manufacturing,High Net Worth,Yes
+186,Female,46.0,46,Software Test Engineer I,Financial Services,Mass Customer,No
+188,Female,44.0,54,Safety Technician II,Property,High Net Worth,Yes
+189,Male,38.0,73,Safety Technician I,Financial Services,Affluent Customer,No
+190,Female,41.0,42,Registered Nurse,Health,Affluent Customer,No
+192,Female,41.0,2,Junior Executive,Health,Mass Customer,Yes
+193,Male,55.0,13,Recruiting Manager,Manufacturing,Mass Customer,Yes
+194,Female,45.0,4,Web Developer III,Financial Services,Affluent Customer,No
+195,Female,61.0,34,Project Manager,Manufacturing,Mass Customer,No
+196,Male,54.0,90,Programmer Analyst II,Manufacturing,High Net Worth,No
+199,Female,42.0,61,Junior Executive,Health,Mass Customer,Yes
+200,Male,63.0,7,Physical Therapy Assistant,Property,Affluent Customer,Yes
+201,Male,54.0,45,Design Engineer,Manufacturing,Mass Customer,Yes
+202,Female,56.0,38,Librarian,Entertainment,Affluent Customer,Yes
+203,Male,56.0,71,Senior Quality Engineer,Argiculture,Mass Customer,Yes
+204,Male,43.0,56,Editor,Financial Services,Mass Customer,No
+205,Male,61.0,18,Administrative Assistant II,Financial Services,Mass Customer,Yes
+208,Male,25.0,57,Office Assistant III,Property,High Net Worth,No
+210,Male,56.0,50,Assistant Manager,Property,Mass Customer,No
+212,Female,18.0,21,Desktop Support Technician,IT,Affluent Customer,No
+213,Male,24.0,13,Actuary,Financial Services,High Net Worth,Yes
+214,Male,62.0,82,Food Chemist,Health,Mass Customer,No
+215,Female,45.0,37,Assistant Professor,Retail,High Net Worth,Yes
+216,Female,25.0,12,Quality Engineer,Financial Services,High Net Worth,Yes
+218,Female,26.0,37,Administrative Officer,Property,High Net Worth,Yes
+219,Male,55.0,9,Database Administrator III,Health,Mass Customer,No
+220,Female,66.0,79,Electrical Engineer,Manufacturing,High Net Worth,No
+221,Female,40.0,14,Tax Accountant,Manufacturing,Mass Customer,No
+222,Male,41.0,89,Clinical Specialist,Health,Mass Customer,No
+224,Male,52.0,2,Compensation Analyst,Financial Services,Affluent Customer,No
+225,Female,43.0,84,Pharmacist,Health,Affluent Customer,No
+226,Male,42.0,96,Database Administrator IV,Manufacturing,Mass Customer,No
+227,Male,46.0,99,Accountant I,Entertainment,Mass Customer,No
+228,Female,34.0,59,Systems Administrator II,Manufacturing,High Net Worth,No
+230,Female,65.0,74,Internal Auditor,Property,High Net Worth,No
+231,Male,24.0,48,Design Engineer,Financial Services,Mass Customer,Yes
+232,Female,32.0,94,Professor,Retail,Mass Customer,No
+233,Male,33.0,34,Environmental Tech,Property,Mass Customer,No
+234,Female,50.0,71,Chief Design Engineer,Retail,High Net Worth,No
+235,Female,43.0,30,Social Worker,Health,Mass Customer,No
+236,Male,65.0,79,Research Nurse,Health,Affluent Customer,No
+237,Male,46.0,18,Account Coordinator,Property,High Net Worth,Yes
+239,Male,27.0,62,Registered Nurse,Health,Affluent Customer,No
+240,Male,30.0,49,Administrative Assistant III,IT,High Net Worth,Yes
+241,Male,33.0,94,Quality Engineer,Entertainment,Mass Customer,No
+242,Male,28.0,17,Nurse,Property,Affluent Customer,No
+243,Female,43.0,94,Teacher,Manufacturing,High Net Worth,Yes
+245,Female,18.0,6,Associate Professor,Financial Services,Affluent Customer,No
+246,Female,29.0,63,Technical Writer,Manufacturing,High Net Worth,No
+247,Female,37.0,62,Staff Accountant II,Financial Services,High Net Worth,Yes
+248,Female,42.0,76,Clinical Specialist,Health,Affluent Customer,Yes
+249,Male,27.0,65,Quality Control Specialist,IT,High Net Worth,No
+252,Female,37.0,39,Account Coordinator,Property,Mass Customer,Yes
+253,Female,23.0,82,Food Chemist,Health,Mass Customer,Yes
+254,Female,58.0,98,Information Systems Manager,Retail,Mass Customer,No
+255,Female,66.0,2,Desktop Support Technician,IT,Mass Customer,No
+256,Female,45.0,16,Director of Sales,Health,High Net Worth,Yes
+258,Female,28.0,24,Administrative Officer,Manufacturing,High Net Worth,No
+259,Female,36.0,70,Senior Developer,Health,High Net Worth,Yes
+260,Female,40.0,47,Senior Quality Engineer,Health,High Net Worth,Yes
+263,Female,34.0,89,Dental Hygienist,Health,High Net Worth,No
+264,Male,42.0,31,Technical Writer,Health,Mass Customer,No
+265,Male,54.0,74,Sales Representative,Retail,High Net Worth,Yes
+266,Female,30.0,69,Account Executive,Retail,Affluent Customer,No
+268,Female,41.0,60,Chemical Engineer,Manufacturing,Mass Customer,No
+269,Male,65.0,55,Nurse Practicioner,Property,Mass Customer,Yes
+271,Female,29.0,51,Financial Advisor,Financial Services,Mass Customer,No
+272,Female,33.0,22,Product Engineer,Retail,Mass Customer,Yes
+274,Female,43.0,66,Social Worker,Health,Mass Customer,Yes
+279,Female,38.0,0,Web Designer I,Manufacturing,Mass Customer,No
+281,Female,47.0,51,Cost Accountant,Financial Services,High Net Worth,Yes
+283,Female,29.0,34,Assistant Manager,Retail,Mass Customer,No
+284,Male,34.0,38,Financial Analyst,Financial Services,High Net Worth,Yes
+285,Female,42.0,3,Community Outreach Specialist,Manufacturing,Mass Customer,No
+286,Male,30.0,99,Accounting Assistant II,Manufacturing,Affluent Customer,Yes
+287,Female,35.0,41,Nuclear Power Engineer,Manufacturing,Affluent Customer,No
+289,Female,50.0,43,Clinical Specialist,Health,High Net Worth,No
+291,Female,48.0,63,Assistant Media Planner,Entertainment,Mass Customer,No
+293,Male,30.0,80,Administrative Assistant III,Manufacturing,Mass Customer,Yes
+298,Male,63.0,69,Engineer I,Manufacturing,High Net Worth,No
+299,Female,63.0,80,Budget/Accounting Analyst I,Financial Services,Mass Customer,Yes
+300,Male,63.0,88,Clinical Specialist,Health,Mass Customer,No
+301,Female,39.0,54,Developer IV,Manufacturing,High Net Worth,No
+303,Female,45.0,59,Assistant Professor,Argiculture,Mass Customer,Yes
+304,Male,51.0,36,VP Marketing,Manufacturing,Mass Customer,Yes
+305,Female,46.0,1,Financial Analyst,Financial Services,Mass Customer,No
+306,Male,46.0,19,Registered Nurse,Health,High Net Worth,No
+307,Male,35.0,55,Clinical Specialist,Health,Affluent Customer,Yes
+308,Male,37.0,2,Database Administrator I,IT,High Net Worth,No
+309,Female,45.0,53,Clinical Specialist,Health,Mass Customer,Yes
+310,Female,35.0,0,Account Coordinator,Financial Services,Mass Customer,Yes
+311,Female,62.0,86,Internal Auditor,Health,High Net Worth,No
+312,Male,62.0,44,Desktop Support Technician,Financial Services,Affluent Customer,Yes
+313,Male,32.0,70,Operator,Manufacturing,Mass Customer,Yes
+314,Female,57.0,27,Marketing Assistant,Retail,High Net Worth,Yes
+315,Female,62.0,67,Chief Design Engineer,Manufacturing,Affluent Customer,No
+316,Female,44.0,72,Environmental Specialist,Manufacturing,Mass Customer,Yes
+317,Female,46.0,26,Automation Specialist II,Entertainment,Mass Customer,Yes
+318,Female,51.0,21,Programmer III,Retail,Affluent Customer,Yes
+320,Male,23.0,19,Registered Nurse,Health,Mass Customer,No
+322,Female,43.0,19,Research Associate,Financial Services,Mass Customer,Yes
+323,Female,47.0,54,Senior Developer,Health,Mass Customer,Yes
+324,Male,33.0,97,Computer Systems Analyst I,IT,Mass Customer,Yes
+325,Female,48.0,98,Computer Systems Analyst I,Financial Services,Affluent Customer,Yes
+326,Female,40.0,74,Help Desk Operator,Financial Services,Mass Customer,No
+327,Female,51.0,10,Design Engineer,Health,Mass Customer,No
+328,Female,29.0,87,Senior Developer,Manufacturing,Mass Customer,No
+329,Male,35.0,25,Account Representative IV,Entertainment,High Net Worth,Yes
+330,Male,61.0,78,Recruiting Manager,Manufacturing,High Net Worth,Yes
+331,Male,21.0,87,Desktop Support Technician,Health,Mass Customer,Yes
+332,Female,41.0,23,Registered Nurse,Health,High Net Worth,No
+333,Female,54.0,25,Sales Associate,Financial Services,Affluent Customer,Yes
+334,Female,21.0,71,Financial Advisor,Financial Services,Affluent Customer,Yes
+337,Female,40.0,67,Statistician IV,Argiculture,High Net Worth,Yes
+339,Female,40.0,56,Human Resources Manager,Health,Mass Customer,No
+341,Male,43.0,10,GIS Technical Architect,Financial Services,Mass Customer,No
+342,Male,33.0,40,Programmer IV,Health,High Net Worth,No
+343,Female,62.0,76,Recruiter,Property,Affluent Customer,No
+345,Female,31.0,74,Senior Sales Associate,Health,High Net Worth,Yes
+346,Male,39.0,68,Financial Analyst,Financial Services,Mass Customer,No
+347,Male,55.0,50,Marketing Manager,Financial Services,Mass Customer,No
+348,Male,39.0,20,Assistant Professor,Retail,Mass Customer,Yes
+350,Female,42.0,47,Clinical Specialist,Health,Mass Customer,Yes
+351,Male,21.0,69,Pharmacist,Health,Mass Customer,Yes
+352,Male,40.0,12,Sales Representative,Retail,Mass Customer,No
+354,Female,39.0,87,Legal Assistant,Property,Mass Customer,No
+355,Female,41.0,97,Database Administrator II,Retail,Mass Customer,Yes
+359,Female,61.0,2,Legal Assistant,Manufacturing,Affluent Customer,Yes
+360,Female,64.0,64,Staff Scientist,Property,Mass Customer,Yes
+361,Female,21.0,59,Software Engineer IV,Health,Mass Customer,Yes
+362,Female,45.0,47,Software Engineer IV,Financial Services,High Net Worth,Yes
+363,Female,32.0,82,Project Manager,Retail,Mass Customer,Yes
+364,Female,43.0,96,Database Administrator III,Financial Services,Affluent Customer,No
+365,Female,43.0,98,VP Quality Control,Property,High Net Worth,No
+366,Female,66.0,7,Librarian,Entertainment,High Net Worth,No
+367,Female,35.0,93,Programmer II,Manufacturing,Mass Customer,Yes
+369,Male,28.0,19,Actuary,Financial Services,Mass Customer,Yes
+371,Male,65.0,7,Systems Administrator III,Financial Services,Mass Customer,No
+372,Female,32.0,19,Graphic Designer,Property,Affluent Customer,Yes
+373,Female,19.0,95,Structural Analysis Engineer,Health,High Net Worth,Yes
+374,Male,28.0,81,Senior Financial Analyst,Financial Services,Mass Customer,Yes
+375,Male,43.0,13,Automation Specialist II,Manufacturing,Mass Customer,Yes
+376,Female,53.0,60,Financial Advisor,Financial Services,Mass Customer,Yes
+377,Male,21.0,65,Staff Scientist,Argiculture,Mass Customer,No
+378,Female,46.0,98,Senior Developer,Retail,Mass Customer,No
+380,Female,64.0,66,Structural Engineer,Property,Mass Customer,No
+382,Male,34.0,68,Research Nurse,Health,Mass Customer,Yes
+385,Male,53.0,69,Project Manager,Health,High Net Worth,No
+386,Female,29.0,63,Senior Quality Engineer,Argiculture,Mass Customer,No
+387,Male,43.0,34,Administrative Officer,Financial Services,Mass Customer,No
+389,Female,45.0,97,Help Desk Operator,Entertainment,Affluent Customer,Yes
+390,Male,22.0,83,Programmer Analyst II,Health,Affluent Customer,No
+392,Male,41.0,38,Safety Technician I,Property,Mass Customer,No
+393,Male,65.0,35,Associate Professor,Manufacturing,Mass Customer,Yes
+394,Female,42.0,70,Legal Assistant,Health,High Net Worth,Yes
+395,Male,43.0,28,Data Coordiator,Retail,High Net Worth,Yes
+396,Female,53.0,98,Systems Administrator III,Telecommunications,High Net Worth,Yes
+397,Female,38.0,86,Paralegal,Financial Services,Affluent Customer,Yes
+399,Male,43.0,26,Engineer III,Manufacturing,Affluent Customer,Yes
+400,Female,58.0,86,Financial Analyst,Financial Services,Mass Customer,No
+401,Female,33.0,56,Assistant Professor,Retail,Mass Customer,No
+402,Male,43.0,9,Desktop Support Technician,Retail,Affluent Customer,No
+404,Male,24.0,92,Geologist I,Financial Services,Affluent Customer,Yes
+406,Female,32.0,58,Financial Analyst,Financial Services,High Net Worth,No
+408,Male,28.0,79,Senior Financial Analyst,Financial Services,Affluent Customer,No
+409,Female,42.0,84,Executive Secretary,Health,Mass Customer,Yes
+411,Female,43.0,84,Director of Sales,Financial Services,High Net Worth,No
+414,Male,43.0,12,Social Worker,Health,High Net Worth,No
+415,Female,65.0,20,Senior Financial Analyst,Financial Services,Affluent Customer,Yes
+417,Female,49.0,37,Biostatistician IV,Argiculture,Mass Customer,No
+419,Female,39.0,34,VP Marketing,Manufacturing,Affluent Customer,No
+420,Male,61.0,93,Help Desk Operator,Entertainment,High Net Worth,No
+421,Female,21.0,26,Sales Representative,Retail,Mass Customer,Yes
+425,Female,66.0,60,Sales Representative,Retail,Mass Customer,Yes
+426,Female,48.0,10,Nuclear Power Engineer,Manufacturing,Affluent Customer,No
+427,Male,23.0,77,Assistant Media Planner,Entertainment,Mass Customer,Yes
+428,Female,43.0,0,Structural Engineer,Health,High Net Worth,Yes
+429,Female,41.0,7,Community Outreach Specialist,IT,High Net Worth,Yes
+430,Female,47.0,46,Paralegal,Financial Services,High Net Worth,Yes
+431,Male,64.0,8,Research Nurse,Health,Affluent Customer,Yes
+432,Male,30.0,83,Nuclear Power Engineer,Manufacturing,Affluent Customer,Yes
+433,Male,56.0,94,Statistician II,Property,Affluent Customer,No
+435,Male,20.0,5,GIS Technical Architect,Telecommunications,Mass Customer,No
+436,Male,62.0,75,Internal Auditor,IT,Mass Customer,No
+437,Male,43.0,24,Systems Administrator III,Manufacturing,Affluent Customer,Yes
+438,Male,30.0,25,Internal Auditor,Property,High Net Worth,Yes
+440,Female,42.0,46,Business Systems Development Analyst,Telecommunications,Mass Customer,No
+444,Female,53.0,32,Staff Scientist,Manufacturing,Mass Customer,Yes
+445,Male,35.0,91,Executive Secretary,Financial Services,Mass Customer,No
+446,Female,41.0,73,Tax Accountant,IT,Affluent Customer,Yes
+447,Female,18.0,98,Help Desk Technician,Argiculture,Mass Customer,Yes
+448,Female,25.0,34,Software Engineer III,IT,High Net Worth,No
+449,Female,45.0,74,VP Product Management,Manufacturing,High Net Worth,Yes
+450,Female,45.0,5,Structural Analysis Engineer,Entertainment,Mass Customer,Yes
+452,Female,60.0,22,Account Coordinator,Property,Mass Customer,Yes
+455,Male,28.0,97,Civil Engineer,Manufacturing,Mass Customer,Yes
+456,Male,44.0,47,Automation Specialist I,Manufacturing,Affluent Customer,Yes
+457,Female,39.0,70,Recruiting Manager,Financial Services,High Net Worth,Yes
+458,Male,51.0,57,Account Representative IV,Manufacturing,Affluent Customer,Yes
+459,Female,33.0,88,Civil Engineer,Manufacturing,Mass Customer,Yes
+461,Female,40.0,19,Social Worker,Health,Mass Customer,Yes
+463,Female,58.0,9,Senior Cost Accountant,Financial Services,Mass Customer,Yes
+465,Female,44.0,54,Developer III,Financial Services,Affluent Customer,Yes
+467,Male,66.0,51,Human Resources Assistant I,Property,Affluent Customer,No
+468,Female,46.0,11,Software Test Engineer I,Property,High Net Worth,Yes
+469,Male,24.0,91,Actuary,Financial Services,High Net Worth,Yes
+471,Female,64.0,82,GIS Technical Architect,Financial Services,Affluent Customer,No
+472,Female,29.0,38,Internal Auditor,Financial Services,Mass Customer,Yes
+473,Male,43.0,2,Junior Executive,Health,Mass Customer,Yes
+474,Female,37.0,86,Geologist IV,Entertainment,Affluent Customer,No
+477,Female,59.0,32,Media Manager II,Financial Services,High Net Worth,Yes
+481,Female,30.0,68,Programmer IV,Argiculture,Mass Customer,No
+483,Male,47.0,35,Sales Representative,Retail,Affluent Customer,No
+484,Male,46.0,64,Programmer IV,Manufacturing,Mass Customer,No
+485,Female,45.0,23,Statistician III,Manufacturing,High Net Worth,No
+486,Female,64.0,0,Technical Writer,Manufacturing,Affluent Customer,Yes
+487,Female,40.0,70,Food Chemist,Health,Mass Customer,No
+488,Female,39.0,24,Help Desk Operator,Property,Mass Customer,Yes
+489,Female,49.0,18,Senior Editor,Retail,Mass Customer,Yes
+491,Male,44.0,45,Speech Pathologist,Property,Affluent Customer,Yes
+492,Male,44.0,54,Environmental Tech,Financial Services,Mass Customer,No
+493,Female,59.0,83,Electrical Engineer,Manufacturing,Mass Customer,Yes
+495,Male,61.0,91,VP Accounting,Financial Services,Mass Customer,Yes
+496,Female,44.0,25,Engineer II,Financial Services,Affluent Customer,Yes
+498,Female,42.0,58,VP Sales,Manufacturing,High Net Worth,Yes
+499,Male,59.0,39,Budget/Accounting Analyst III,Financial Services,Affluent Customer,No
+500,Male,28.0,19,Recruiting Manager,Retail,Affluent Customer,Yes
+502,Female,49.0,39,Teacher,Manufacturing,Mass Customer,No
+503,Male,30.0,87,Dental Hygienist,Health,Affluent Customer,Yes
+504,Male,25.0,93,Environmental Tech,Manufacturing,High Net Worth,Yes
+506,Female,35.0,43,Health Coach II,Retail,Mass Customer,No
+508,Female,49.0,94,Project Manager,Property,Mass Customer,Yes
+509,Male,40.0,64,Developer II,Financial Services,Affluent Customer,Yes
+511,Female,37.0,92,Dental Hygienist,Health,High Net Worth,No
+512,Male,65.0,76,VP Accounting,Financial Services,Mass Customer,No
+515,Female,30.0,55,Help Desk Operator,IT,High Net Worth,No
+516,Male,62.0,23,Environmental Tech,Financial Services,Mass Customer,No
+517,Female,34.0,73,Chief Design Engineer,Property,Mass Customer,Yes
+518,Male,29.0,60,Database Administrator IV,Retail,Mass Customer,Yes
+520,Female,55.0,66,VP Quality Control,Financial Services,Affluent Customer,Yes
+521,Female,41.0,29,Help Desk Operator,Health,High Net Worth,No
+523,Female,45.0,44,Senior Financial Analyst,Financial Services,Affluent Customer,Yes
+524,Female,57.0,16,Nurse,Retail,Mass Customer,No
+525,Male,40.0,64,Chemical Engineer,Manufacturing,Mass Customer,Yes
+527,Female,29.0,81,VP Quality Control,Financial Services,Mass Customer,Yes
+528,Female,41.0,10,Registered Nurse,Health,Mass Customer,No
+529,Male,30.0,18,Operator,Retail,Affluent Customer,Yes
+530,Male,45.0,2,Recruiter,Manufacturing,Mass Customer,No
+531,Female,26.0,94,Senior Cost Accountant,Financial Services,High Net Worth,No
+532,Female,59.0,25,Community Outreach Specialist,Financial Services,Affluent Customer,No
+533,Male,38.0,40,Database Administrator III,Retail,Mass Customer,No
+536,Female,61.0,64,Recruiting Manager,Manufacturing,Affluent Customer,No
+537,Female,31.0,16,Structural Engineer,Entertainment,High Net Worth,No
+538,Female,63.0,33,Chemical Engineer,Manufacturing,Mass Customer,Yes
+540,Female,19.0,80,Chemical Engineer,Manufacturing,Mass Customer,No
+542,Female,53.0,78,Accountant III,Manufacturing,Mass Customer,No
+543,Male,46.0,9,Account Coordinator,Retail,Affluent Customer,Yes
+544,Male,29.0,51,Structural Engineer,Manufacturing,High Net Worth,Yes
+545,Female,42.0,43,Project Manager,Health,Mass Customer,Yes
+546,Female,39.0,80,Information Systems Manager,Health,Mass Customer,Yes
+547,Female,24.0,22,Sales Associate,Health,Mass Customer,No
+549,Male,34.0,84,Human Resources Manager,Retail,Mass Customer,Yes
+551,Female,32.0,8,Structural Engineer,Financial Services,High Net Worth,No
+552,Male,41.0,66,Geological Engineer,Manufacturing,High Net Worth,Yes
+553,Female,41.0,62,Senior Sales Associate,Argiculture,Affluent Customer,Yes
+554,Female,65.0,33,Graphic Designer,Health,Mass Customer,Yes
+555,Male,49.0,99,Junior Executive,Property,Mass Customer,No
+559,Female,32.0,39,Payment Adjustment Coordinator,Retail,High Net Worth,Yes
+560,Female,66.0,1,Social Worker,Health,Affluent Customer,No
+563,Male,45.0,25,Accounting Assistant II,IT,Mass Customer,Yes
+564,Female,36.0,7,Operator,Retail,High Net Worth,No
+565,Male,60.0,30,Civil Engineer,Manufacturing,Mass Customer,Yes
+566,Female,41.0,66,Systems Administrator I,Financial Services,High Net Worth,Yes
+568,Male,62.0,32,VP Sales,Manufacturing,Mass Customer,No
+569,Male,44.0,30,Analog Circuit Design manager,IT,Mass Customer,No
+570,Male,41.0,14,VP Product Management,Financial Services,Mass Customer,Yes
+571,Female,62.0,30,Assistant Media Planner,Entertainment,Mass Customer,No
+572,Male,53.0,0,Clinical Specialist,Health,High Net Worth,Yes
+574,Male,30.0,95,Senior Cost Accountant,Financial Services,Mass Customer,No
+575,Male,63.0,64,VP Accounting,Financial Services,High Net Worth,Yes
+576,Male,43.0,98,Recruiter,Retail,Mass Customer,Yes
+579,Female,45.0,89,Software Engineer II,Health,Mass Customer,No
+580,Male,44.0,83,Compensation Analyst,Financial Services,Mass Customer,Yes
+581,Female,51.0,32,Computer Systems Analyst IV,Financial Services,Mass Customer,Yes
+583,Male,34.0,97,Registered Nurse,Health,Mass Customer,No
+584,Female,24.0,10,Tax Accountant,Manufacturing,Affluent Customer,Yes
+586,Female,21.0,63,Chief Design Engineer,Manufacturing,Mass Customer,No
+587,Male,54.0,43,Registered Nurse,Health,Mass Customer,Yes
+589,Male,24.0,76,Compensation Analyst,Financial Services,Mass Customer,Yes
+590,Female,31.0,85,Assistant Professor,Health,Mass Customer,Yes
+591,Male,45.0,16,Business Systems Development Analyst,Entertainment,Affluent Customer,No
+592,Male,27.0,73,VP Sales,Manufacturing,Mass Customer,No
+595,Male,47.0,72,VP Marketing,Financial Services,Mass Customer,No
+596,Female,51.0,9,Recruiter,Property,Affluent Customer,No
+597,Female,65.0,6,Recruiter,Manufacturing,Mass Customer,No
+598,Male,52.0,25,Financial Advisor,Financial Services,High Net Worth,No
+600,Male,46.0,65,Nurse,Argiculture,Mass Customer,Yes
+601,Male,27.0,56,Senior Quality Engineer,Retail,High Net Worth,Yes
+603,Female,33.0,28,Marketing Assistant,Financial Services,Affluent Customer,No
+604,Female,22.0,72,Help Desk Operator,IT,Affluent Customer,No
+605,Male,48.0,13,Electrical Engineer,Manufacturing,Mass Customer,Yes
+606,Female,30.0,62,Chemical Engineer,Manufacturing,Mass Customer,Yes
+607,Female,43.0,55,Dental Hygienist,Health,Mass Customer,No
+608,Female,40.0,55,Accounting Assistant I,Retail,High Net Worth,Yes
+609,Female,19.0,32,Computer Systems Analyst II,Health,Mass Customer,No
+610,Male,62.0,45,Help Desk Technician,Financial Services,Mass Customer,Yes
+611,Male,33.0,58,Help Desk Technician,Manufacturing,Mass Customer,Yes
+612,Male,58.0,50,GIS Technical Architect,Health,Mass Customer,No
+613,Female,30.0,4,Analyst Programmer,Property,High Net Worth,No
+617,Female,59.0,81,Director of Sales,Property,Mass Customer,No
+618,Male,58.0,17,Electrical Engineer,Manufacturing,Affluent Customer,Yes
+619,Male,42.0,39,Speech Pathologist,Property,Mass Customer,No
+620,Female,47.0,54,Financial Analyst,Financial Services,Mass Customer,Yes
+623,Male,32.0,52,Health Coach II,Property,High Net Worth,No
+624,Male,44.0,44,Research Assistant II,Manufacturing,Mass Customer,Yes
+625,Female,45.0,33,Assistant Media Planner,Entertainment,High Net Worth,Yes
+626,Male,27.0,12,Geological Engineer,Manufacturing,Mass Customer,No
+628,Female,38.0,14,Actuary,Financial Services,Mass Customer,No
+629,Male,59.0,29,Chemical Engineer,Manufacturing,High Net Worth,No
+630,Male,33.0,90,Statistician III,Property,Affluent Customer,Yes
+632,Male,22.0,67,General Manager,Health,Mass Customer,No
+634,Female,42.0,35,Speech Pathologist,Manufacturing,Mass Customer,No
+637,Female,43.0,60,Health Coach I,Health,High Net Worth,No
+639,Male,46.0,51,Nuclear Power Engineer,Manufacturing,Mass Customer,No
+640,Male,44.0,12,Librarian,Entertainment,High Net Worth,Yes
+641,Male,45.0,86,Accounting Assistant I,Manufacturing,Affluent Customer,No
+642,Male,47.0,9,Automation Specialist IV,Property,Mass Customer,No
+643,Female,37.0,48,Assistant Media Planner,Entertainment,Mass Customer,Yes
+644,Male,20.0,59,Administrative Officer,Health,Affluent Customer,No
+646,Female,46.0,3,Human Resources Manager,Manufacturing,Affluent Customer,No
+647,Male,63.0,61,Assistant Manager,Retail,Mass Customer,Yes
+648,Male,42.0,86,Accountant II,Financial Services,Mass Customer,Yes
+649,Female,45.0,23,Legal Assistant,Financial Services,Mass Customer,Yes
+651,Female,46.0,76,Tax Accountant,Health,Affluent Customer,No
+653,Male,52.0,68,Graphic Designer,Financial Services,Affluent Customer,Yes
+654,Female,27.0,2,Administrative Officer,Manufacturing,Affluent Customer,No
+655,Male,45.0,64,General Manager,Manufacturing,Affluent Customer,Yes
+656,Female,41.0,80,Automation Specialist III,Manufacturing,High Net Worth,Yes
+658,Male,76.0,38,Tax Accountant,Manufacturing,Affluent Customer,Yes
+661,Female,32.0,35,Sales Associate,IT,High Net Worth,No
+662,Female,52.0,41,Chemical Engineer,Manufacturing,Mass Customer,Yes
+663,Male,22.0,27,VP Sales,Property,Affluent Customer,Yes
+664,Male,25.0,38,Research Nurse,Health,High Net Worth,No
+666,Female,36.0,82,Social Worker,Health,High Net Worth,Yes
+667,Female,26.0,62,Payment Adjustment Coordinator,Manufacturing,High Net Worth,Yes
+668,Female,53.0,61,Junior Executive,Health,Mass Customer,No
+670,Female,27.0,75,Business Systems Development Analyst,Retail,Affluent Customer,No
+672,Male,43.0,53,Analog Circuit Design manager,Retail,High Net Worth,No
+673,Male,44.0,35,VP Sales,Health,Mass Customer,Yes
+675,Female,43.0,37,Administrative Assistant I,Financial Services,Mass Customer,Yes
+677,Male,22.0,59,Senior Cost Accountant,Financial Services,Mass Customer,No
+678,Female,24.0,57,Accounting Assistant II,IT,High Net Worth,No
+679,Female,45.0,29,Registered Nurse,Health,Mass Customer,No
+681,Female,41.0,55,VP Product Management,Manufacturing,Mass Customer,Yes
+682,Male,49.0,53,Health Coach IV,Health,Affluent Customer,Yes
+686,Female,65.0,60,GIS Technical Architect,Argiculture,High Net Worth,Yes
+687,Male,61.0,25,Executive Secretary,Retail,High Net Worth,Yes
+688,Male,51.0,90,Junior Executive,Health,High Net Worth,No
+689,Male,54.0,91,Senior Developer,Entertainment,High Net Worth,Yes
+692,Male,32.0,42,Database Administrator IV,Property,Mass Customer,No
+694,Female,51.0,66,Media Manager III,Health,Mass Customer,No
+695,Male,42.0,36,Engineer II,Health,High Net Worth,No
+697,Male,33.0,25,Environmental Specialist,Entertainment,Mass Customer,No
+698,Female,23.0,90,Human Resources Manager,Manufacturing,High Net Worth,Yes
+699,Female,47.0,16,Account Representative IV,IT,Affluent Customer,Yes
+701,Male,64.0,18,Food Chemist,Health,Mass Customer,Yes
+704,Female,21.0,49,Research Nurse,Health,Mass Customer,No
+705,Male,56.0,48,Quality Engineer,Retail,High Net Worth,No
+706,Male,30.0,44,Media Manager IV,Financial Services,High Net Worth,Yes
+708,Female,33.0,31,Safety Technician II,IT,Mass Customer,Yes
+709,Female,40.0,83,Accountant III,Financial Services,Mass Customer,Yes
+710,Male,50.0,76,Sales Representative,Retail,High Net Worth,Yes
+716,Female,40.0,31,Social Worker,Health,Mass Customer,No
+717,Male,43.0,65,VP Product Management,Manufacturing,Mass Customer,Yes
+718,Female,42.0,38,Engineer I,Manufacturing,Mass Customer,Yes
+719,Male,66.0,2,Administrative Officer,Retail,Mass Customer,No
+720,Male,88.0,67,Recruiting Manager,Retail,Affluent Customer,No
+722,Male,64.0,69,Marketing Manager,IT,Mass Customer,No
+723,Female,56.0,41,Food Chemist,Health,Mass Customer,Yes
+724,Male,44.0,7,Analog Circuit Design manager,Financial Services,Mass Customer,Yes
+725,Male,54.0,61,Design Engineer,Health,High Net Worth,Yes
+726,Female,42.0,69,Information Systems Manager,Health,Mass Customer,Yes
+727,Male,41.0,98,Senior Editor,Manufacturing,Mass Customer,No
+728,Male,63.0,60,VP Accounting,Financial Services,Mass Customer,Yes
+732,Female,53.0,71,Actuary,Financial Services,Mass Customer,No
+734,Male,39.0,34,Programmer III,Retail,Affluent Customer,No
+735,Male,55.0,33,Assistant Manager,Financial Services,Mass Customer,Yes
+739,Male,55.0,36,Senior Editor,Manufacturing,Mass Customer,No
+742,Male,54.0,55,Senior Developer,Manufacturing,Mass Customer,No
+743,Male,39.0,89,VP Accounting,Financial Services,Mass Customer,Yes
+748,Female,39.0,51,VP Marketing,Financial Services,High Net Worth,No
+749,Male,47.0,47,Environmental Specialist,Argiculture,Mass Customer,No
+750,Male,25.0,42,Analyst Programmer,Retail,Affluent Customer,Yes
+751,Female,18.0,41,Business Systems Development Analyst,Financial Services,Affluent Customer,No
+752,Male,58.0,13,Speech Pathologist,Financial Services,High Net Worth,No
+753,Female,50.0,82,Food Chemist,Health,Affluent Customer,Yes
+754,Female,40.0,15,Senior Financial Analyst,Financial Services,Mass Customer,No
+755,Male,26.0,31,Senior Cost Accountant,Financial Services,Mass Customer,No
+756,Female,45.0,65,Computer Systems Analyst IV,Manufacturing,Mass Customer,Yes
+757,Male,43.0,91,Environmental Tech,Financial Services,Mass Customer,No
+759,Male,57.0,89,Clinical Specialist,Health,High Net Worth,No
+761,Male,42.0,12,Media Manager II,Health,Affluent Customer,Yes
+763,Female,32.0,95,Computer Systems Analyst IV,Manufacturing,Affluent Customer,No
+764,Male,43.0,40,Environmental Tech,Financial Services,Mass Customer,Yes
+767,Male,64.0,70,Budget/Accounting Analyst II,Manufacturing,High Net Worth,No
+768,Female,46.0,5,Web Developer IV,Argiculture,Affluent Customer,Yes
+769,Male,58.0,65,Analog Circuit Design manager,IT,Mass Customer,No
+770,Female,36.0,10,Software Consultant,IT,High Net Worth,Yes
+772,Female,21.0,12,Community Outreach Specialist,Entertainment,Mass Customer,No
+774,Female,21.0,79,Operator,Manufacturing,High Net Worth,No
+775,Male,37.0,66,Accounting Assistant IV,Manufacturing,Affluent Customer,No
+776,Male,39.0,30,Financial Analyst,Financial Services,High Net Worth,No
+777,Male,27.0,2,Paralegal,Financial Services,High Net Worth,No
+778,Male,43.0,24,Assistant Professor,Manufacturing,High Net Worth,No
+779,Female,28.0,1,Staff Accountant III,Health,High Net Worth,No
+781,Male,61.0,80,Legal Assistant,Manufacturing,Mass Customer,No
+782,Female,43.0,30,Geological Engineer,Manufacturing,Mass Customer,No
+783,Male,34.0,6,Information Systems Manager,Retail,Affluent Customer,No
+784,Male,43.0,10,Accounting Assistant III,IT,High Net Worth,Yes
+785,Female,40.0,48,Assistant Professor,Manufacturing,Mass Customer,Yes
+788,Male,55.0,62,Social Worker,Health,Mass Customer,No
+789,Female,42.0,69,Geological Engineer,Manufacturing,Affluent Customer,Yes
+791,Female,51.0,3,Professor,Manufacturing,Mass Customer,Yes
+794,Male,65.0,99,Compensation Analyst,Financial Services,Affluent Customer,Yes
+795,Female,46.0,35,Environmental Tech,Financial Services,High Net Worth,No
+796,Female,23.0,8,Financial Analyst,Financial Services,Mass Customer,No
+797,Female,46.0,51,Internal Auditor,Financial Services,Mass Customer,No
+798,Female,32.0,22,Teacher,Financial Services,High Net Worth,No
+800,Male,41.0,68,Account Coordinator,Manufacturing,Mass Customer,No
+802,Female,34.0,50,Financial Analyst,Financial Services,Mass Customer,No
+803,Female,20.0,96,Nuclear Power Engineer,Manufacturing,High Net Worth,No
+806,Male,27.0,66,Sales Representative,Retail,Mass Customer,Yes
+808,Male,40.0,21,Social Worker,Health,High Net Worth,Yes
+810,Female,22.0,24,Software Test Engineer IV,Health,Mass Customer,Yes
+813,Female,58.0,12,Account Representative III,Health,Mass Customer,No
+816,Female,63.0,71,Product Engineer,Manufacturing,Mass Customer,No
+817,Male,28.0,38,Editor,Financial Services,Mass Customer,Yes
+818,Female,46.0,17,Chemical Engineer,Manufacturing,Mass Customer,No
+821,Male,38.0,41,Financial Analyst,Financial Services,Mass Customer,Yes
+822,Female,45.0,67,Sales Associate,Health,High Net Worth,No
+823,Female,30.0,91,Internal Auditor,Manufacturing,Affluent Customer,No
+824,Female,43.0,97,Financial Advisor,Financial Services,Affluent Customer,Yes
+829,Male,19.0,84,Environmental Tech,Financial Services,High Net Worth,Yes
+830,Male,39.0,58,VP Quality Control,Manufacturing,Affluent Customer,No
+831,Male,47.0,4,Paralegal,Financial Services,Affluent Customer,No
+834,Male,47.0,37,Environmental Tech,Financial Services,Mass Customer,No
+835,Male,52.0,85,Electrical Engineer,Manufacturing,Mass Customer,Yes
+836,Female,30.0,33,Actuary,Financial Services,Mass Customer,Yes
+838,Male,49.0,27,Financial Advisor,Financial Services,High Net Worth,No
+840,Male,55.0,94,VP Sales,Financial Services,Affluent Customer,Yes
+841,Male,53.0,93,Marketing Manager,Manufacturing,Affluent Customer,Yes
+842,Male,20.0,59,Compensation Analyst,Financial Services,High Net Worth,No
+843,Male,30.0,80,Developer II,Manufacturing,Affluent Customer,Yes
+844,Male,42.0,13,Nurse Practicioner,Financial Services,High Net Worth,No
+845,Female,46.0,51,Associate Professor,Manufacturing,Mass Customer,No
+846,Male,66.0,60,Geologist I,Manufacturing,Affluent Customer,No
+847,Female,29.0,66,Chief Design Engineer,Retail,High Net Worth,No
+848,Male,40.0,79,VP Product Management,Manufacturing,Mass Customer,No
+849,Male,50.0,72,Librarian,Entertainment,Mass Customer,No
+852,Female,19.0,37,Compensation Analyst,Financial Services,Affluent Customer,Yes
+853,Female,38.0,26,Media Manager I,Retail,Mass Customer,Yes
+855,Female,45.0,74,General Manager,Retail,High Net Worth,Yes
+856,Male,31.0,63,Quality Engineer,Financial Services,Mass Customer,Yes
+858,Female,40.0,79,Internal Auditor,Financial Services,High Net Worth,Yes
+859,Female,41.0,53,Geologist I,Financial Services,Affluent Customer,Yes
+861,Female,43.0,73,Senior Financial Analyst,Financial Services,High Net Worth,No
+862,Male,42.0,83,Information Systems Manager,Argiculture,High Net Worth,Yes
+863,Female,58.0,19,Senior Financial Analyst,Financial Services,Affluent Customer,No
+865,Female,55.0,73,Desktop Support Technician,Telecommunications,Mass Customer,No
+869,Female,36.0,7,Account Representative I,Financial Services,High Net Worth,Yes
+870,Male,56.0,63,Pharmacist,Health,Mass Customer,No
+872,Female,49.0,47,Structural Engineer,IT,Mass Customer,No
+875,Male,21.0,34,Recruiting Manager,Financial Services,Mass Customer,Yes
+876,Male,51.0,44,Physical Therapy Assistant,IT,High Net Worth,No
+877,Female,32.0,92,Accounting Assistant III,Financial Services,Mass Customer,Yes
+878,Male,37.0,31,Environmental Specialist,Manufacturing,Mass Customer,Yes
+884,Male,42.0,11,Web Designer IV,Property,Mass Customer,No
+885,Male,53.0,20,Statistician IV,Financial Services,Mass Customer,No
+886,Female,45.0,53,Accounting Assistant III,Health,Mass Customer,No
+888,Female,56.0,62,Accountant IV,Manufacturing,Mass Customer,No
+889,Male,53.0,46,Sales Representative,Retail,Affluent Customer,Yes
+890,Female,46.0,55,Dental Hygienist,Health,Mass Customer,Yes
+891,Male,38.0,21,Occupational Therapist,Health,High Net Worth,Yes
+893,Male,36.0,97,Geologist I,IT,Mass Customer,No
+894,Female,49.0,13,Desktop Support Technician,Financial Services,High Net Worth,Yes
+897,Female,51.0,25,Account Executive,Manufacturing,Mass Customer,No
+899,Female,56.0,42,Business Systems Development Analyst,Health,Affluent Customer,Yes
+900,Male,29.0,48,Associate Professor,Manufacturing,Mass Customer,Yes
+902,Female,30.0,37,Staff Scientist,Retail,Mass Customer,No
+905,Female,42.0,41,Safety Technician II,Manufacturing,Affluent Customer,No
+906,Male,21.0,73,Financial Analyst,Financial Services,High Net Worth,Yes
+907,Male,41.0,51,Sales Associate,Property,High Net Worth,Yes
+910,Male,34.0,50,Biostatistician I,Financial Services,Mass Customer,No
+911,Male,45.0,62,Structural Analysis Engineer,Property,Affluent Customer,No
+912,Male,51.0,37,Sales Representative,Retail,Mass Customer,Yes
+914,Male,20.0,73,Chemical Engineer,Manufacturing,Affluent Customer,Yes
+915,Female,35.0,17,Budget/Accounting Analyst IV,Entertainment,Mass Customer,No
+917,Male,56.0,63,VP Product Management,Financial Services,Mass Customer,No
+918,Male,45.0,73,Internal Auditor,Health,High Net Worth,No
+919,Male,32.0,48,Registered Nurse,Health,Mass Customer,Yes
+920,Male,44.0,89,Software Test Engineer IV,Health,Mass Customer,Yes
+921,Female,40.0,77,Help Desk Technician,Manufacturing,Mass Customer,No
+922,Female,47.0,52,Operator,Financial Services,Mass Customer,No
+925,Male,41.0,42,Accountant IV,Manufacturing,Affluent Customer,No
+929,Male,54.0,0,Database Administrator III,Financial Services,Mass Customer,Yes
+930,Female,48.0,86,Executive Secretary,Retail,Mass Customer,Yes
+931,Female,20.0,59,Design Engineer,Manufacturing,Affluent Customer,Yes
+933,Female,24.0,75,Help Desk Operator,Retail,Mass Customer,Yes
+934,Male,24.0,76,Human Resources Manager,Manufacturing,Mass Customer,No
+936,Male,32.0,64,Speech Pathologist,Health,High Net Worth,No
+937,Male,34.0,65,Human Resources Assistant IV,Manufacturing,Affluent Customer,No
+939,Male,59.0,53,Product Engineer,Manufacturing,Mass Customer,No
+940,Female,32.0,3,Administrative Officer,Manufacturing,Mass Customer,No
+941,Male,25.0,13,Recruiting Manager,Financial Services,Affluent Customer,Yes
+942,Female,46.0,31,Director of Sales,Financial Services,Mass Customer,Yes
+943,Male,40.0,94,Legal Assistant,Property,Affluent Customer,Yes
+946,Female,58.0,16,Research Associate,Manufacturing,High Net Worth,No
+947,Female,34.0,43,Pharmacist,Health,Mass Customer,No
+949,Male,44.0,18,Executive Secretary,Health,Mass Customer,Yes
+951,Male,20.0,44,Assistant Media Planner,Entertainment,Mass Customer,No
+954,Male,25.0,76,VP Quality Control,Manufacturing,Mass Customer,Yes
+955,Female,30.0,78,Research Nurse,Health,Mass Customer,Yes
+956,Male,59.0,19,Nuclear Power Engineer,Manufacturing,Mass Customer,Yes
+957,Female,25.0,80,Automation Specialist I,Manufacturing,Affluent Customer,Yes
+958,Male,56.0,15,Biostatistician IV,Health,High Net Worth,No
+960,Male,51.0,1,GIS Technical Architect,Health,Mass Customer,Yes
+961,Female,33.0,73,Assistant Manager,Financial Services,Mass Customer,No
+964,Female,26.0,35,Assistant Professor,Financial Services,High Net Worth,No
+966,Female,41.0,70,Speech Pathologist,Retail,High Net Worth,Yes
+967,Female,20.0,44,Sales Associate,Manufacturing,Affluent Customer,Yes
+968,Male,64.0,96,Accountant IV,IT,High Net Worth,Yes
+969,Female,41.0,20,Health Coach IV,Health,High Net Worth,Yes
+970,Female,39.0,2,VP Accounting,Financial Services,High Net Worth,Yes
+971,Male,31.0,11,Geologist I,Manufacturing,High Net Worth,No
+972,Female,38.0,81,Project Manager,Retail,Mass Customer,Yes
+973,Female,40.0,46,Data Coordiator,Health,High Net Worth,No
+976,Male,48.0,10,Graphic Designer,Financial Services,Affluent Customer,No
+979,Female,60.0,42,Budget/Accounting Analyst I,Manufacturing,High Net Worth,No
+980,Female,42.0,19,Registered Nurse,Health,Mass Customer,No
+982,Male,60.0,14,Geologist III,Health,High Net Worth,Yes
+984,Male,66.0,89,Programmer I,Manufacturing,Affluent Customer,No
+985,Female,49.0,29,Help Desk Operator,Retail,High Net Worth,No
+986,Male,25.0,3,Office Assistant I,Manufacturing,Mass Customer,Yes
+987,Male,45.0,89,Senior Cost Accountant,Financial Services,Affluent Customer,Yes
+988,Female,39.0,35,Director of Sales,Manufacturing,High Net Worth,No
+990,Female,44.0,56,Administrative Officer,Manufacturing,Mass Customer,Yes
+991,Female,28.0,11,Financial Analyst,Financial Services,Mass Customer,Yes
+993,Female,43.0,71,Account Coordinator,Argiculture,High Net Worth,No
+994,Female,42.0,62,Librarian,Entertainment,Affluent Customer,Yes
+995,Male,54.0,16,Information Systems Manager,Health,Mass Customer,Yes
+997,Male,38.0,30,Teacher,Telecommunications,Mass Customer,Yes
+998,Female,54.0,66,Speech Pathologist,Manufacturing,Affluent Customer,Yes
+1003,Female,52.0,35,Paralegal,Financial Services,High Net Worth,No
+1004,Male,44.0,35,Business Systems Development Analyst,IT,High Net Worth,No
+1005,Female,52.0,94,Design Engineer,IT,High Net Worth,Yes
+1006,Male,42.0,15,Quality Control Specialist,Telecommunications,Affluent Customer,Yes
+1009,Female,63.0,16,Research Associate,Manufacturing,High Net Worth,Yes
+1010,Male,57.0,24,Nurse,Financial Services,Affluent Customer,No
+1011,Female,34.0,42,Occupational Therapist,Health,High Net Worth,Yes
+1013,Female,43.0,53,Physical Therapy Assistant,Retail,High Net Worth,No
+1014,Male,59.0,60,Senior Developer,Property,Mass Customer,Yes
+1016,Male,60.0,0,Legal Assistant,IT,Mass Customer,Yes
+1017,Female,41.0,88,Assistant Media Planner,Entertainment,High Net Worth,No
+1018,Male,25.0,1,Help Desk Operator,Manufacturing,Mass Customer,Yes
+1019,Male,46.0,42,Human Resources Assistant II,Manufacturing,Mass Customer,Yes
+1021,Male,42.0,16,Mechanical Systems Engineer,Retail,High Net Worth,No
+1022,Female,30.0,56,Assistant Manager,Financial Services,Affluent Customer,Yes
+1025,Male,22.0,69,Quality Engineer,IT,Mass Customer,Yes
+1027,Male,53.0,33,Statistician I,Financial Services,Affluent Customer,No
+1030,Female,58.0,9,Food Chemist,Health,Mass Customer,No
+1031,Male,36.0,75,Junior Executive,Manufacturing,Mass Customer,No
+1035,Female,43.0,77,Operator,Retail,Affluent Customer,Yes
+1036,Female,50.0,6,Paralegal,Financial Services,Mass Customer,Yes
+1037,Female,63.0,95,Human Resources Assistant II,Financial Services,Mass Customer,No
+1040,Female,45.0,78,Food Chemist,Health,High Net Worth,No
+1042,Male,44.0,0,Nuclear Power Engineer,Manufacturing,High Net Worth,Yes
+1043,Male,33.0,34,Sales Associate,Financial Services,Mass Customer,Yes
+1047,Male,41.0,39,VP Accounting,Financial Services,Affluent Customer,No
+1049,Male,24.0,35,Software Consultant,Property,Mass Customer,No
+1050,Female,46.0,7,Software Consultant,Telecommunications,Mass Customer,Yes
+1051,Female,42.0,34,Help Desk Technician,Property,High Net Worth,Yes
+1052,Female,34.0,31,Junior Executive,Financial Services,High Net Worth,No
+1055,Female,31.0,30,Data Coordiator,Manufacturing,Mass Customer,No
+1056,Male,53.0,96,Software Test Engineer IV,Manufacturing,Affluent Customer,No
+1057,Female,51.0,73,Registered Nurse,Health,Mass Customer,No
+1058,Female,32.0,37,Research Assistant IV,Retail,Affluent Customer,Yes
+1059,Female,52.0,68,Account Representative III,Entertainment,High Net Worth,Yes
+1060,Female,58.0,88,Associate Professor,Argiculture,Affluent Customer,Yes
+1063,Male,33.0,22,Actuary,Financial Services,Affluent Customer,Yes
+1064,Male,42.0,3,Librarian,Entertainment,Affluent Customer,Yes
+1065,Male,57.0,8,Quality Engineer,Financial Services,Mass Customer,Yes
+1066,Male,24.0,45,Recruiter,Telecommunications,High Net Worth,No
+1067,Female,55.0,13,Engineer IV,Financial Services,Mass Customer,Yes
+1069,Male,44.0,85,Web Designer I,Telecommunications,Mass Customer,No
+1072,Male,63.0,60,Senior Cost Accountant,Financial Services,High Net Worth,Yes
+1075,Male,52.0,26,Administrative Officer,Manufacturing,High Net Worth,No
+1076,Male,19.0,33,Pharmacist,Health,Affluent Customer,No
+1078,Male,44.0,69,Executive Secretary,Manufacturing,Mass Customer,No
+1079,Male,42.0,70,Nurse Practicioner,Manufacturing,Mass Customer,No
+1080,Female,20.0,70,Speech Pathologist,Property,Mass Customer,Yes
+1081,Female,34.0,25,Social Worker,Health,Mass Customer,No
+1084,Female,26.0,54,Accounting Assistant I,Retail,Affluent Customer,No
+1085,Male,44.0,4,Internal Auditor,Health,Mass Customer,No
+1086,Male,30.0,84,Statistician IV,Property,Mass Customer,Yes
+1087,Female,40.0,39,Financial Analyst,Financial Services,Mass Customer,Yes
+1089,Female,31.0,90,Product Engineer,Property,Affluent Customer,No
+1092,Female,84.0,56,VP Quality Control,Retail,Mass Customer,No
+1094,Male,44.0,48,Dental Hygienist,Health,High Net Worth,No
+1095,Female,61.0,2,Project Manager,Health,Mass Customer,No
+1096,Male,50.0,33,Software Test Engineer I,Health,High Net Worth,No
+1097,Female,52.0,71,Engineer II,Financial Services,Mass Customer,Yes
+1098,Female,31.0,99,Administrative Assistant IV,Financial Services,Mass Customer,Yes
+1099,Male,45.0,12,Tax Accountant,Manufacturing,Affluent Customer,Yes
+1100,Male,37.0,59,Engineer I,Manufacturing,Mass Customer,No
+1102,Female,43.0,16,Recruiting Manager,Manufacturing,Affluent Customer,No
+1103,Female,42.0,76,Financial Advisor,Financial Services,High Net Worth,Yes
+1104,Female,60.0,82,Programmer III,Retail,Mass Customer,No
+1106,Female,57.0,2,Software Consultant,Retail,Mass Customer,No
+1107,Female,45.0,70,Social Worker,Health,High Net Worth,No
+1108,Female,58.0,86,Dental Hygienist,Health,Mass Customer,No
+1109,Male,30.0,21,Web Developer II,Entertainment,High Net Worth,No
+1110,Male,29.0,73,Information Systems Manager,Retail,High Net Worth,No
+1113,Male,27.0,45,Recruiter,Property,Mass Customer,No
+1114,Female,44.0,96,Structural Engineer,Retail,Mass Customer,No
+1118,Female,44.0,95,Sales Representative,Retail,Mass Customer,Yes
+1120,Female,39.0,87,Web Developer IV,Retail,Affluent Customer,No
+1121,Female,36.0,30,Registered Nurse,Health,Mass Customer,Yes
+1124,Male,55.0,36,Health Coach III,Health,Affluent Customer,Yes
+1125,Male,30.0,25,Software Test Engineer III,IT,Affluent Customer,No
+1127,Female,29.0,30,Physical Therapy Assistant,Financial Services,Mass Customer,No
+1128,Female,28.0,47,Financial Advisor,Financial Services,Mass Customer,Yes
+1132,Female,34.0,99,Actuary,Financial Services,Affluent Customer,Yes
+1134,Male,25.0,22,Administrative Assistant IV,Financial Services,Affluent Customer,No
+1135,Female,40.0,60,Software Engineer IV,Financial Services,Mass Customer,Yes
+1136,Male,42.0,72,Executive Secretary,Property,High Net Worth,No
+1138,Female,28.0,77,Statistician I,Retail,Mass Customer,Yes
+1139,Male,37.0,52,Editor,Manufacturing,Mass Customer,Yes
+1142,Male,22.0,95,Desktop Support Technician,Telecommunications,Mass Customer,No
+1143,Male,65.0,64,Office Assistant IV,Health,Mass Customer,Yes
+1144,Male,23.0,73,Environmental Specialist,Health,High Net Worth,Yes
+1146,Male,27.0,88,Assistant Professor,Financial Services,High Net Worth,No
+1147,Male,51.0,71,Health Coach II,Entertainment,High Net Worth,Yes
+1148,Male,32.0,60,Statistician IV,Financial Services,High Net Worth,No
+1150,Female,44.0,64,Information Systems Manager,Financial Services,Mass Customer,Yes
+1151,Female,55.0,27,VP Product Management,Argiculture,High Net Worth,Yes
+1152,Male,21.0,47,Business Systems Development Analyst,Financial Services,Mass Customer,Yes
+1153,Female,25.0,53,Desktop Support Technician,Health,Mass Customer,Yes
+1154,Male,45.0,26,Research Nurse,Health,Mass Customer,Yes
+1155,Female,26.0,73,VP Marketing,Property,Mass Customer,Yes
+1156,Female,22.0,22,Marketing Assistant,Argiculture,Mass Customer,Yes
+1157,Male,46.0,69,Research Nurse,Health,Affluent Customer,Yes
+1159,Male,27.0,94,Librarian,Entertainment,Mass Customer,No
+1160,Female,55.0,98,Speech Pathologist,IT,Affluent Customer,No
+1161,Female,43.0,86,Senior Quality Engineer,Retail,Mass Customer,No
+1163,Male,38.0,77,Cost Accountant,Financial Services,High Net Worth,Yes
+1164,Female,43.0,97,Food Chemist,Health,Mass Customer,Yes
+1165,Female,26.0,58,Administrative Assistant IV,Financial Services,High Net Worth,No
+1166,Female,47.0,40,Quality Control Specialist,Health,Affluent Customer,No
+1167,Female,24.0,20,Software Test Engineer III,Health,Mass Customer,No
+1168,Male,55.0,44,Pharmacist,Health,Affluent Customer,No
+1169,Female,52.0,33,Actuary,Financial Services,Mass Customer,Yes
+1170,Female,55.0,62,Assistant Professor,IT,Mass Customer,Yes
+1173,Female,42.0,58,Statistician IV,Retail,High Net Worth,No
+1177,Female,66.0,47,Food Chemist,Health,Affluent Customer,Yes
+1178,Male,50.0,1,Pharmacist,Health,Mass Customer,No
+1180,Female,44.0,48,Account Representative I,Financial Services,Affluent Customer,No
+1181,Female,42.0,2,Tax Accountant,Argiculture,Mass Customer,No
+1182,Female,45.0,84,Data Coordiator,IT,Mass Customer,Yes
+1184,Female,51.0,89,Social Worker,Health,Mass Customer,No
+1186,Male,43.0,70,Help Desk Operator,Manufacturing,Affluent Customer,Yes
+1189,Male,31.0,22,Geologist I,Health,High Net Worth,Yes
+1190,Female,51.0,67,Assistant Professor,Financial Services,Affluent Customer,Yes
+1192,Female,50.0,31,VP Quality Control,Manufacturing,Mass Customer,No
+1193,Male,34.0,58,Safety Technician I,Retail,High Net Worth,No
+1195,Female,42.0,0,VP Marketing,Telecommunications,Mass Customer,No
+1196,Female,22.0,23,Research Nurse,Health,Mass Customer,No
+1197,Female,22.0,44,Professor,Financial Services,High Net Worth,Yes
+1198,Female,46.0,73,Sales Representative,Retail,High Net Worth,No
+1199,Male,61.0,7,VP Accounting,Financial Services,Affluent Customer,Yes
+1200,Female,46.0,38,Librarian,Entertainment,High Net Worth,No
+1203,Female,32.0,38,Technical Writer,Health,Affluent Customer,No
+1204,Female,49.0,12,Senior Developer,Manufacturing,Affluent Customer,Yes
+1205,Male,42.0,38,Business Systems Development Analyst,Manufacturing,Affluent Customer,No
+1206,Female,42.0,13,Paralegal,Financial Services,Mass Customer,No
+1207,Female,22.0,30,Engineer IV,Health,Mass Customer,No
+1208,Female,36.0,23,Budget/Accounting Analyst IV,Financial Services,Mass Customer,No
+1209,Male,42.0,40,Senior Developer,Property,High Net Worth,Yes
+1211,Male,41.0,45,VP Sales,Financial Services,Affluent Customer,Yes
+1212,Female,51.0,28,Legal Assistant,Property,Affluent Customer,No
+1214,Male,31.0,0,Internal Auditor,Property,High Net Worth,No
+1215,Female,53.0,79,VP Quality Control,Manufacturing,Mass Customer,No
+1216,Female,60.0,15,Software Test Engineer I,Telecommunications,Affluent Customer,Yes
+1217,Female,51.0,67,Structural Engineer,Manufacturing,High Net Worth,No
+1221,Male,24.0,75,VP Product Management,Health,High Net Worth,Yes
+1222,Female,49.0,83,Account Executive,Property,Mass Customer,No
+1224,Female,43.0,9,Junior Executive,Manufacturing,Mass Customer,No
+1225,Male,32.0,5,Clinical Specialist,Health,Mass Customer,Yes
+1226,Female,39.0,32,Director of Sales,Health,Mass Customer,Yes
+1227,Female,30.0,63,Software Engineer I,IT,Affluent Customer,Yes
+1228,Female,58.0,43,Senior Cost Accountant,Financial Services,Affluent Customer,No
+1229,Male,20.0,38,GIS Technical Architect,Manufacturing,Affluent Customer,Yes
+1231,Female,46.0,94,Social Worker,Health,Affluent Customer,No
+1232,Male,60.0,83,Help Desk Operator,Property,Affluent Customer,No
+1235,Female,51.0,24,Dental Hygienist,Health,Mass Customer,No
+1236,Male,46.0,75,Web Designer IV,Financial Services,High Net Worth,Yes
+1237,Female,50.0,6,Research Nurse,Health,High Net Worth,No
+1240,Female,55.0,64,Sales Associate,Manufacturing,Mass Customer,Yes
+1241,Female,34.0,23,Pharmacist,Health,Affluent Customer,Yes
+1242,Male,47.0,36,Human Resources Assistant III,Property,High Net Worth,Yes
+1243,Male,66.0,73,Research Assistant II,Retail,Mass Customer,No
+1245,Male,26.0,34,Product Engineer,Manufacturing,Affluent Customer,No
+1247,Female,59.0,15,Geologist I,Entertainment,Affluent Customer,No
+1250,Female,18.0,42,Help Desk Technician,Manufacturing,Mass Customer,No
+1251,Male,22.0,63,Desktop Support Technician,Property,Mass Customer,No
+1252,Male,55.0,46,Recruiting Manager,Manufacturing,Mass Customer,Yes
+1256,Male,34.0,8,Food Chemist,Health,High Net Worth,No
+1257,Male,47.0,40,Assistant Professor,Property,Affluent Customer,Yes
+1258,Male,42.0,89,Geological Engineer,Manufacturing,Mass Customer,No
+1259,Female,46.0,23,Assistant Professor,Financial Services,Mass Customer,No
+1260,Male,30.0,92,Tax Accountant,Property,Mass Customer,No
+1261,Female,49.0,61,Legal Assistant,Manufacturing,Mass Customer,No
+1265,Male,32.0,72,Biostatistician I,Property,Mass Customer,Yes
+1267,Male,41.0,39,Safety Technician IV,Entertainment,Affluent Customer,Yes
+1269,Male,29.0,56,Account Coordinator,Property,High Net Worth,Yes
+1270,Male,37.0,72,Paralegal,Financial Services,Affluent Customer,No
+1271,Female,25.0,71,Accounting Assistant II,Telecommunications,Mass Customer,Yes
+1273,Male,45.0,48,General Manager,Financial Services,Affluent Customer,Yes
+1274,Male,42.0,12,Mechanical Systems Engineer,Manufacturing,Mass Customer,No
+1275,Female,54.0,70,General Manager,Health,Mass Customer,Yes
+1276,Male,55.0,24,Dental Hygienist,Health,Affluent Customer,No
+1278,Female,21.0,14,Pharmacist,Health,Affluent Customer,No
+1279,Male,57.0,30,Staff Accountant I,Financial Services,Mass Customer,No
+1280,Male,42.0,71,Marketing Assistant,Manufacturing,High Net Worth,Yes
+1281,Male,51.0,29,Administrative Assistant III,Manufacturing,Affluent Customer,Yes
+1282,Male,39.0,99,Programmer Analyst III,Entertainment,Affluent Customer,Yes
+1283,Female,25.0,43,Clinical Specialist,Health,Mass Customer,No
+1284,Male,44.0,30,Junior Executive,Entertainment,Affluent Customer,No
+1286,Female,44.0,83,Senior Quality Engineer,Manufacturing,High Net Worth,Yes
+1287,Male,59.0,72,Systems Administrator I,Financial Services,Mass Customer,Yes
+1288,Female,40.0,51,Desktop Support Technician,Financial Services,Affluent Customer,Yes
+1290,Male,52.0,49,VP Marketing,Financial Services,High Net Worth,Yes
+1291,Male,39.0,0,Quality Engineer,Health,Mass Customer,No
+1293,Male,39.0,89,Quality Engineer,IT,Mass Customer,No
+1295,Male,23.0,66,Nurse,Argiculture,Mass Customer,Yes
+1296,Female,31.0,61,Paralegal,Financial Services,Affluent Customer,Yes
+1297,Male,39.0,91,Social Worker,Health,Mass Customer,No
+1298,Male,46.0,35,Research Nurse,Health,Mass Customer,No
+1300,Female,29.0,0,Physical Therapy Assistant,Financial Services,Affluent Customer,Yes
+1302,Female,22.0,29,Biostatistician I,Financial Services,Affluent Customer,Yes
+1305,Male,50.0,97,Executive Secretary,Financial Services,High Net Worth,Yes
+1306,Male,64.0,13,Occupational Therapist,Health,Affluent Customer,Yes
+1307,Female,49.0,73,Dental Hygienist,Health,High Net Worth,Yes
+1310,Male,33.0,38,Geological Engineer,Manufacturing,High Net Worth,Yes
+1311,Female,35.0,89,VP Accounting,Financial Services,Mass Customer,Yes
+1312,Female,25.0,96,Food Chemist,Health,Affluent Customer,No
+1313,Male,34.0,59,Analyst Programmer,Property,Mass Customer,No
+1314,Female,50.0,25,Clinical Specialist,Health,Mass Customer,Yes
+1316,Male,30.0,79,Recruiter,Retail,High Net Worth,Yes
+1317,Male,47.0,2,General Manager,Retail,Mass Customer,Yes
+1321,Female,25.0,29,Editor,Argiculture,Affluent Customer,No
+1322,Female,18.0,37,Data Coordiator,Financial Services,Mass Customer,Yes
+1324,Female,42.0,88,Web Designer III,Manufacturing,Mass Customer,No
+1325,Male,51.0,67,Account Executive,Argiculture,High Net Worth,Yes
+1326,Male,54.0,15,Biostatistician III,Health,Affluent Customer,Yes
+1327,Female,24.0,57,Director of Sales,Property,Affluent Customer,No
+1328,Male,38.0,19,Budget/Accounting Analyst IV,IT,Mass Customer,Yes
+1331,Male,33.0,12,Tax Accountant,Telecommunications,High Net Worth,No
+1333,Male,46.0,4,Compensation Analyst,Financial Services,High Net Worth,No
+1334,Female,21.0,72,Senior Financial Analyst,Financial Services,Mass Customer,No
+1337,Female,32.0,15,Structural Engineer,Health,Mass Customer,No
+1339,Female,41.0,82,Editor,IT,High Net Worth,No
+1341,Male,34.0,65,Computer Systems Analyst I,Financial Services,Affluent Customer,No
+1343,Male,40.0,67,Dental Hygienist,Health,High Net Worth,No
+1344,Female,24.0,20,Tax Accountant,Manufacturing,Mass Customer,No
+1345,Male,59.0,94,Senior Sales Associate,Manufacturing,Mass Customer,No
+1346,Male,49.0,9,Administrative Assistant IV,Telecommunications,Mass Customer,No
+1347,Female,42.0,14,Help Desk Operator,Manufacturing,Mass Customer,Yes
+1349,Male,23.0,83,Electrical Engineer,Manufacturing,Affluent Customer,No
+1350,Male,62.0,10,Staff Scientist,Retail,Mass Customer,Yes
+1352,Male,65.0,53,Electrical Engineer,Manufacturing,High Net Worth,No
+1353,Female,40.0,1,Clinical Specialist,Health,Mass Customer,Yes
+1354,Female,19.0,0,Analyst Programmer,Financial Services,Affluent Customer,No
+1355,Male,19.0,37,VP Quality Control,Property,Mass Customer,No
+1357,Male,27.0,69,Research Nurse,Health,High Net Worth,No
+1358,Male,26.0,8,Dental Hygienist,Health,High Net Worth,No
+1359,Female,27.0,54,Help Desk Technician,Retail,Mass Customer,No
+1360,Male,49.0,41,Design Engineer,Manufacturing,Mass Customer,Yes
+1361,Male,55.0,56,Professor,Manufacturing,Affluent Customer,No
+1362,Female,47.0,20,Account Executive,Manufacturing,Affluent Customer,Yes
+1363,Male,58.0,7,Associate Professor,Financial Services,Mass Customer,No
+1364,Male,42.0,99,Junior Executive,Manufacturing,Mass Customer,No
+1365,Male,28.0,97,Research Associate,Health,Mass Customer,No
+1366,Male,45.0,10,Computer Systems Analyst IV,Retail,Affluent Customer,No
+1367,Female,46.0,63,Internal Auditor,Retail,Mass Customer,No
+1369,Female,26.0,51,Civil Engineer,Manufacturing,Mass Customer,Yes
+1370,Female,33.0,44,Computer Systems Analyst IV,Property,Mass Customer,No
+1371,Female,60.0,39,Design Engineer,Retail,Mass Customer,Yes
+1372,Male,39.0,44,Computer Systems Analyst III,Manufacturing,Affluent Customer,No
+1373,Female,61.0,3,Director of Sales,Financial Services,Mass Customer,Yes
+1375,Male,41.0,36,Analog Circuit Design manager,Financial Services,Affluent Customer,No
+1377,Male,31.0,86,Mechanical Systems Engineer,Retail,Mass Customer,Yes
+1379,Female,30.0,63,Legal Assistant,Financial Services,Mass Customer,Yes
+1380,Female,21.0,99,Financial Analyst,Financial Services,Mass Customer,No
+1381,Male,35.0,79,Engineer IV,Manufacturing,Affluent Customer,Yes
+1382,Male,30.0,27,Data Coordiator,Manufacturing,High Net Worth,Yes
+1384,Female,21.0,48,Quality Control Specialist,Manufacturing,Mass Customer,No
+1385,Female,62.0,39,Cost Accountant,Financial Services,Mass Customer,No
+1386,Female,52.0,71,Help Desk Technician,Retail,Mass Customer,Yes
+1387,Female,42.0,33,Chemical Engineer,Manufacturing,Mass Customer,Yes
+1388,Male,47.0,86,Internal Auditor,Financial Services,Mass Customer,No
+1390,Female,20.0,74,Accounting Assistant I,Retail,High Net Worth,Yes
+1391,Female,43.0,62,Marketing Assistant,Retail,High Net Worth,No
+1392,Female,20.0,28,Human Resources Manager,Financial Services,Mass Customer,No
+1396,Male,32.0,20,Cost Accountant,Financial Services,Mass Customer,No
+1397,Male,41.0,29,Legal Assistant,Manufacturing,Mass Customer,Yes
+1398,Female,53.0,11,Project Manager,Manufacturing,Mass Customer,No
+1399,Female,52.0,84,Staff Scientist,Manufacturing,Mass Customer,No
+1400,Female,38.0,51,Senior Developer,Manufacturing,Affluent Customer,Yes
+1402,Male,18.0,58,Assistant Professor,Telecommunications,Mass Customer,No
+1403,Female,39.0,18,Geologist II,Retail,Mass Customer,No
+1404,Male,62.0,78,Chemical Engineer,Manufacturing,Mass Customer,Yes
+1405,Female,62.0,52,VP Product Management,Manufacturing,High Net Worth,Yes
+1406,Male,50.0,3,Cost Accountant,Financial Services,High Net Worth,Yes
+1407,Female,39.0,43,Structural Analysis Engineer,Manufacturing,Mass Customer,Yes
+1408,Male,22.0,14,Dental Hygienist,Health,High Net Worth,No
+1410,Female,23.0,10,Marketing Manager,Retail,High Net Worth,Yes
+1411,Female,26.0,24,Registered Nurse,Health,Mass Customer,Yes
+1414,Female,40.0,57,Help Desk Technician,Retail,Mass Customer,Yes
+1415,Female,21.0,68,Executive Secretary,Property,High Net Worth,Yes
+1418,Female,43.0,80,Senior Sales Associate,IT,Affluent Customer,Yes
+1419,Male,53.0,5,Physical Therapy Assistant,Financial Services,Mass Customer,Yes
+1420,Female,60.0,14,Dental Hygienist,Health,Mass Customer,No
+1421,Female,64.0,74,Senior Editor,Property,Mass Customer,No
+1422,Male,48.0,31,Nuclear Power Engineer,Manufacturing,Affluent Customer,Yes
+1423,Female,60.0,51,Project Manager,Manufacturing,Mass Customer,No
+1424,Male,45.0,56,Occupational Therapist,Health,High Net Worth,Yes
+1425,Male,33.0,20,General Manager,Retail,High Net Worth,Yes
+1426,Female,63.0,72,Financial Advisor,Financial Services,Mass Customer,No
+1427,Male,26.0,14,Environmental Specialist,Financial Services,High Net Worth,No
+1428,Female,21.0,93,Sales Representative,Retail,High Net Worth,No
+1429,Male,39.0,94,Legal Assistant,Health,Mass Customer,Yes
+1430,Female,20.0,86,Biostatistician I,Manufacturing,Mass Customer,Yes
+1431,Male,45.0,29,Sales Associate,Financial Services,Affluent Customer,Yes
+1432,Male,21.0,70,Tax Accountant,Argiculture,High Net Worth,Yes
+1434,Male,46.0,42,Statistician I,Property,High Net Worth,No
+1435,Male,52.0,96,Software Engineer II,Telecommunications,Affluent Customer,Yes
+1437,Male,45.0,35,Electrical Engineer,Manufacturing,Affluent Customer,No
+1438,Female,44.0,27,Social Worker,Health,Mass Customer,Yes
+1439,Male,54.0,97,GIS Technical Architect,Retail,Mass Customer,No
+1440,Female,54.0,19,Human Resources Manager,Financial Services,High Net Worth,Yes
+1444,Male,45.0,97,Payment Adjustment Coordinator,Health,Mass Customer,No
+1445,Female,47.0,57,Web Designer II,IT,Affluent Customer,No
+1446,Male,33.0,51,Engineer I,Manufacturing,Mass Customer,No
+1447,Male,23.0,29,Civil Engineer,Manufacturing,Mass Customer,No
+1448,Male,31.0,40,VP Product Management,Property,Mass Customer,No
+1450,Female,56.0,23,Statistician I,Manufacturing,Affluent Customer,No
+1451,Female,43.0,32,Junior Executive,Argiculture,Mass Customer,Yes
+1452,Male,64.0,99,Safety Technician III,Retail,Mass Customer,No
+1454,Male,41.0,4,Physical Therapy Assistant,Argiculture,Mass Customer,Yes
+1456,Male,55.0,97,Health Coach II,Property,Mass Customer,Yes
+1459,Male,21.0,89,Senior Sales Associate,Manufacturing,Mass Customer,No
+1460,Male,46.0,92,Information Systems Manager,Financial Services,High Net Worth,Yes
+1462,Male,24.0,16,VP Accounting,Financial Services,Mass Customer,Yes
+1465,Female,49.0,53,Mechanical Systems Engineer,Financial Services,Mass Customer,Yes
+1466,Female,22.0,62,Cost Accountant,Financial Services,High Net Worth,Yes
+1468,Female,42.0,37,Financial Advisor,Financial Services,Mass Customer,No
+1470,Male,24.0,62,Senior Cost Accountant,Financial Services,High Net Worth,Yes
+1472,Female,56.0,3,Environmental Specialist,Financial Services,Mass Customer,No
+1474,Male,34.0,54,Structural Analysis Engineer,Health,Mass Customer,Yes
+1475,Male,34.0,41,Recruiting Manager,Retail,Affluent Customer,Yes
+1478,Male,27.0,40,VP Quality Control,Financial Services,High Net Worth,No
+1479,Male,42.0,25,Help Desk Technician,Argiculture,Mass Customer,No
+1481,Female,43.0,93,Senior Financial Analyst,Financial Services,Affluent Customer,No
+1482,Male,41.0,29,Electrical Engineer,Manufacturing,Mass Customer,No
+1483,Female,48.0,55,Senior Quality Engineer,Telecommunications,Mass Customer,Yes
+1485,Male,50.0,50,Food Chemist,Health,Mass Customer,Yes
+1486,Male,41.0,14,Geological Engineer,Manufacturing,Mass Customer,No
+1489,Male,27.0,17,Teacher,Health,Mass Customer,No
+1490,Female,50.0,36,Cost Accountant,Financial Services,Mass Customer,Yes
+1491,Female,22.0,96,Senior Sales Associate,Health,Mass Customer,Yes
+1493,Female,32.0,51,Engineer II,Argiculture,High Net Worth,No
+1495,Female,30.0,4,Physical Therapy Assistant,Health,High Net Worth,Yes
+1496,Female,22.0,22,Human Resources Manager,IT,Affluent Customer,No
+1497,Female,46.0,70,Marketing Assistant,Retail,High Net Worth,No
+1499,Male,46.0,88,Design Engineer,Manufacturing,Mass Customer,Yes
+1502,Female,30.0,52,Design Engineer,Financial Services,Affluent Customer,Yes
+1504,Male,45.0,98,Data Coordiator,Property,Affluent Customer,Yes
+1505,Male,26.0,90,Recruiting Manager,Financial Services,Mass Customer,No
+1508,Male,33.0,80,Clinical Specialist,Health,Affluent Customer,Yes
+1510,Male,61.0,94,Actuary,Financial Services,Mass Customer,No
+1511,Male,29.0,97,Internal Auditor,Financial Services,Mass Customer,No
+1515,Male,29.0,80,Geological Engineer,Manufacturing,Mass Customer,Yes
+1516,Male,52.0,6,VP Sales,IT,Affluent Customer,No
+1517,Male,32.0,90,Operator,IT,Affluent Customer,No
+1518,Male,49.0,66,Safety Technician IV,Property,Affluent Customer,No
+1519,Male,18.0,35,Administrative Assistant IV,Telecommunications,High Net Worth,Yes
+1521,Male,24.0,49,Business Systems Development Analyst,Financial Services,Affluent Customer,Yes
+1522,Male,25.0,57,Paralegal,Financial Services,Mass Customer,No
+1523,Male,60.0,78,Product Engineer,Financial Services,Mass Customer,Yes
+1524,Female,45.0,7,Administrative Officer,Financial Services,Mass Customer,Yes
+1525,Female,53.0,43,Database Administrator III,Financial Services,High Net Worth,No
+1526,Male,55.0,50,Editor,Manufacturing,Mass Customer,Yes
+1529,Female,33.0,0,Media Manager III,Financial Services,High Net Worth,Yes
+1530,Male,44.0,89,Pharmacist,Health,Mass Customer,Yes
+1531,Female,54.0,20,Administrative Assistant III,Financial Services,Mass Customer,Yes
+1532,Female,47.0,27,VP Accounting,Financial Services,Mass Customer,Yes
+1533,Female,42.0,59,Social Worker,Health,Affluent Customer,Yes
+1534,Female,21.0,74,Human Resources Assistant I,Manufacturing,Mass Customer,No
+1535,Male,23.0,80,Cost Accountant,Financial Services,Affluent Customer,Yes
+1536,Female,40.0,28,Software Consultant,Financial Services,Affluent Customer,Yes
+1537,Male,50.0,23,Librarian,Entertainment,Mass Customer,No
+1538,Male,31.0,74,Pharmacist,Health,High Net Worth,Yes
+1540,Female,58.0,53,Mechanical Systems Engineer,Property,Mass Customer,Yes
+1541,Female,65.0,7,Structural Engineer,Argiculture,Mass Customer,Yes
+1542,Male,41.0,56,Food Chemist,Health,Mass Customer,Yes
+1544,Male,56.0,75,Dental Hygienist,Health,Affluent Customer,Yes
+1545,Male,42.0,34,Associate Professor,Health,Mass Customer,Yes
+1546,Female,63.0,22,Compensation Analyst,Financial Services,Mass Customer,Yes
+1550,Female,33.0,3,Programmer Analyst II,IT,Mass Customer,Yes
+1551,Female,45.0,37,Computer Systems Analyst I,Entertainment,Affluent Customer,No
+1552,Male,31.0,80,Research Associate,Entertainment,Mass Customer,Yes
+1553,Female,64.0,68,Administrative Assistant IV,Retail,High Net Worth,No
+1554,Male,25.0,83,Assistant Manager,Retail,Affluent Customer,No
+1555,Male,57.0,60,Tax Accountant,Health,High Net Worth,No
+1556,Male,34.0,30,Web Developer III,Manufacturing,Mass Customer,Yes
+1557,Male,44.0,64,Speech Pathologist,Financial Services,Mass Customer,No
+1558,Male,29.0,14,Information Systems Manager,Financial Services,Affluent Customer,No
+1561,Male,45.0,47,Graphic Designer,Manufacturing,Mass Customer,Yes
+1563,Male,28.0,39,Account Representative IV,Property,Mass Customer,No
+1564,Female,56.0,42,Geologist III,Retail,Mass Customer,No
+1566,Male,58.0,95,Executive Secretary,Argiculture,Mass Customer,No
+1568,Female,40.0,78,Chemical Engineer,Manufacturing,Mass Customer,Yes
+1570,Female,24.0,70,Staff Accountant III,Entertainment,Mass Customer,No
+1571,Male,39.0,19,Clinical Specialist,Health,Mass Customer,Yes
+1572,Male,62.0,51,Recruiting Manager,Financial Services,High Net Worth,Yes
+1573,Female,25.0,48,Web Designer I,Property,Mass Customer,Yes
+1575,Female,31.0,82,Design Engineer,Retail,Mass Customer,No
+1576,Male,34.0,77,VP Marketing,Financial Services,Mass Customer,No
+1577,Female,43.0,87,Automation Specialist I,Manufacturing,High Net Worth,No
+1579,Female,42.0,40,Desktop Support Technician,Financial Services,Affluent Customer,Yes
+1580,Male,38.0,23,Associate Professor,Retail,High Net Worth,No
+1581,Female,46.0,26,Recruiter,Argiculture,Mass Customer,No
+1582,Male,42.0,32,Office Assistant III,Property,Mass Customer,No
+1585,Male,59.0,87,Pharmacist,Health,Mass Customer,Yes
+1586,Female,34.0,47,Physical Therapy Assistant,Manufacturing,High Net Worth,No
+1588,Male,37.0,24,Administrative Officer,IT,High Net Worth,Yes
+1589,Male,30.0,83,Human Resources Manager,Health,Mass Customer,Yes
+1590,Female,54.0,8,Assistant Manager,Retail,Mass Customer,No
+1591,Male,43.0,4,Operator,Manufacturing,Mass Customer,Yes
+1593,Female,40.0,69,Tax Accountant,IT,Mass Customer,No
+1594,Male,38.0,62,Human Resources Manager,Property,Mass Customer,No
+1595,Female,44.0,15,Senior Financial Analyst,Financial Services,High Net Worth,Yes
+1596,Male,50.0,2,Cost Accountant,Financial Services,High Net Worth,Yes
+1597,Male,43.0,93,Nurse Practicioner,Retail,Affluent Customer,No
+1600,Female,35.0,20,Senior Financial Analyst,Financial Services,High Net Worth,No
+1601,Female,27.0,45,Desktop Support Technician,Manufacturing,Affluent Customer,No
+1603,Male,31.0,89,Quality Engineer,Manufacturing,Affluent Customer,Yes
+1607,Female,32.0,39,Marketing Assistant,Retail,Mass Customer,Yes
+1612,Male,33.0,70,Community Outreach Specialist,Financial Services,High Net Worth,Yes
+1616,Male,64.0,75,Media Manager II,Retail,High Net Worth,Yes
+1617,Female,41.0,97,Compensation Analyst,Financial Services,Affluent Customer,No
+1621,Female,45.0,10,Social Worker,Health,Mass Customer,No
+1623,Female,22.0,29,Software Test Engineer III,Entertainment,High Net Worth,Yes
+1624,Male,40.0,18,Compensation Analyst,Financial Services,Mass Customer,Yes
+1625,Male,42.0,20,Information Systems Manager,Property,Mass Customer,Yes
+1627,Male,58.0,44,Librarian,Entertainment,Affluent Customer,No
+1629,Male,45.0,46,VP Accounting,Financial Services,Mass Customer,No
+1630,Female,35.0,63,Professor,Manufacturing,Mass Customer,No
+1631,Male,23.0,11,Speech Pathologist,Financial Services,Affluent Customer,No
+1632,Male,34.0,43,Electrical Engineer,Manufacturing,High Net Worth,Yes
+1633,Female,55.0,16,Mechanical Systems Engineer,Property,High Net Worth,Yes
+1634,Female,49.0,20,Director of Sales,Manufacturing,Affluent Customer,No
+1635,Female,48.0,36,Safety Technician IV,Financial Services,Mass Customer,No
+1636,Female,40.0,65,Chemical Engineer,Manufacturing,High Net Worth,Yes
+1637,Male,51.0,78,Statistician II,Manufacturing,High Net Worth,No
+1638,Male,28.0,55,Speech Pathologist,Financial Services,Mass Customer,Yes
+1641,Male,47.0,29,Community Outreach Specialist,Financial Services,Mass Customer,No
+1642,Male,37.0,97,Systems Administrator II,Manufacturing,Affluent Customer,Yes
+1644,Male,50.0,57,Speech Pathologist,Health,Mass Customer,No
+1646,Female,25.0,39,Senior Financial Analyst,Financial Services,Mass Customer,Yes
+1648,Female,38.0,22,VP Accounting,Financial Services,Mass Customer,No
+1649,Male,57.0,6,Chief Design Engineer,Property,Mass Customer,No
+1652,Female,38.0,53,Operator,Manufacturing,High Net Worth,Yes
+1654,Female,31.0,67,Professor,IT,High Net Worth,Yes
+1655,Male,37.0,38,Electrical Engineer,Manufacturing,Affluent Customer,Yes
+1656,Male,42.0,59,Chief Design Engineer,Financial Services,Mass Customer,Yes
+1657,Male,43.0,11,Computer Systems Analyst III,Financial Services,Mass Customer,No
+1658,Female,26.0,17,Sales Representative,Retail,Mass Customer,Yes
+1659,Female,30.0,75,Software Consultant,Property,High Net Worth,Yes
+1660,Male,40.0,85,Internal Auditor,Retail,Affluent Customer,No
+1661,Female,41.0,21,Administrative Assistant IV,Health,Affluent Customer,No
+1662,Female,64.0,40,Electrical Engineer,Manufacturing,High Net Worth,No
+1663,Female,42.0,68,VP Quality Control,Property,High Net Worth,Yes
+1664,Male,44.0,11,Chemical Engineer,Manufacturing,Affluent Customer,Yes
+1665,Male,42.0,48,Quality Engineer,Telecommunications,Mass Customer,No
+1667,Male,65.0,67,Geological Engineer,Manufacturing,High Net Worth,No
+1668,Female,54.0,75,Financial Advisor,Financial Services,Mass Customer,No
+1669,Male,42.0,74,VP Accounting,Financial Services,High Net Worth,Yes
+1670,Female,41.0,30,Web Designer II,Retail,Mass Customer,No
+1671,Female,63.0,69,Account Executive,Property,Mass Customer,Yes
+1672,Female,57.0,21,Design Engineer,IT,Affluent Customer,Yes
+1673,Female,41.0,45,Professor,Financial Services,Affluent Customer,Yes
+1674,Female,42.0,97,Civil Engineer,Manufacturing,High Net Worth,No
+1675,Male,64.0,76,Engineer I,Manufacturing,Affluent Customer,Yes
+1676,Male,45.0,63,Information Systems Manager,Health,Mass Customer,No
+1677,Female,62.0,56,Editor,Health,Affluent Customer,Yes
+1679,Female,44.0,92,Programmer II,Health,Mass Customer,Yes
+1680,Female,21.0,5,Desktop Support Technician,Property,Mass Customer,Yes
+1682,Female,60.0,93,Structural Engineer,Manufacturing,Affluent Customer,Yes
+1684,Female,40.0,96,Environmental Tech,Manufacturing,Mass Customer,No
+1685,Female,48.0,32,Budget/Accounting Analyst III,IT,Mass Customer,No
+1686,Male,39.0,95,Account Representative IV,Argiculture,Mass Customer,Yes
+1689,Male,24.0,48,Quality Control Specialist,Financial Services,Mass Customer,Yes
+1690,Male,31.0,6,Food Chemist,Health,Affluent Customer,Yes
+1692,Female,53.0,85,Senior Quality Engineer,Health,Mass Customer,Yes
+1693,Male,54.0,79,Accountant I,Health,Affluent Customer,No
+1696,Male,28.0,48,Librarian,Entertainment,High Net Worth,No
+1697,Female,51.0,44,Occupational Therapist,Health,Mass Customer,Yes
+1699,Male,62.0,33,Nuclear Power Engineer,Manufacturing,Mass Customer,Yes
+1700,Female,50.0,28,Electrical Engineer,Manufacturing,High Net Worth,Yes
+1702,Male,64.0,14,Research Nurse,Health,Mass Customer,No
+1703,Female,29.0,14,Product Engineer,Telecommunications,Mass Customer,Yes
+1704,Male,57.0,96,Analyst Programmer,IT,High Net Worth,No
+1705,Female,40.0,1,Research Associate,Financial Services,Mass Customer,Yes
+1707,Male,26.0,18,Cost Accountant,Financial Services,High Net Worth,No
+1708,Female,31.0,39,Marketing Manager,Property,High Net Worth,No
+1709,Male,45.0,36,Food Chemist,Health,Affluent Customer,No
+1710,Female,65.0,49,Health Coach IV,Health,High Net Worth,No
+1713,Female,31.0,89,Teacher,Retail,High Net Worth,Yes
+1714,Female,21.0,80,Senior Sales Associate,Property,High Net Worth,Yes
+1715,Male,32.0,41,Web Developer III,Entertainment,Mass Customer,Yes
+1716,Female,33.0,42,Senior Developer,Telecommunications,Affluent Customer,No
+1717,Male,41.0,96,Civil Engineer,Manufacturing,Mass Customer,No
+1718,Female,26.0,13,Professor,Financial Services,High Net Worth,Yes
+1719,Male,46.0,71,Media Manager IV,Financial Services,High Net Worth,No
+1720,Female,33.0,96,Staff Accountant II,Financial Services,Mass Customer,Yes
+1721,Female,39.0,82,Senior Quality Engineer,Financial Services,High Net Worth,No
+1722,Male,56.0,52,Cost Accountant,Financial Services,Mass Customer,No
+1724,Female,21.0,28,Assistant Media Planner,Entertainment,High Net Worth,Yes
+1725,Female,40.0,80,Junior Executive,Manufacturing,High Net Worth,Yes
+1726,Female,46.0,41,Junior Executive,Financial Services,High Net Worth,No
+1728,Male,43.0,41,Paralegal,Financial Services,Affluent Customer,No
+1729,Female,32.0,37,Mechanical Systems Engineer,Argiculture,High Net Worth,No
+1730,Female,34.0,29,Senior Financial Analyst,Financial Services,Mass Customer,No
+1731,Female,61.0,26,Health Coach III,Health,High Net Worth,Yes
+1732,Male,41.0,95,Desktop Support Technician,Argiculture,Mass Customer,Yes
+1733,Male,34.0,10,Associate Professor,Financial Services,High Net Worth,No
+1734,Female,42.0,88,Community Outreach Specialist,Retail,Mass Customer,Yes
+1735,Male,53.0,7,Occupational Therapist,Health,Mass Customer,No
+1736,Male,22.0,83,Associate Professor,IT,Affluent Customer,No
+1737,Female,43.0,21,Senior Developer,Property,Affluent Customer,Yes
+1739,Male,65.0,20,Software Consultant,Entertainment,Mass Customer,No
+1741,Male,25.0,18,General Manager,Financial Services,High Net Worth,No
+1743,Male,38.0,80,Director of Sales,Manufacturing,Affluent Customer,Yes
+1744,Female,48.0,41,Nurse Practicioner,Financial Services,High Net Worth,No
+1745,Female,64.0,37,Chief Design Engineer,Financial Services,Mass Customer,Yes
+1747,Male,33.0,46,Research Assistant II,Financial Services,Affluent Customer,No
+1748,Male,63.0,83,Recruiter,Manufacturing,Mass Customer,Yes
+1750,Male,61.0,14,Internal Auditor,Entertainment,Mass Customer,Yes
+1753,Female,22.0,6,VP Product Management,Health,High Net Worth,Yes
+1755,Female,33.0,38,Tax Accountant,Property,Mass Customer,No
+1758,Female,48.0,16,Administrative Assistant I,Argiculture,Mass Customer,Yes
+1759,Male,51.0,52,Biostatistician IV,Financial Services,High Net Worth,No
+1760,Female,54.0,68,Dental Hygienist,Health,High Net Worth,No
+1761,Female,45.0,96,Legal Assistant,Manufacturing,Mass Customer,Yes
+1762,Female,42.0,49,Research Assistant II,Health,Mass Customer,Yes
+1763,Female,25.0,96,Automation Specialist I,Manufacturing,Affluent Customer,Yes
+1767,Female,61.0,28,Software Engineer IV,Manufacturing,Affluent Customer,Yes
+1771,Female,45.0,1,Geological Engineer,Manufacturing,Mass Customer,Yes
+1772,Male,35.0,98,Financial Analyst,Financial Services,High Net Worth,Yes
+1774,Male,41.0,48,Compensation Analyst,Financial Services,Mass Customer,Yes
+1775,Female,24.0,73,Actuary,Financial Services,Affluent Customer,No
+1776,Male,41.0,77,Accountant I,Financial Services,Affluent Customer,No
+1777,Female,26.0,47,Sales Representative,Retail,Affluent Customer,No
+1779,Male,23.0,55,Information Systems Manager,Argiculture,Affluent Customer,No
+1782,Male,53.0,47,Pharmacist,Health,Affluent Customer,Yes
+1784,Female,25.0,37,GIS Technical Architect,Manufacturing,Mass Customer,Yes
+1785,Male,59.0,23,Clinical Specialist,Health,Mass Customer,No
+1786,Female,58.0,70,Administrative Assistant III,Argiculture,High Net Worth,Yes
+1787,Male,43.0,2,Executive Secretary,Retail,High Net Worth,Yes
+1788,Female,55.0,79,Account Representative IV,Financial Services,High Net Worth,Yes
+1789,Female,33.0,44,Analog Circuit Design manager,Property,Mass Customer,No
+1790,Male,26.0,90,Budget/Accounting Analyst IV,Health,Affluent Customer,No
+1791,Female,45.0,20,Data Coordiator,IT,Affluent Customer,Yes
+1793,Male,30.0,19,Actuary,Financial Services,Mass Customer,Yes
+1794,Female,51.0,53,Administrative Officer,Property,Mass Customer,No
+1795,Male,42.0,40,Internal Auditor,Manufacturing,Affluent Customer,No
+1796,Female,50.0,79,Desktop Support Technician,Manufacturing,High Net Worth,Yes
+1798,Female,19.0,46,Electrical Engineer,Manufacturing,High Net Worth,Yes
+1800,Female,64.0,30,Executive Secretary,Argiculture,High Net Worth,No
+1801,Male,43.0,48,Legal Assistant,Manufacturing,Affluent Customer,No
+1802,Female,47.0,3,Nuclear Power Engineer,Manufacturing,Mass Customer,No
+1804,Female,57.0,91,Product Engineer,Property,Affluent Customer,No
+1805,Female,43.0,90,Budget/Accounting Analyst II,Financial Services,Mass Customer,No
+1808,Male,54.0,98,Information Systems Manager,Retail,High Net Worth,No
+1809,Female,59.0,67,Programmer II,Health,Mass Customer,Yes
+1810,Male,61.0,98,Geological Engineer,Manufacturing,High Net Worth,No
+1812,Female,60.0,20,Clinical Specialist,Health,Affluent Customer,No
+1813,Female,19.0,45,Technical Writer,Manufacturing,Mass Customer,No
+1814,Female,31.0,33,Web Designer IV,Retail,Affluent Customer,No
+1815,Female,66.0,23,Software Test Engineer I,Argiculture,Mass Customer,Yes
+1818,Female,53.0,64,Assistant Media Planner,Entertainment,Mass Customer,Yes
+1819,Female,25.0,26,Graphic Designer,Entertainment,Mass Customer,Yes
+1820,Male,24.0,12,Software Engineer II,IT,Affluent Customer,No
+1821,Male,48.0,89,Web Developer IV,Entertainment,High Net Worth,Yes
+1824,Female,60.0,12,Safety Technician III,Manufacturing,Affluent Customer,Yes
+1825,Male,53.0,82,VP Quality Control,Financial Services,Mass Customer,Yes
+1826,Male,59.0,33,Chemical Engineer,Manufacturing,High Net Worth,Yes
+1827,Female,42.0,92,Sales Representative,Retail,Affluent Customer,Yes
+1828,Female,32.0,65,Junior Executive,Manufacturing,Affluent Customer,No
+1830,Male,35.0,98,Software Consultant,Manufacturing,High Net Worth,No
+1831,Male,42.0,58,Social Worker,Health,Mass Customer,No
+1832,Female,55.0,53,Programmer Analyst III,Manufacturing,Mass Customer,Yes
+1833,Male,53.0,67,Actuary,Financial Services,High Net Worth,Yes
+1834,Male,42.0,84,Director of Sales,Financial Services,High Net Worth,Yes
+1835,Male,26.0,48,Financial Advisor,Financial Services,Affluent Customer,Yes
+1836,Female,65.0,54,Research Nurse,Health,Mass Customer,Yes
+1837,Male,46.0,9,Account Coordinator,Manufacturing,Mass Customer,Yes
+1838,Female,55.0,14,Business Systems Development Analyst,Financial Services,Affluent Customer,Yes
+1839,Female,33.0,60,Internal Auditor,Entertainment,High Net Worth,Yes
+1840,Male,42.0,22,Staff Scientist,Argiculture,High Net Worth,Yes
+1841,Male,24.0,63,Administrative Assistant III,Argiculture,Affluent Customer,No
+1842,Male,43.0,89,Accountant IV,Financial Services,Mass Customer,No
+1845,Male,42.0,34,General Manager,Financial Services,Mass Customer,No
+1846,Female,41.0,4,Senior Editor,Manufacturing,Affluent Customer,No
+1847,Female,42.0,68,Executive Secretary,Manufacturing,Mass Customer,No
+1848,Male,43.0,22,Information Systems Manager,Manufacturing,Mass Customer,No
+1850,Male,42.0,4,Biostatistician II,Manufacturing,High Net Worth,No
+1852,Female,42.0,22,Research Associate,Manufacturing,Affluent Customer,No
+1855,Male,48.0,2,Librarian,Entertainment,Mass Customer,Yes
+1856,Female,50.0,57,Associate Professor,Retail,Mass Customer,No
+1857,Male,51.0,57,Marketing Manager,Manufacturing,Affluent Customer,Yes
+1859,Female,30.0,81,Accountant IV,IT,High Net Worth,Yes
+1860,Female,43.0,4,Nuclear Power Engineer,Manufacturing,Mass Customer,Yes
+1861,Female,52.0,26,Geological Engineer,Manufacturing,Mass Customer,Yes
+1863,Male,42.0,10,VP Product Management,Telecommunications,High Net Worth,No
+1864,Female,59.0,45,Senior Quality Engineer,Retail,Mass Customer,No
+1866,Male,27.0,27,Marketing Manager,Manufacturing,Mass Customer,No
+1868,Female,31.0,11,Assistant Manager,Retail,Mass Customer,No
+1869,Female,42.0,73,Geologist IV,Financial Services,High Net Worth,Yes
+1871,Female,26.0,52,Senior Cost Accountant,Financial Services,High Net Worth,Yes
+1872,Male,47.0,75,Help Desk Technician,Manufacturing,Mass Customer,Yes
+1873,Male,27.0,49,General Manager,Manufacturing,Affluent Customer,Yes
+1875,Male,61.0,4,Staff Scientist,Retail,High Net Worth,Yes
+1876,Male,43.0,16,Recruiting Manager,Financial Services,Affluent Customer,No
+1877,Male,53.0,13,Associate Professor,Financial Services,High Net Worth,Yes
+1878,Male,65.0,6,Account Coordinator,Health,Affluent Customer,No
+1879,Male,53.0,4,Account Representative I,Manufacturing,High Net Worth,No
+1885,Male,37.0,18,Software Consultant,Health,High Net Worth,Yes
+1886,Female,41.0,35,Nurse,IT,Affluent Customer,No
+1887,Female,54.0,22,Director of Sales,IT,Affluent Customer,Yes
+1890,Male,47.0,89,Analyst Programmer,Financial Services,Mass Customer,No
+1891,Male,30.0,6,Marketing Manager,Retail,Mass Customer,Yes
+1895,Female,44.0,53,Technical Writer,Manufacturing,Mass Customer,No
+1898,Female,40.0,67,Developer III,Manufacturing,Affluent Customer,Yes
+1900,Male,39.0,67,Safety Technician II,Financial Services,Affluent Customer,Yes
+1901,Male,42.0,40,Budget/Accounting Analyst I,Argiculture,Affluent Customer,No
+1902,Female,55.0,48,Environmental Tech,Financial Services,Mass Customer,Yes
+1904,Female,42.0,60,Technical Writer,IT,High Net Worth,Yes
+1907,Male,45.0,69,VP Sales,Health,High Net Worth,No
+1908,Female,56.0,2,Help Desk Technician,Financial Services,High Net Worth,Yes
+1909,Female,35.0,32,Research Assistant II,Argiculture,Affluent Customer,Yes
+1910,Female,60.0,20,Systems Administrator I,Property,High Net Worth,Yes
+1911,Male,39.0,22,Director of Sales,Manufacturing,Mass Customer,No
+1912,Male,27.0,36,Account Coordinator,Manufacturing,High Net Worth,No
+1913,Female,46.0,36,Dental Hygienist,Health,Mass Customer,Yes
+1914,Male,51.0,72,VP Product Management,Financial Services,Mass Customer,No
+1915,Female,66.0,40,Social Worker,Health,Mass Customer,Yes
+1916,Male,25.0,71,Computer Systems Analyst II,Retail,High Net Worth,Yes
+1917,Female,46.0,7,Senior Sales Associate,Argiculture,Affluent Customer,Yes
+1919,Male,59.0,40,VP Product Management,Argiculture,Mass Customer,Yes
+1920,Male,32.0,29,Sales Associate,Financial Services,Mass Customer,No
+1923,Male,49.0,52,Health Coach IV,Health,Mass Customer,No
+1926,Male,62.0,72,Senior Cost Accountant,Financial Services,High Net Worth,Yes
+1927,Female,44.0,11,Software Test Engineer I,Manufacturing,Affluent Customer,Yes
+1928,Male,42.0,2,Chemical Engineer,Manufacturing,High Net Worth,Yes
+1929,Female,33.0,79,Food Chemist,Health,Affluent Customer,No
+1930,Male,23.0,27,Speech Pathologist,Manufacturing,High Net Worth,No
+1931,Male,46.0,85,Senior Developer,Health,Affluent Customer,No
+1932,Female,43.0,98,Librarian,Entertainment,Affluent Customer,Yes
+1933,Male,39.0,72,Automation Specialist I,Manufacturing,Affluent Customer,No
+1936,Female,55.0,36,Junior Executive,Manufacturing,Mass Customer,Yes
+1937,Male,46.0,69,Quality Engineer,Health,Mass Customer,No
+1940,Female,43.0,52,Teacher,Manufacturing,High Net Worth,Yes
+1941,Male,28.0,83,Librarian,Entertainment,Mass Customer,No
+1942,Male,33.0,0,Programmer Analyst II,Financial Services,High Net Worth,No
+1943,Male,34.0,35,Senior Cost Accountant,Financial Services,Affluent Customer,Yes
+1944,Male,39.0,73,Programmer III,Argiculture,High Net Worth,Yes
+1947,Female,56.0,66,Geologist II,Telecommunications,Affluent Customer,Yes
+1949,Female,66.0,9,Legal Assistant,Manufacturing,Mass Customer,No
+1950,Male,56.0,27,Web Developer II,Manufacturing,Affluent Customer,Yes
+1951,Male,19.0,93,Health Coach II,Manufacturing,Mass Customer,Yes
+1952,Female,46.0,35,Payment Adjustment Coordinator,Health,Mass Customer,Yes
+1953,Female,42.0,23,Paralegal,Financial Services,High Net Worth,No
+1954,Male,52.0,88,VP Sales,Manufacturing,Affluent Customer,No
+1957,Male,42.0,1,Accountant IV,Property,Affluent Customer,No
+1959,Male,41.0,3,Director of Sales,Health,Mass Customer,Yes
+1962,Male,42.0,13,Sales Representative,Retail,Mass Customer,Yes
+1963,Male,22.0,81,Biostatistician I,Argiculture,Mass Customer,Yes
+1964,Female,55.0,60,Mechanical Systems Engineer,Financial Services,Affluent Customer,Yes
+1965,Male,46.0,81,Web Designer III,Retail,Mass Customer,Yes
+1968,Female,25.0,31,Librarian,Entertainment,Mass Customer,No
+1969,Male,58.0,54,Teacher,IT,Mass Customer,Yes
+1970,Male,37.0,51,Desktop Support Technician,Manufacturing,Mass Customer,No
+1973,Female,40.0,52,Media Manager IV,Financial Services,High Net Worth,No
+1975,Female,54.0,39,Product Engineer,Health,Affluent Customer,No
+1978,Female,65.0,53,Dental Hygienist,Health,Mass Customer,No
+1980,Male,27.0,97,Food Chemist,Health,High Net Worth,Yes
+1983,Female,57.0,6,Assistant Media Planner,Entertainment,Affluent Customer,Yes
+1984,Male,21.0,70,Information Systems Manager,Health,Mass Customer,Yes
+1987,Male,63.0,56,Research Associate,Health,Affluent Customer,No
+1988,Male,63.0,27,Recruiting Manager,Property,Mass Customer,No
+1989,Female,46.0,46,Graphic Designer,Property,High Net Worth,Yes
+1991,Male,26.0,35,Research Nurse,Health,Mass Customer,Yes
+1992,Female,24.0,28,Web Developer I,Manufacturing,Mass Customer,Yes
+1996,Male,34.0,4,Structural Engineer,Manufacturing,Mass Customer,No
+1999,Female,57.0,6,Nuclear Power Engineer,Manufacturing,Mass Customer,Yes
+2001,Female,42.0,21,Analog Circuit Design manager,Manufacturing,Mass Customer,Yes
+2003,Female,57.0,80,Statistician III,Manufacturing,High Net Worth,Yes
+2004,Male,56.0,16,Nuclear Power Engineer,Manufacturing,Affluent Customer,Yes
+2005,Female,41.0,41,Accountant I,Manufacturing,High Net Worth,No
+2006,Female,20.0,33,Senior Developer,Property,High Net Worth,Yes
+2007,Male,50.0,8,Programmer I,Manufacturing,Mass Customer,Yes
+2008,Male,26.0,77,Analyst Programmer,Financial Services,Mass Customer,Yes
+2009,Female,60.0,19,Staff Accountant IV,Health,Affluent Customer,Yes
+2010,Male,46.0,88,Data Coordiator,Manufacturing,High Net Worth,Yes
+2011,Male,42.0,68,VP Sales,Manufacturing,High Net Worth,Yes
+2012,Female,47.0,55,Health Coach I,Health,High Net Worth,No
+2013,Female,24.0,99,Registered Nurse,Health,Affluent Customer,Yes
+2014,Female,30.0,49,Associate Professor,Manufacturing,Mass Customer,Yes
+2015,Female,46.0,6,Health Coach IV,Health,Affluent Customer,No
+2016,Female,21.0,89,Executive Secretary,Retail,Affluent Customer,Yes
+2017,Male,25.0,67,Programmer II,Financial Services,Affluent Customer,Yes
+2018,Male,57.0,80,Senior Developer,Financial Services,Affluent Customer,No
+2019,Female,66.0,48,VP Marketing,Entertainment,High Net Worth,No
+2020,Female,49.0,50,Biostatistician IV,Property,Affluent Customer,Yes
+2024,Female,19.0,69,VP Sales,IT,Mass Customer,Yes
+2026,Female,32.0,62,Structural Engineer,Property,Mass Customer,Yes
+2028,Female,43.0,25,Director of Sales,Retail,Affluent Customer,Yes
+2029,Male,28.0,10,Nurse,Manufacturing,Mass Customer,No
+2030,Male,59.0,3,Administrative Officer,Property,High Net Worth,No
+2032,Male,36.0,98,Quality Control Specialist,Property,Mass Customer,Yes
+2033,Male,48.0,36,Dental Hygienist,Health,High Net Worth,No
+2034,Female,46.0,87,Speech Pathologist,Manufacturing,Mass Customer,No
+2037,Male,31.0,19,VP Marketing,IT,Mass Customer,No
+2038,Female,60.0,9,Structural Engineer,Financial Services,Mass Customer,Yes
+2039,Female,42.0,38,Senior Developer,IT,High Net Worth,Yes
+2040,Male,50.0,25,VP Sales,Retail,Affluent Customer,Yes
+2041,Male,62.0,52,VP Accounting,Financial Services,Mass Customer,No
+2042,Male,51.0,65,Registered Nurse,Health,Mass Customer,No
+2044,Female,21.0,84,Quality Engineer,Health,Mass Customer,Yes
+2045,Female,35.0,15,VP Sales,Financial Services,High Net Worth,No
+2047,Female,45.0,45,Paralegal,Financial Services,Affluent Customer,Yes
+2048,Female,60.0,22,Financial Advisor,Financial Services,High Net Worth,No
+2049,Male,58.0,21,Assistant Professor,Manufacturing,High Net Worth,No
+2051,Female,60.0,8,Geological Engineer,Manufacturing,Affluent Customer,No
+2055,Male,39.0,46,Administrative Assistant III,Retail,High Net Worth,No
+2056,Female,34.0,65,Biostatistician IV,Property,High Net Worth,No
+2057,Female,60.0,99,Accounting Assistant IV,Manufacturing,Affluent Customer,Yes
+2058,Female,42.0,99,Database Administrator I,Argiculture,High Net Worth,No
+2060,Female,61.0,17,Statistician II,Financial Services,Mass Customer,No
+2062,Male,43.0,67,Junior Executive,Retail,Mass Customer,No
+2063,Male,56.0,55,Clinical Specialist,Health,Affluent Customer,No
+2064,Male,51.0,99,VP Marketing,Health,Mass Customer,Yes
+2065,Male,42.0,66,Technical Writer,Retail,Mass Customer,Yes
+2066,Male,50.0,91,Food Chemist,Health,High Net Worth,Yes
+2067,Male,41.0,81,Registered Nurse,Health,Mass Customer,No
+2072,Female,60.0,30,Environmental Specialist,Financial Services,Mass Customer,Yes
+2075,Female,47.0,95,Environmental Tech,Manufacturing,Mass Customer,No
+2076,Female,51.0,73,Assistant Manager,Manufacturing,Mass Customer,Yes
+2077,Female,28.0,67,Cost Accountant,Financial Services,Mass Customer,Yes
+2078,Female,30.0,15,Computer Systems Analyst III,Manufacturing,Mass Customer,No
+2081,Female,47.0,69,Senior Editor,Financial Services,Mass Customer,No
+2082,Female,40.0,38,Legal Assistant,Health,Affluent Customer,Yes
+2085,Female,64.0,83,Pharmacist,Health,Mass Customer,No
+2086,Male,23.0,68,Senior Cost Accountant,Financial Services,High Net Worth,No
+2087,Male,50.0,76,Administrative Officer,IT,Mass Customer,Yes
+2088,Male,50.0,2,Senior Financial Analyst,Financial Services,Mass Customer,Yes
+2089,Male,62.0,93,Safety Technician I,Financial Services,High Net Worth,No
+2090,Male,55.0,63,Help Desk Technician,Financial Services,Mass Customer,Yes
+2091,Female,39.0,27,Office Assistant II,Argiculture,Mass Customer,No
+2092,Male,42.0,14,Safety Technician IV,Manufacturing,High Net Worth,No
+2093,Male,20.0,94,Programmer II,Financial Services,High Net Worth,No
+2095,Female,30.0,69,Account Executive,Manufacturing,Affluent Customer,No
+2096,Female,51.0,74,Programmer III,Telecommunications,High Net Worth,Yes
+2097,Male,32.0,38,Recruiter,Telecommunications,Mass Customer,No
+2098,Female,50.0,82,Dental Hygienist,Health,High Net Worth,No
+2099,Male,60.0,40,Senior Cost Accountant,Financial Services,High Net Worth,Yes
+2103,Male,44.0,94,Business Systems Development Analyst,Financial Services,Affluent Customer,No
+2104,Female,41.0,31,Structural Analysis Engineer,Financial Services,Mass Customer,No
+2105,Male,48.0,29,Food Chemist,Health,High Net Worth,Yes
+2106,Male,50.0,91,Project Manager,Financial Services,High Net Worth,Yes
+2107,Female,27.0,2,Biostatistician IV,IT,Affluent Customer,Yes
+2108,Female,34.0,41,Software Test Engineer IV,Property,Mass Customer,Yes
+2109,Female,55.0,14,Account Representative II,Health,High Net Worth,Yes
+2110,Male,46.0,29,Human Resources Assistant III,Manufacturing,High Net Worth,No
+2111,Male,46.0,98,Speech Pathologist,Property,Affluent Customer,Yes
+2112,Female,27.0,64,Accounting Assistant I,Financial Services,Mass Customer,Yes
+2113,Female,48.0,91,Internal Auditor,Manufacturing,Affluent Customer,No
+2114,Male,65.0,78,Safety Technician III,Argiculture,High Net Worth,No
+2115,Male,44.0,17,Food Chemist,Health,Mass Customer,Yes
+2116,Male,41.0,81,Research Associate,Financial Services,Affluent Customer,Yes
+2117,Male,24.0,76,Computer Systems Analyst I,Health,Affluent Customer,No
+2119,Female,35.0,51,Senior Cost Accountant,Financial Services,Mass Customer,No
+2120,Male,23.0,80,Web Designer III,Manufacturing,Mass Customer,No
+2121,Female,31.0,35,Nurse,Financial Services,Mass Customer,Yes
+2123,Female,27.0,36,Software Engineer II,Manufacturing,Affluent Customer,No
+2125,Female,45.0,9,VP Quality Control,Financial Services,High Net Worth,No
+2126,Male,62.0,65,Product Engineer,Health,Mass Customer,Yes
+2127,Female,46.0,66,Web Designer I,Manufacturing,Mass Customer,No
+2128,Male,43.0,31,Data Coordiator,Property,Affluent Customer,Yes
+2129,Male,39.0,26,Electrical Engineer,Manufacturing,High Net Worth,No
+2130,Female,30.0,95,Structural Engineer,Property,High Net Worth,Yes
+2132,Female,35.0,16,Human Resources Manager,Financial Services,High Net Worth,Yes
+2133,Female,22.0,44,General Manager,Financial Services,High Net Worth,No
+2134,Male,20.0,16,Nurse,Manufacturing,Affluent Customer,No
+2136,Female,54.0,21,Office Assistant I,Health,High Net Worth,Yes
+2138,Female,41.0,23,Graphic Designer,Manufacturing,High Net Worth,No
+2139,Female,38.0,87,Accountant II,IT,Affluent Customer,Yes
+2140,Male,43.0,59,Help Desk Operator,Telecommunications,High Net Worth,No
+2141,Female,55.0,50,Programmer I,Financial Services,High Net Worth,Yes
+2144,Female,42.0,12,Office Assistant IV,Property,Mass Customer,Yes
+2145,Female,60.0,44,Librarian,Entertainment,Affluent Customer,Yes
+2148,Female,31.0,78,Engineer I,Manufacturing,Mass Customer,Yes
+2152,Female,51.0,40,Database Administrator III,Manufacturing,Mass Customer,Yes
+2154,Female,40.0,86,Chemical Engineer,Manufacturing,High Net Worth,No
+2156,Male,43.0,96,Desktop Support Technician,Retail,Mass Customer,Yes
+2157,Female,42.0,52,Community Outreach Specialist,Property,Mass Customer,No
+2158,Male,59.0,11,Physical Therapy Assistant,Entertainment,Mass Customer,No
+2160,Female,48.0,64,Recruiter,Health,Mass Customer,Yes
+2162,Male,46.0,49,Paralegal,Financial Services,High Net Worth,Yes
+2164,Female,46.0,12,Financial Analyst,Financial Services,Mass Customer,Yes
+2166,Female,35.0,78,Nurse,Property,Mass Customer,No
+2168,Male,45.0,83,VP Accounting,Financial Services,Mass Customer,Yes
+2169,Male,41.0,80,Senior Financial Analyst,Financial Services,Mass Customer,No
+2170,Male,57.0,27,Geological Engineer,Manufacturing,Affluent Customer,No
+2171,Female,50.0,21,Pharmacist,Health,High Net Worth,No
+2172,Male,41.0,6,Information Systems Manager,Health,Affluent Customer,Yes
+2173,Female,43.0,27,Help Desk Technician,IT,Mass Customer,Yes
+2174,Male,57.0,32,Account Executive,Argiculture,High Net Worth,No
+2175,Male,34.0,23,Web Developer III,Health,Mass Customer,No
+2176,Female,57.0,79,Accountant II,Property,High Net Worth,Yes
+2177,Male,42.0,35,Social Worker,Health,Mass Customer,No
+2178,Female,66.0,20,Mechanical Systems Engineer,Retail,Mass Customer,No
+2181,Male,45.0,99,Account Executive,IT,Mass Customer,Yes
+2182,Male,53.0,47,Assistant Media Planner,Entertainment,High Net Worth,Yes
+2183,Female,48.0,61,Programmer Analyst IV,Manufacturing,Mass Customer,Yes
+2184,Male,48.0,49,Statistician III,Health,Mass Customer,No
+2185,Female,56.0,40,Human Resources Assistant II,Property,Mass Customer,No
+2186,Female,57.0,61,Clinical Specialist,Health,High Net Worth,No
+2187,Female,22.0,52,Budget/Accounting Analyst I,Health,Mass Customer,No
+2194,Female,61.0,79,Electrical Engineer,Manufacturing,Affluent Customer,Yes
+2195,Female,33.0,94,GIS Technical Architect,Financial Services,Affluent Customer,Yes
+2196,Male,43.0,66,Media Manager I,Retail,High Net Worth,Yes
+2197,Male,26.0,32,Programmer Analyst I,Financial Services,Mass Customer,No
+2198,Male,22.0,1,Editor,Property,Affluent Customer,Yes
+2199,Female,37.0,89,Account Coordinator,Property,High Net Worth,Yes
+2202,Female,42.0,46,Physical Therapy Assistant,Financial Services,Affluent Customer,Yes
+2203,Male,21.0,13,Sales Associate,Health,High Net Worth,Yes
+2204,Female,52.0,16,Librarian,Entertainment,High Net Worth,No
+2206,Male,63.0,60,Structural Engineer,Financial Services,Affluent Customer,No
+2207,Female,41.0,93,Web Designer IV,Manufacturing,Mass Customer,Yes
+2209,Male,26.0,4,Registered Nurse,Health,Affluent Customer,Yes
+2210,Male,34.0,16,Registered Nurse,Health,High Net Worth,No
+2212,Female,46.0,22,Technical Writer,Manufacturing,Affluent Customer,Yes
+2216,Female,58.0,29,Systems Administrator II,Property,High Net Worth,Yes
+2218,Female,28.0,94,Senior Sales Associate,Health,Affluent Customer,No
+2220,Male,61.0,35,Legal Assistant,Financial Services,Mass Customer,Yes
+2221,Male,24.0,80,General Manager,Argiculture,Affluent Customer,No
+2224,Female,21.0,3,Budget/Accounting Analyst III,Retail,High Net Worth,Yes
+2225,Female,32.0,45,Occupational Therapist,Health,Affluent Customer,No
+2227,Male,43.0,45,Systems Administrator I,Property,Affluent Customer,Yes
+2228,Female,64.0,12,Geological Engineer,Manufacturing,High Net Worth,No
+2229,Female,61.0,76,Cost Accountant,Financial Services,Affluent Customer,Yes
+2234,Male,33.0,48,Electrical Engineer,Manufacturing,Mass Customer,No
+2235,Female,40.0,75,Social Worker,Health,Affluent Customer,No
+2236,Male,52.0,0,Data Coordiator,Manufacturing,Affluent Customer,Yes
+2238,Female,41.0,96,Director of Sales,Retail,Mass Customer,Yes
+2239,Female,60.0,0,Associate Professor,Property,High Net Worth,Yes
+2240,Male,50.0,4,Automation Specialist III,Manufacturing,High Net Worth,Yes
+2241,Male,45.0,45,Paralegal,Financial Services,High Net Worth,No
+2244,Male,48.0,97,Software Test Engineer III,Manufacturing,Mass Customer,No
+2245,Female,40.0,11,Marketing Manager,Argiculture,Mass Customer,No
+2247,Female,25.0,17,Teacher,Retail,High Net Worth,Yes
+2248,Female,24.0,33,Software Engineer I,Manufacturing,Mass Customer,No
+2253,Female,61.0,28,Office Assistant I,Manufacturing,Affluent Customer,Yes
+2254,Female,64.0,36,Programmer Analyst II,Health,Affluent Customer,No
+2255,Male,27.0,92,Dental Hygienist,Health,Affluent Customer,Yes
+2256,Female,42.0,28,Marketing Manager,Retail,Mass Customer,No
+2257,Male,42.0,27,Librarian,Entertainment,Mass Customer,No
+2258,Female,46.0,63,Account Executive,Retail,High Net Worth,No
+2260,Male,53.0,38,Administrative Assistant IV,Argiculture,High Net Worth,No
+2261,Male,39.0,81,Account Representative II,Health,Mass Customer,Yes
+2262,Female,36.0,90,Pharmacist,Health,Mass Customer,Yes
+2263,Female,33.0,79,Professor,Argiculture,Mass Customer,Yes
+2264,Female,47.0,18,Occupational Therapist,Health,Affluent Customer,No
+2268,Female,54.0,66,Pharmacist,Health,Mass Customer,No
+2270,Male,53.0,50,Information Systems Manager,Retail,Affluent Customer,No
+2272,Female,25.0,82,Internal Auditor,Manufacturing,Mass Customer,No
+2275,Female,27.0,77,Human Resources Assistant II,Financial Services,High Net Worth,Yes
+2277,Female,56.0,44,Cost Accountant,Financial Services,High Net Worth,Yes
+2278,Male,42.0,11,Product Engineer,Health,Affluent Customer,Yes
+2279,Male,41.0,42,Human Resources Assistant II,Health,Mass Customer,No
+2282,Male,63.0,81,Senior Financial Analyst,Financial Services,Affluent Customer,Yes
+2284,Female,46.0,83,Staff Accountant IV,Telecommunications,High Net Worth,No
+2285,Female,46.0,71,Quality Control Specialist,Health,High Net Worth,No
+2286,Female,25.0,20,Staff Scientist,Manufacturing,High Net Worth,No
+2287,Female,46.0,53,Human Resources Assistant I,Telecommunications,High Net Worth,No
+2288,Male,56.0,63,Staff Scientist,Manufacturing,High Net Worth,No
+2289,Female,39.0,97,Research Nurse,Health,Affluent Customer,Yes
+2290,Male,39.0,18,Account Executive,Manufacturing,Mass Customer,Yes
+2291,Male,49.0,67,Accountant IV,Manufacturing,Affluent Customer,Yes
+2292,Female,22.0,17,Research Nurse,Health,Mass Customer,Yes
+2293,Female,62.0,70,Financial Advisor,Financial Services,Affluent Customer,No
+2294,Male,32.0,25,Associate Professor,Manufacturing,Mass Customer,No
+2296,Female,18.0,16,Geologist IV,Retail,Affluent Customer,No
+2297,Female,48.0,16,Geological Engineer,Manufacturing,Affluent Customer,Yes
+2298,Male,22.0,64,Environmental Tech,Property,Mass Customer,Yes
+2299,Male,33.0,11,Computer Systems Analyst I,Property,High Net Worth,Yes
+2301,Male,53.0,66,Senior Cost Accountant,Financial Services,Mass Customer,Yes
+2303,Male,27.0,22,Database Administrator IV,Retail,Mass Customer,Yes
+2305,Female,35.0,91,Chief Design Engineer,Financial Services,Affluent Customer,Yes
+2306,Female,60.0,98,Paralegal,Financial Services,High Net Worth,Yes
+2307,Female,41.0,57,Desktop Support Technician,Retail,High Net Worth,Yes
+2308,Female,57.0,52,Paralegal,Financial Services,Mass Customer,Yes
+2309,Male,35.0,40,Accounting Assistant I,Manufacturing,Affluent Customer,No
+2312,Female,40.0,72,Assistant Manager,Manufacturing,Mass Customer,No
+2313,Female,53.0,54,Chemical Engineer,Manufacturing,Mass Customer,No
+2314,Male,26.0,59,Registered Nurse,Health,High Net Worth,Yes
+2315,Male,26.0,25,Community Outreach Specialist,Financial Services,Affluent Customer,No
+2316,Male,42.0,79,Computer Systems Analyst IV,Financial Services,Affluent Customer,Yes
+2317,Male,43.0,97,Tax Accountant,Health,Mass Customer,Yes
+2318,Female,32.0,30,Automation Specialist I,Manufacturing,Mass Customer,Yes
+2319,Male,35.0,63,Librarian,Entertainment,High Net Worth,No
+2320,Female,54.0,14,Senior Developer,Manufacturing,Affluent Customer,No
+2321,Female,40.0,27,Nuclear Power Engineer,Manufacturing,Mass Customer,Yes
+2322,Male,28.0,72,Biostatistician III,Health,Mass Customer,Yes
+2323,Male,32.0,2,Desktop Support Technician,Property,High Net Worth,No
+2324,Male,53.0,44,Sales Associate,Manufacturing,Mass Customer,Yes
+2325,Male,56.0,50,Database Administrator IV,Retail,High Net Worth,Yes
+2326,Male,53.0,64,Programmer Analyst I,Retail,High Net Worth,No
+2328,Male,34.0,63,Dental Hygienist,Health,Mass Customer,Yes
+2329,Female,62.0,7,Computer Systems Analyst II,IT,Affluent Customer,No
+2330,Female,30.0,5,Account Coordinator,Property,Mass Customer,No
+2331,Female,57.0,48,Database Administrator III,Financial Services,Mass Customer,Yes
+2332,Male,43.0,99,Developer III,Property,High Net Worth,Yes
+2333,Male,54.0,82,Structural Analysis Engineer,Financial Services,Mass Customer,Yes
+2334,Male,24.0,30,Food Chemist,Health,Affluent Customer,No
+2336,Male,42.0,59,Dental Hygienist,Health,Affluent Customer,No
+2337,Female,20.0,47,Programmer Analyst II,Health,Mass Customer,No
+2338,Female,33.0,13,Programmer Analyst IV,Manufacturing,Mass Customer,No
+2339,Male,61.0,3,Web Designer II,Property,Affluent Customer,Yes
+2340,Male,42.0,33,Research Assistant IV,Health,Mass Customer,Yes
+2343,Male,61.0,6,Nurse Practicioner,Argiculture,High Net Worth,Yes
+2344,Male,27.0,93,Nurse,Financial Services,Mass Customer,Yes
+2345,Female,33.0,50,Systems Administrator I,Retail,Affluent Customer,Yes
+2348,Female,62.0,2,Web Designer IV,Manufacturing,Mass Customer,No
+2349,Female,41.0,23,Executive Secretary,Telecommunications,High Net Worth,No
+2351,Female,28.0,35,Assistant Professor,Retail,Affluent Customer,Yes
+2353,Male,41.0,93,Health Coach IV,Health,Affluent Customer,Yes
+2354,Female,61.0,99,Product Engineer,Retail,Mass Customer,No
+2356,Female,25.0,58,Geological Engineer,Manufacturing,Affluent Customer,No
+2357,Female,57.0,39,Civil Engineer,Manufacturing,Mass Customer,No
+2358,Male,61.0,26,Senior Sales Associate,Retail,High Net Worth,Yes
+2359,Female,34.0,80,Mechanical Systems Engineer,Property,High Net Worth,Yes
+2360,Female,45.0,0,VP Accounting,Financial Services,High Net Worth,Yes
+2362,Male,48.0,49,Developer II,Financial Services,Affluent Customer,Yes
+2363,Male,36.0,92,Nurse,Entertainment,Mass Customer,Yes
+2365,Female,21.0,2,Structural Analysis Engineer,Argiculture,Mass Customer,Yes
+2366,Female,44.0,51,Web Designer I,Health,Mass Customer,Yes
+2367,Male,63.0,40,Electrical Engineer,Manufacturing,Mass Customer,Yes
+2368,Female,27.0,98,Chemical Engineer,Manufacturing,Mass Customer,No
+2369,Female,23.0,80,Financial Analyst,Financial Services,Mass Customer,Yes
+2370,Female,24.0,35,Analyst Programmer,Property,High Net Worth,No
+2371,Female,53.0,22,Staff Scientist,Manufacturing,High Net Worth,Yes
+2372,Male,42.0,14,Clinical Specialist,Health,Affluent Customer,No
+2373,Female,38.0,51,Structural Engineer,Manufacturing,High Net Worth,Yes
+2374,Male,26.0,6,Design Engineer,Financial Services,Mass Customer,No
+2375,Female,33.0,21,Sales Representative,Retail,Affluent Customer,No
+2377,Female,21.0,29,Analog Circuit Design manager,IT,High Net Worth,No
+2379,Female,39.0,85,Occupational Therapist,Health,Affluent Customer,Yes
+2380,Female,64.0,44,Technical Writer,Retail,Mass Customer,Yes
+2381,Female,47.0,91,Programmer I,Argiculture,Affluent Customer,Yes
+2382,Male,48.0,79,Accounting Assistant III,Retail,Mass Customer,Yes
+2383,Female,41.0,34,Compensation Analyst,Financial Services,Mass Customer,No
+2384,Male,58.0,96,Operator,Health,High Net Worth,Yes
+2385,Male,61.0,70,Dental Hygienist,Health,Mass Customer,No
+2386,Female,22.0,93,Compensation Analyst,Financial Services,Mass Customer,No
+2388,Male,23.0,84,Cost Accountant,Financial Services,Mass Customer,No
+2389,Male,46.0,18,Desktop Support Technician,Retail,High Net Worth,No
+2390,Female,56.0,48,Legal Assistant,Property,Mass Customer,No
+2391,Female,59.0,72,Nurse Practicioner,Health,Mass Customer,No
+2392,Female,19.0,48,Marketing Assistant,Manufacturing,Affluent Customer,No
+2393,Female,38.0,68,Registered Nurse,Health,High Net Worth,Yes
+2396,Female,46.0,40,Recruiter,Retail,Affluent Customer,Yes
+2397,Male,34.0,33,Analyst Programmer,Retail,Affluent Customer,Yes
+2400,Male,42.0,73,Office Assistant III,Property,Mass Customer,Yes
+2402,Female,62.0,99,Cost Accountant,Financial Services,Mass Customer,Yes
+2403,Female,42.0,41,Technical Writer,Financial Services,Affluent Customer,No
+2404,Male,60.0,13,Graphic Designer,Retail,Mass Customer,No
+2410,Female,45.0,75,Geological Engineer,Manufacturing,Mass Customer,Yes
+2412,Female,39.0,77,Chemical Engineer,Manufacturing,Affluent Customer,No
+2413,Male,76.0,27,Environmental Specialist,Manufacturing,High Net Worth,Yes
+2415,Male,41.0,56,Web Designer II,Manufacturing,Mass Customer,No
+2416,Male,60.0,19,Office Assistant I,Health,Affluent Customer,No
+2418,Female,50.0,82,Software Engineer III,Property,Mass Customer,Yes
+2419,Male,41.0,96,Physical Therapy Assistant,Property,High Net Worth,No
+2420,Female,43.0,10,Staff Scientist,Financial Services,High Net Worth,No
+2421,Female,65.0,54,Research Nurse,Health,Affluent Customer,Yes
+2422,Female,41.0,96,Librarian,Entertainment,High Net Worth,No
+2423,Male,39.0,49,Professor,IT,Mass Customer,Yes
+2429,Female,39.0,54,Assistant Professor,Manufacturing,Mass Customer,Yes
+2431,Male,20.0,15,Senior Cost Accountant,Financial Services,Mass Customer,Yes
+2432,Female,39.0,67,Nuclear Power Engineer,Manufacturing,Affluent Customer,Yes
+2435,Female,58.0,69,Account Coordinator,Manufacturing,Mass Customer,No
+2436,Male,34.0,37,Help Desk Technician,IT,Mass Customer,No
+2437,Female,43.0,90,Marketing Manager,Financial Services,Mass Customer,Yes
+2438,Female,37.0,76,Speech Pathologist,Manufacturing,Mass Customer,Yes
+2440,Female,60.0,17,Engineer II,Manufacturing,Affluent Customer,No
+2442,Male,62.0,8,Social Worker,Health,Affluent Customer,Yes
+2443,Male,30.0,30,Computer Systems Analyst I,Property,High Net Worth,No
+2444,Male,43.0,22,Associate Professor,Manufacturing,High Net Worth,No
+2445,Male,44.0,46,Quality Control Specialist,Retail,Affluent Customer,No
+2448,Female,27.0,5,Structural Analysis Engineer,Property,High Net Worth,No
+2450,Male,45.0,64,Structural Engineer,Retail,Affluent Customer,Yes
+2451,Male,47.0,33,Editor,Argiculture,Affluent Customer,Yes
+2452,Female,44.0,93,Chemical Engineer,Manufacturing,Mass Customer,Yes
+2453,Female,27.0,22,Safety Technician II,Telecommunications,High Net Worth,No
+2454,Female,60.0,81,Senior Sales Associate,Property,Mass Customer,Yes
+2457,Male,45.0,70,Developer IV,IT,High Net Worth,Yes
+2458,Female,56.0,73,Media Manager II,Manufacturing,High Net Worth,Yes
+2460,Male,44.0,88,Nurse Practicioner,Manufacturing,High Net Worth,Yes
+2462,Male,39.0,17,Assistant Media Planner,Entertainment,Affluent Customer,No
+2463,Female,42.0,54,Pharmacist,Health,Mass Customer,No
+2464,Male,37.0,78,Speech Pathologist,Retail,Mass Customer,No
+2466,Male,39.0,62,Software Test Engineer IV,Entertainment,High Net Worth,No
+2467,Female,44.0,71,Engineer III,Manufacturing,Affluent Customer,Yes
+2468,Male,24.0,51,Marketing Assistant,Retail,High Net Worth,No
+2471,Male,41.0,55,Geological Engineer,Manufacturing,Mass Customer,Yes
+2472,Male,31.0,99,Product Engineer,Health,High Net Worth,Yes
+2474,Female,39.0,59,Executive Secretary,Argiculture,High Net Worth,Yes
+2476,Male,63.0,13,Administrative Officer,Property,High Net Worth,No
+2477,Male,43.0,25,Electrical Engineer,Manufacturing,Affluent Customer,Yes
+2478,Male,53.0,85,Senior Cost Accountant,Financial Services,Affluent Customer,Yes
+2479,Female,23.0,81,Community Outreach Specialist,Retail,Mass Customer,No
+2481,Female,41.0,71,Chief Design Engineer,Manufacturing,Mass Customer,Yes
+2482,Male,66.0,95,Pharmacist,Health,Mass Customer,Yes
+2484,Female,40.0,77,Senior Quality Engineer,Property,Mass Customer,Yes
+2486,Female,66.0,77,Structural Engineer,Manufacturing,Mass Customer,Yes
+2487,Male,42.0,92,Operator,IT,Affluent Customer,Yes
+2488,Female,31.0,32,Senior Financial Analyst,Financial Services,Mass Customer,Yes
+2489,Female,43.0,42,Speech Pathologist,Retail,Mass Customer,No
+2491,Male,43.0,74,Clinical Specialist,Health,Mass Customer,No
+2492,Male,46.0,35,Design Engineer,Manufacturing,High Net Worth,No
+2493,Male,38.0,56,Assistant Media Planner,Entertainment,Mass Customer,Yes
+2494,Female,45.0,98,Senior Sales Associate,Manufacturing,High Net Worth,No
+2495,Female,66.0,89,Assistant Professor,IT,Affluent Customer,No
+2496,Male,39.0,29,Web Developer II,Manufacturing,Mass Customer,Yes
+2497,Male,51.0,33,Administrative Assistant IV,Property,Affluent Customer,No
+2498,Female,42.0,70,Software Test Engineer III,Retail,High Net Worth,No
+2499,Female,46.0,77,Account Representative I,Retail,Mass Customer,No
+2500,Female,62.0,35,Senior Developer,Property,High Net Worth,Yes
+2501,Female,48.0,80,Actuary,Financial Services,Mass Customer,Yes
+2502,Female,55.0,6,Structural Engineer,Manufacturing,Mass Customer,Yes
+2503,Male,52.0,80,Budget/Accounting Analyst I,Health,Affluent Customer,Yes
+2505,Female,39.0,45,VP Marketing,Financial Services,High Net Worth,No
+2507,Female,33.0,77,Biostatistician III,Health,Affluent Customer,Yes
+2509,Male,48.0,99,Help Desk Technician,Financial Services,Mass Customer,No
+2510,Male,47.0,43,Human Resources Manager,Manufacturing,Mass Customer,Yes
+2511,Male,28.0,20,Technical Writer,Financial Services,Mass Customer,Yes
+2513,Male,41.0,55,Structural Analysis Engineer,Property,Mass Customer,No
+2514,Male,44.0,25,Senior Financial Analyst,Financial Services,High Net Worth,Yes
+2516,Female,53.0,42,Registered Nurse,Health,Mass Customer,No
+2517,Female,41.0,1,Research Nurse,Health,Mass Customer,Yes
+2519,Male,40.0,76,Senior Developer,Manufacturing,Mass Customer,Yes
+2520,Male,46.0,71,Accountant III,Retail,Affluent Customer,Yes
+2521,Female,20.0,35,Chemical Engineer,Manufacturing,High Net Worth,Yes
+2523,Female,58.0,28,VP Marketing,Financial Services,Mass Customer,Yes
+2524,Male,51.0,84,Help Desk Technician,Retail,Mass Customer,Yes
+2525,Male,27.0,25,Cost Accountant,Financial Services,Mass Customer,No
+2526,Male,51.0,89,Software Test Engineer II,Manufacturing,Mass Customer,No
+2529,Male,66.0,81,Quality Engineer,Manufacturing,High Net Worth,Yes
+2530,Female,59.0,63,Business Systems Development Analyst,Property,Mass Customer,Yes
+2531,Male,38.0,48,Teacher,Property,High Net Worth,Yes
+2533,Male,26.0,11,Speech Pathologist,Health,Affluent Customer,Yes
+2534,Female,54.0,70,Research Associate,Manufacturing,Affluent Customer,Yes
+2535,Male,38.0,53,Accountant III,Financial Services,Affluent Customer,No
+2536,Female,55.0,71,Associate Professor,Health,Mass Customer,Yes
+2539,Male,53.0,68,Nuclear Power Engineer,Manufacturing,Affluent Customer,Yes
+2541,Male,20.0,17,Software Engineer II,Financial Services,High Net Worth,Yes
+2542,Female,54.0,43,Accounting Assistant I,Property,Affluent Customer,Yes
+2544,Male,32.0,73,VP Marketing,Manufacturing,Mass Customer,Yes
+2545,Female,42.0,33,Tax Accountant,Manufacturing,Mass Customer,Yes
+2546,Female,40.0,45,Assistant Professor,Manufacturing,High Net Worth,No
+2549,Male,21.0,12,Pharmacist,Health,Mass Customer,Yes
+2550,Male,22.0,34,Pharmacist,Health,Mass Customer,Yes
+2555,Male,43.0,43,Health Coach IV,Health,Affluent Customer,No
+2559,Female,50.0,7,Assistant Media Planner,Entertainment,High Net Worth,No
+2562,Male,39.0,98,Internal Auditor,Retail,Mass Customer,No
+2564,Female,44.0,18,Engineer III,Health,Mass Customer,No
+2565,Female,50.0,62,Junior Executive,Health,Affluent Customer,Yes
+2566,Female,23.0,48,Accountant II,Entertainment,Affluent Customer,Yes
+2567,Male,45.0,97,Systems Administrator IV,Financial Services,Mass Customer,No
+2568,Female,37.0,42,Staff Scientist,Manufacturing,Mass Customer,No
+2569,Male,35.0,62,VP Quality Control,Retail,Mass Customer,No
+2570,Male,42.0,13,Professor,Financial Services,Mass Customer,Yes
+2571,Male,33.0,97,Internal Auditor,Health,Affluent Customer,Yes
+2572,Female,39.0,30,Engineer III,Financial Services,Mass Customer,No
+2575,Male,45.0,87,Business Systems Development Analyst,Financial Services,High Net Worth,Yes
+2576,Female,61.0,15,Associate Professor,Manufacturing,Mass Customer,No
+2578,Male,29.0,49,Tax Accountant,Retail,High Net Worth,No
+2579,Female,49.0,35,Desktop Support Technician,Manufacturing,Mass Customer,No
+2582,Male,42.0,98,Director of Sales,Health,Mass Customer,No
+2583,Female,56.0,34,Human Resources Assistant I,Property,Mass Customer,No
+2586,Male,40.0,10,Tax Accountant,Financial Services,Mass Customer,Yes
+2590,Female,55.0,48,General Manager,Financial Services,Affluent Customer,Yes
+2592,Male,24.0,84,Help Desk Operator,Financial Services,Mass Customer,Yes
+2593,Female,46.0,69,Nuclear Power Engineer,Manufacturing,Affluent Customer,No
+2597,Female,39.0,58,Civil Engineer,Manufacturing,High Net Worth,Yes
+2598,Male,40.0,23,Senior Developer,Manufacturing,Affluent Customer,No
+2599,Female,66.0,9,VP Marketing,Manufacturing,Mass Customer,No
+2600,Male,19.0,55,Senior Financial Analyst,Financial Services,Mass Customer,Yes
+2601,Female,45.0,48,Software Engineer III,Financial Services,Affluent Customer,No
+2602,Female,43.0,46,Structural Analysis Engineer,Health,Mass Customer,No
+2603,Female,58.0,44,Nurse,Financial Services,High Net Worth,No
+2604,Male,45.0,91,Account Executive,Retail,Mass Customer,Yes
+2605,Male,55.0,50,Marketing Manager,Health,High Net Worth,Yes
+2606,Female,41.0,56,Electrical Engineer,Manufacturing,High Net Worth,No
+2607,Male,28.0,90,Registered Nurse,Health,Affluent Customer,Yes
+2608,Female,44.0,44,Budget/Accounting Analyst III,Health,Affluent Customer,Yes
+2609,Female,55.0,17,Compensation Analyst,Financial Services,Mass Customer,Yes
+2610,Female,66.0,41,Account Coordinator,IT,Mass Customer,No
+2611,Female,29.0,36,Tax Accountant,Financial Services,Affluent Customer,No
+2612,Male,51.0,33,Statistician I,Retail,Affluent Customer,No
+2620,Male,21.0,26,Civil Engineer,Manufacturing,Mass Customer,No
+2621,Female,46.0,24,Assistant Media Planner,Entertainment,High Net Worth,No
+2622,Male,40.0,13,Staff Accountant I,Financial Services,Mass Customer,No
+2623,Male,37.0,42,Media Manager III,Property,Mass Customer,Yes
+2625,Female,48.0,45,Research Assistant I,Manufacturing,Affluent Customer,Yes
+2626,Male,21.0,42,Account Coordinator,Property,Affluent Customer,Yes
+2627,Female,48.0,7,Budget/Accounting Analyst II,Retail,Mass Customer,Yes
+2628,Male,19.0,29,Assistant Media Planner,Entertainment,Affluent Customer,No
+2629,Female,43.0,60,Engineer IV,Entertainment,High Net Worth,No
+2631,Male,25.0,4,Software Engineer I,Financial Services,Mass Customer,Yes
+2634,Male,39.0,85,Quality Engineer,Financial Services,High Net Worth,No
+2636,Female,46.0,35,Nuclear Power Engineer,Manufacturing,High Net Worth,Yes
+2637,Female,47.0,28,Help Desk Operator,Retail,Mass Customer,Yes
+2638,Male,43.0,1,Budget/Accounting Analyst III,IT,Mass Customer,Yes
+2639,Female,33.0,70,Geologist IV,Entertainment,Mass Customer,Yes
+2644,Male,42.0,72,VP Sales,IT,Mass Customer,No
+2645,Male,19.0,20,Technical Writer,IT,High Net Worth,Yes
+2646,Female,47.0,14,Sales Representative,Retail,Mass Customer,Yes
+2649,Male,34.0,7,Dental Hygienist,Health,Affluent Customer,Yes
+2650,Female,24.0,33,Business Systems Development Analyst,IT,Affluent Customer,Yes
+2651,Male,41.0,10,Nuclear Power Engineer,Manufacturing,Mass Customer,Yes
+2653,Male,25.0,80,Food Chemist,Health,Affluent Customer,No
+2655,Male,53.0,56,Nuclear Power Engineer,Manufacturing,Mass Customer,No
+2659,Female,45.0,81,Professor,Argiculture,High Net Worth,Yes
+2661,Female,43.0,59,VP Marketing,Financial Services,High Net Worth,Yes
+2662,Female,42.0,53,Accountant IV,Property,Mass Customer,Yes
+2663,Male,63.0,69,Environmental Tech,Health,Mass Customer,Yes
+2665,Male,55.0,43,Project Manager,Telecommunications,Mass Customer,Yes
+2666,Male,49.0,2,Occupational Therapist,Health,Mass Customer,No
+2667,Female,61.0,65,Product Engineer,Manufacturing,Affluent Customer,Yes
+2668,Male,41.0,27,Senior Quality Engineer,Health,Mass Customer,No
+2669,Male,25.0,95,Business Systems Development Analyst,Property,Affluent Customer,No
+2670,Male,43.0,53,VP Accounting,Financial Services,High Net Worth,Yes
+2672,Male,34.0,21,Clinical Specialist,Health,Affluent Customer,No
+2674,Female,27.0,59,Food Chemist,Health,High Net Worth,No
+2675,Female,47.0,24,Media Manager IV,Retail,Mass Customer,No
+2676,Male,63.0,33,Product Engineer,Retail,Mass Customer,Yes
+2678,Male,43.0,33,Sales Associate,Health,Mass Customer,No
+2679,Male,30.0,5,Director of Sales,Financial Services,High Net Worth,No
+2680,Female,61.0,0,Financial Analyst,Financial Services,Mass Customer,Yes
+2681,Female,45.0,78,Programmer Analyst III,Manufacturing,Affluent Customer,Yes
+2682,Female,32.0,54,Accountant III,Manufacturing,High Net Worth,Yes
+2684,Male,56.0,96,Health Coach IV,Health,Mass Customer,Yes
+2686,Male,24.0,63,Automation Specialist II,Financial Services,Affluent Customer,No
+2687,Male,58.0,67,Chemical Engineer,Manufacturing,High Net Worth,Yes
+2688,Male,43.0,53,Database Administrator III,Property,Mass Customer,No
+2690,Female,39.0,17,Registered Nurse,Health,Affluent Customer,Yes
+2691,Male,44.0,41,Librarian,Entertainment,Mass Customer,No
+2692,Female,31.0,57,Research Associate,Health,High Net Worth,Yes
+2693,Male,52.0,91,Research Assistant III,Health,High Net Worth,Yes
+2694,Female,34.0,48,Quality Engineer,Retail,Mass Customer,No
+2695,Female,43.0,88,Statistician II,Manufacturing,Mass Customer,Yes
+2698,Female,45.0,19,Administrative Officer,Health,High Net Worth,No
+2699,Male,42.0,93,Account Representative IV,Manufacturing,Affluent Customer,Yes
+2702,Female,43.0,34,Electrical Engineer,Manufacturing,Affluent Customer,Yes
+2704,Male,21.0,6,Account Representative IV,Retail,Affluent Customer,Yes
+2705,Female,23.0,11,Nuclear Power Engineer,Manufacturing,Mass Customer,No
+2706,Male,55.0,59,Desktop Support Technician,Retail,Affluent Customer,No
+2707,Male,31.0,56,Account Coordinator,Property,High Net Worth,Yes
+2711,Male,49.0,52,Biostatistician II,Health,Affluent Customer,No
+2712,Female,32.0,0,Tax Accountant,Manufacturing,High Net Worth,Yes
+2713,Male,65.0,55,Statistician II,Retail,Affluent Customer,Yes
+2714,Female,22.0,50,Occupational Therapist,Health,High Net Worth,Yes
+2715,Male,57.0,27,Civil Engineer,Manufacturing,Affluent Customer,No
+2717,Male,39.0,31,Registered Nurse,Health,Mass Customer,No
+2719,Male,31.0,69,Teacher,Telecommunications,Affluent Customer,Yes
+2720,Female,36.0,0,Account Coordinator,Retail,High Net Worth,No
+2723,Female,42.0,71,Associate Professor,Manufacturing,Mass Customer,Yes
+2724,Male,26.0,92,Mechanical Systems Engineer,Financial Services,Mass Customer,No
+2725,Female,54.0,20,Senior Quality Engineer,Property,Affluent Customer,No
+2726,Male,44.0,49,Administrative Officer,Financial Services,Affluent Customer,No
+2727,Female,31.0,88,Administrative Officer,Financial Services,High Net Worth,Yes
+2728,Female,61.0,55,Physical Therapy Assistant,IT,High Net Worth,No
+2730,Male,59.0,15,Senior Financial Analyst,Financial Services,Mass Customer,No
+2731,Female,20.0,74,Accounting Assistant III,Retail,Mass Customer,Yes
+2732,Female,59.0,36,Help Desk Operator,Health,Mass Customer,No
+2733,Female,35.0,89,Analog Circuit Design manager,Manufacturing,Mass Customer,Yes
+2735,Male,61.0,18,Associate Professor,Financial Services,High Net Worth,Yes
+2738,Female,23.0,77,Research Nurse,Health,Mass Customer,No
+2739,Male,34.0,48,Mechanical Systems Engineer,Health,High Net Worth,Yes
+2740,Female,57.0,61,Administrative Officer,Financial Services,Affluent Customer,Yes
+2741,Male,21.0,6,Statistician II,Property,High Net Worth,No
+2742,Male,41.0,50,Actuary,Financial Services,High Net Worth,Yes
+2743,Male,41.0,67,Social Worker,Health,High Net Worth,Yes
+2744,Male,21.0,59,Senior Financial Analyst,Financial Services,Mass Customer,No
+2745,Female,43.0,8,Chemical Engineer,Manufacturing,Mass Customer,Yes
+2746,Female,66.0,97,Actuary,Financial Services,High Net Worth,Yes
+2748,Female,52.0,96,Quality Engineer,Financial Services,Mass Customer,No
+2749,Male,41.0,3,Sales Representative,Retail,Mass Customer,No
+2751,Male,40.0,94,Sales Associate,Retail,High Net Worth,Yes
+2752,Female,60.0,11,Sales Representative,Retail,Affluent Customer,Yes
+2753,Male,35.0,26,Nuclear Power Engineer,Manufacturing,Mass Customer,Yes
+2755,Female,20.0,66,Automation Specialist I,Manufacturing,Mass Customer,Yes
+2759,Female,18.0,16,Operator,Health,Affluent Customer,Yes
+2760,Male,44.0,55,Teacher,Property,Mass Customer,No
+2763,Female,41.0,30,Actuary,Financial Services,Mass Customer,Yes
+2766,Female,31.0,93,Financial Advisor,Financial Services,High Net Worth,Yes
+2767,Female,32.0,84,Desktop Support Technician,Property,High Net Worth,No
+2768,Male,24.0,86,Executive Secretary,Manufacturing,Mass Customer,No
+2769,Male,41.0,31,Product Engineer,Manufacturing,Affluent Customer,Yes
+2770,Male,43.0,24,VP Quality Control,Manufacturing,High Net Worth,Yes
+2771,Female,50.0,6,Recruiting Manager,Retail,Affluent Customer,Yes
+2772,Male,65.0,15,Quality Engineer,Property,Affluent Customer,Yes
+2773,Male,44.0,69,Structural Engineer,Manufacturing,Mass Customer,Yes
+2777,Female,23.0,0,Safety Technician III,Health,Mass Customer,Yes
+2778,Male,41.0,50,Paralegal,Financial Services,Mass Customer,No
+2780,Male,34.0,77,Actuary,Financial Services,Affluent Customer,Yes
+2781,Female,22.0,4,VP Sales,Financial Services,Affluent Customer,Yes
+2782,Female,32.0,91,Tax Accountant,IT,Mass Customer,No
+2783,Male,41.0,14,Sales Representative,Retail,Affluent Customer,Yes
+2784,Male,30.0,6,Geological Engineer,Manufacturing,Mass Customer,No
+2785,Female,38.0,9,Human Resources Manager,Financial Services,Mass Customer,No
+2786,Male,52.0,94,Accountant III,Health,Mass Customer,Yes
+2788,Female,51.0,45,Social Worker,Health,Affluent Customer,No
+2789,Female,27.0,66,Senior Editor,Financial Services,Affluent Customer,Yes
+2790,Female,42.0,16,Account Representative IV,Retail,High Net Worth,Yes
+2791,Male,32.0,72,Financial Advisor,Financial Services,Mass Customer,No
+2792,Female,56.0,22,Web Developer I,Financial Services,Mass Customer,Yes
+2793,Male,48.0,77,Research Nurse,Health,Affluent Customer,Yes
+2794,Female,44.0,41,Social Worker,Health,Mass Customer,Yes
+2795,Female,54.0,9,Research Assistant III,Financial Services,Mass Customer,No
+2796,Female,42.0,52,Web Designer II,Manufacturing,Mass Customer,No
+2798,Male,55.0,59,Recruiter,Argiculture,High Net Worth,Yes
+2800,Female,32.0,29,Cost Accountant,Financial Services,Mass Customer,No
+2802,Female,23.0,36,Programmer Analyst I,Financial Services,Mass Customer,No
+2803,Female,49.0,95,Senior Editor,Retail,Mass Customer,Yes
+2807,Female,62.0,9,Senior Editor,Manufacturing,Mass Customer,Yes
+2808,Male,18.0,68,Actuary,Financial Services,Mass Customer,Yes
+2809,Female,50.0,44,Statistician IV,Retail,Mass Customer,No
+2811,Female,43.0,29,Internal Auditor,Property,Mass Customer,No
+2813,Female,66.0,51,Chemical Engineer,Manufacturing,Mass Customer,Yes
+2814,Male,34.0,42,Junior Executive,Property,High Net Worth,Yes
+2816,Female,30.0,87,Administrative Assistant II,Financial Services,Mass Customer,Yes
+2817,Female,33.0,33,Senior Financial Analyst,Financial Services,Affluent Customer,Yes
+2819,Male,42.0,63,Executive Secretary,Manufacturing,Affluent Customer,No
+2820,Male,41.0,44,Engineer I,Manufacturing,Affluent Customer,Yes
+2821,Male,35.0,13,Human Resources Assistant III,Property,Affluent Customer,No
+2823,Male,49.0,98,Budget/Accounting Analyst IV,Property,Mass Customer,No
+2824,Male,24.0,41,Assistant Media Planner,Entertainment,Affluent Customer,No
+2825,Female,49.0,28,Budget/Accounting Analyst IV,Manufacturing,Affluent Customer,Yes
+2829,Female,40.0,2,Electrical Engineer,Manufacturing,High Net Worth,No
+2830,Male,61.0,39,Computer Systems Analyst II,Manufacturing,High Net Worth,No
+2831,Female,52.0,16,Programmer Analyst I,Health,Mass Customer,Yes
+2832,Male,43.0,9,Recruiter,Telecommunications,Mass Customer,Yes
+2838,Female,43.0,14,Payment Adjustment Coordinator,Retail,High Net Worth,No
+2839,Female,42.0,12,Assistant Media Planner,Entertainment,Mass Customer,No
+2840,Male,27.0,63,Recruiter,Manufacturing,Mass Customer,Yes
+2843,Female,52.0,42,Recruiter,Financial Services,Affluent Customer,Yes
+2846,Female,49.0,66,Nurse,Property,Mass Customer,No
+2847,Female,44.0,50,Occupational Therapist,Health,Mass Customer,No
+2848,Female,53.0,42,Analyst Programmer,Property,Mass Customer,Yes
+2851,Male,44.0,36,Programmer IV,Entertainment,Affluent Customer,Yes
+2852,Female,48.0,20,Biostatistician I,Property,High Net Worth,Yes
+2853,Male,34.0,65,Executive Secretary,Retail,High Net Worth,Yes
+2855,Female,44.0,81,Nurse Practicioner,Manufacturing,Mass Customer,Yes
+2856,Female,43.0,53,Marketing Manager,Financial Services,Mass Customer,Yes
+2857,Female,63.0,9,Biostatistician I,Manufacturing,Mass Customer,Yes
+2861,Female,45.0,4,VP Quality Control,Financial Services,Mass Customer,Yes
+2862,Male,32.0,46,Cost Accountant,Financial Services,Mass Customer,No
+2863,Male,55.0,90,Internal Auditor,Manufacturing,Mass Customer,No
+2864,Female,45.0,36,Analog Circuit Design manager,IT,Mass Customer,No
+2865,Female,22.0,11,Electrical Engineer,Manufacturing,High Net Worth,No
+2868,Female,48.0,20,Technical Writer,Retail,High Net Worth,No
+2871,Male,42.0,49,Assistant Media Planner,Entertainment,High Net Worth,Yes
+2872,Female,46.0,52,Assistant Professor,Health,Affluent Customer,Yes
+2873,Female,38.0,59,Cost Accountant,Financial Services,Mass Customer,No
+2874,Female,42.0,97,Nuclear Power Engineer,Manufacturing,Affluent Customer,No
+2875,Male,21.0,71,Financial Analyst,Financial Services,High Net Worth,No
+2877,Male,52.0,59,Senior Sales Associate,Property,Affluent Customer,Yes
+2878,Male,34.0,73,Analog Circuit Design manager,Property,Mass Customer,Yes
+2879,Female,46.0,62,Executive Secretary,Argiculture,Mass Customer,Yes
+2880,Male,52.0,43,Legal Assistant,Health,Mass Customer,No
+2881,Male,57.0,71,Associate Professor,Health,Affluent Customer,Yes
+2882,Female,34.0,62,Chief Design Engineer,Manufacturing,Mass Customer,No
+2883,Male,25.0,84,Paralegal,Financial Services,Mass Customer,Yes
+2885,Female,50.0,70,Compensation Analyst,Financial Services,Mass Customer,Yes
+2887,Male,46.0,42,Speech Pathologist,Financial Services,High Net Worth,Yes
+2888,Male,58.0,37,Project Manager,IT,High Net Worth,Yes
+2891,Female,33.0,5,Nuclear Power Engineer,Manufacturing,High Net Worth,Yes
+2892,Male,55.0,59,Junior Executive,Manufacturing,Affluent Customer,Yes
+2895,Female,53.0,85,Librarian,Entertainment,Mass Customer,Yes
+2896,Female,50.0,5,Financial Advisor,Financial Services,Mass Customer,Yes
+2897,Female,58.0,94,Assistant Professor,Manufacturing,Affluent Customer,No
+2899,Female,30.0,13,Nuclear Power Engineer,Manufacturing,High Net Worth,No
+2902,Female,45.0,57,Human Resources Manager,Financial Services,Mass Customer,Yes
+2903,Male,42.0,47,Operator,Manufacturing,Affluent Customer,Yes
+2904,Female,42.0,26,Software Test Engineer III,Manufacturing,High Net Worth,Yes
+2906,Female,27.0,93,GIS Technical Architect,Retail,Mass Customer,Yes
+2908,Female,64.0,42,Social Worker,Health,Affluent Customer,Yes
+2909,Female,40.0,31,Associate Professor,Entertainment,High Net Worth,No
+2910,Female,57.0,15,Registered Nurse,Health,Mass Customer,Yes
+2911,Female,52.0,55,Assistant Media Planner,Entertainment,Mass Customer,No
+2913,Male,64.0,44,VP Quality Control,IT,Affluent Customer,Yes
+2914,Female,37.0,76,Health Coach IV,Health,Affluent Customer,Yes
+2915,Female,45.0,32,Budget/Accounting Analyst IV,Manufacturing,Mass Customer,No
+2916,Male,50.0,23,Product Engineer,Manufacturing,Affluent Customer,Yes
+2922,Male,38.0,34,Sales Associate,Manufacturing,Affluent Customer,Yes
+2924,Female,32.0,79,Assistant Media Planner,Entertainment,Mass Customer,Yes
+2925,Male,42.0,36,Business Systems Development Analyst,Financial Services,Affluent Customer,Yes
+2926,Female,57.0,27,Research Nurse,Health,High Net Worth,No
+2927,Male,59.0,49,VP Sales,Manufacturing,Affluent Customer,Yes
+2929,Male,20.0,97,Nurse,Retail,Mass Customer,No
+2930,Male,22.0,46,Assistant Media Planner,Entertainment,Mass Customer,No
+2931,Male,41.0,61,Executive Secretary,IT,Mass Customer,Yes
+2932,Male,35.0,4,Account Representative I,IT,Mass Customer,No
+2933,Male,34.0,61,Administrative Officer,Retail,Affluent Customer,Yes
+2934,Female,34.0,26,Media Manager III,Telecommunications,Mass Customer,Yes
+2936,Female,36.0,23,Project Manager,Financial Services,Mass Customer,Yes
+2937,Female,45.0,47,Computer Systems Analyst I,Financial Services,Mass Customer,No
+2944,Male,43.0,45,Environmental Specialist,Manufacturing,Affluent Customer,No
+2948,Male,23.0,23,Internal Auditor,Manufacturing,Mass Customer,Yes
+2950,Male,65.0,19,Software Engineer I,Financial Services,Mass Customer,Yes
+2951,Male,42.0,13,Community Outreach Specialist,Financial Services,High Net Worth,No
+2952,Female,45.0,28,Senior Developer,Manufacturing,High Net Worth,Yes
+2953,Male,47.0,45,Recruiting Manager,Health,High Net Worth,Yes
+2954,Female,46.0,23,Pharmacist,Health,Mass Customer,No
+2955,Male,30.0,74,Community Outreach Specialist,Financial Services,High Net Worth,No
+2956,Male,60.0,17,Quality Control Specialist,Telecommunications,Mass Customer,Yes
+2958,Male,44.0,10,Health Coach II,Manufacturing,Affluent Customer,Yes
+2959,Female,66.0,1,Registered Nurse,Health,Mass Customer,Yes
+2960,Female,43.0,6,Design Engineer,Property,Mass Customer,Yes
+2961,Male,45.0,56,Assistant Manager,Health,Mass Customer,Yes
+2964,Female,46.0,36,Product Engineer,Telecommunications,Mass Customer,Yes
+2966,Female,51.0,81,Dental Hygienist,Health,Mass Customer,Yes
+2967,Male,40.0,60,Social Worker,Health,Affluent Customer,Yes
+2968,Male,42.0,38,Human Resources Assistant III,Retail,High Net Worth,No
+2970,Female,27.0,64,Software Consultant,Financial Services,Mass Customer,No
+2971,Female,52.0,5,Marketing Assistant,Manufacturing,High Net Worth,Yes
+2973,Male,48.0,34,Senior Developer,Health,High Net Worth,No
+2974,Female,44.0,1,Engineer IV,Financial Services,High Net Worth,No
+2975,Female,39.0,67,Senior Cost Accountant,Financial Services,Mass Customer,No
+2976,Male,55.0,16,Tax Accountant,Health,Mass Customer,Yes
+2978,Male,46.0,96,Programmer IV,Manufacturing,Affluent Customer,No
+2979,Female,43.0,39,Tax Accountant,Retail,Mass Customer,No
+2980,Female,40.0,27,Chemical Engineer,Manufacturing,Mass Customer,No
+2981,Male,40.0,26,Sales Representative,Retail,High Net Worth,Yes
+2982,Female,37.0,30,Senior Cost Accountant,Financial Services,Mass Customer,Yes
+2983,Male,35.0,2,Human Resources Manager,Retail,Mass Customer,Yes
+2984,Female,61.0,48,Payment Adjustment Coordinator,Manufacturing,Mass Customer,Yes
+2985,Male,33.0,69,Sales Representative,Retail,Affluent Customer,Yes
+2990,Male,42.0,65,GIS Technical Architect,Argiculture,High Net Worth,No
+2991,Female,55.0,48,Desktop Support Technician,Financial Services,Mass Customer,No
+2992,Female,46.0,26,Clinical Specialist,Health,Mass Customer,Yes
+2993,Female,25.0,85,Graphic Designer,Financial Services,Affluent Customer,No
+2994,Female,43.0,26,Accountant II,Manufacturing,Mass Customer,Yes
+2996,Female,53.0,67,Cost Accountant,Financial Services,Mass Customer,No
+2997,Female,47.0,57,Computer Systems Analyst II,Health,Affluent Customer,No
+2998,Female,19.0,34,Nurse Practicioner,Manufacturing,High Net Worth,Yes
+3000,Male,46.0,28,Compensation Analyst,Financial Services,Affluent Customer,No
+3001,Male,42.0,48,Engineer IV,Argiculture,Mass Customer,No
+3002,Male,63.0,62,Paralegal,Financial Services,Mass Customer,Yes
+3003,Female,57.0,72,Web Developer I,Retail,Mass Customer,Yes
+3004,Male,65.0,82,Research Assistant II,Health,Mass Customer,Yes
+3005,Male,51.0,36,Human Resources Manager,Property,Affluent Customer,Yes
+3007,Male,47.0,38,Environmental Tech,Manufacturing,Mass Customer,No
+3013,Female,51.0,94,Office Assistant III,Property,High Net Worth,No
+3015,Female,19.0,25,Assistant Manager,Retail,Affluent Customer,No
+3016,Male,34.0,25,Analog Circuit Design manager,Financial Services,High Net Worth,No
+3017,Male,64.0,88,Operator,Financial Services,Affluent Customer,No
+3019,Male,34.0,98,Community Outreach Specialist,Manufacturing,Affluent Customer,Yes
+3020,Male,54.0,13,Chemical Engineer,Manufacturing,High Net Worth,Yes
+3023,Female,25.0,37,Accountant I,IT,High Net Worth,Yes
+3025,Male,43.0,27,Compensation Analyst,Financial Services,Mass Customer,Yes
+3026,Female,31.0,11,Account Representative III,Property,Mass Customer,Yes
+3027,Male,42.0,83,Research Nurse,Health,Mass Customer,Yes
+3028,Female,63.0,67,General Manager,Manufacturing,High Net Worth,No
+3029,Male,41.0,85,Business Systems Development Analyst,Manufacturing,Mass Customer,No
+3030,Female,22.0,68,Technical Writer,Manufacturing,Affluent Customer,No
+3031,Male,24.0,95,Staff Scientist,Health,Mass Customer,Yes
+3032,Male,27.0,53,Analog Circuit Design manager,Health,Affluent Customer,Yes
+3035,Male,40.0,98,Associate Professor,Health,High Net Worth,No
+3036,Female,43.0,24,Business Systems Development Analyst,Property,Affluent Customer,Yes
+3037,Female,48.0,30,Legal Assistant,Financial Services,High Net Worth,Yes
+3040,Female,53.0,87,General Manager,Retail,Mass Customer,No
+3041,Female,46.0,20,Physical Therapy Assistant,Retail,Mass Customer,Yes
+3044,Male,30.0,59,Occupational Therapist,Health,Affluent Customer,Yes
+3045,Male,23.0,52,Cost Accountant,Financial Services,Affluent Customer,Yes
+3046,Female,55.0,53,Programmer Analyst III,Manufacturing,Affluent Customer,No
+3047,Male,58.0,20,Speech Pathologist,Retail,Mass Customer,Yes
+3048,Male,51.0,38,Legal Assistant,Manufacturing,Mass Customer,No
+3054,Female,54.0,94,Operator,Manufacturing,Affluent Customer,No
+3056,Female,52.0,43,Health Coach II,Entertainment,Mass Customer,No
+3058,Male,33.0,67,Human Resources Manager,Manufacturing,Mass Customer,Yes
+3060,Male,37.0,28,VP Accounting,Financial Services,Mass Customer,Yes
+3061,Female,29.0,51,Office Assistant IV,Manufacturing,Affluent Customer,Yes
+3062,Male,57.0,78,Civil Engineer,Manufacturing,Mass Customer,No
+3063,Male,20.0,74,VP Sales,Financial Services,Affluent Customer,No
+3064,Male,24.0,96,Product Engineer,Financial Services,Affluent Customer,Yes
+3065,Female,42.0,88,Recruiter,Financial Services,High Net Worth,Yes
+3066,Female,25.0,29,Paralegal,Financial Services,Affluent Customer,Yes
+3067,Female,29.0,8,Chief Design Engineer,Manufacturing,Mass Customer,Yes
+3068,Female,29.0,88,Automation Specialist I,Manufacturing,Affluent Customer,No
+3069,Female,31.0,59,Senior Cost Accountant,Financial Services,Affluent Customer,No
+3070,Female,21.0,74,Account Executive,Health,Affluent Customer,Yes
+3071,Female,30.0,59,Assistant Media Planner,Entertainment,Mass Customer,Yes
+3072,Male,41.0,87,Chemical Engineer,Manufacturing,Mass Customer,Yes
+3073,Male,53.0,16,Nurse,Telecommunications,Affluent Customer,No
+3074,Male,51.0,31,VP Quality Control,Health,Mass Customer,Yes
+3076,Female,28.0,9,Professor,Health,Mass Customer,Yes
+3077,Male,19.0,19,Information Systems Manager,Manufacturing,Affluent Customer,No
+3078,Female,37.0,54,Safety Technician III,Retail,Mass Customer,No
+3079,Male,60.0,34,Legal Assistant,Retail,Mass Customer,Yes
+3080,Male,61.0,87,Graphic Designer,Financial Services,High Net Worth,No
+3084,Female,60.0,57,Staff Scientist,Financial Services,Affluent Customer,Yes
+3087,Male,34.0,64,Social Worker,Health,Mass Customer,No
+3089,Male,20.0,27,Web Developer III,Manufacturing,Affluent Customer,Yes
+3090,Male,55.0,81,Operator,Manufacturing,Mass Customer,No
+3091,Female,24.0,88,Payment Adjustment Coordinator,Manufacturing,Affluent Customer,Yes
+3093,Male,28.0,31,Mechanical Systems Engineer,Property,High Net Worth,Yes
+3096,Female,46.0,32,Associate Professor,Financial Services,Mass Customer,No
+3097,Male,42.0,2,Actuary,Financial Services,Affluent Customer,Yes
+3098,Female,39.0,77,Dental Hygienist,Health,Mass Customer,No
+3101,Male,32.0,68,Geological Engineer,Manufacturing,High Net Worth,No
+3102,Male,30.0,37,Assistant Manager,Property,Affluent Customer,No
+3103,Female,66.0,5,Safety Technician II,Retail,Mass Customer,No
+3104,Female,25.0,19,Business Systems Development Analyst,Property,Mass Customer,Yes
+3105,Male,54.0,88,Teacher,Health,Mass Customer,No
+3109,Female,61.0,75,Automation Specialist II,Health,Mass Customer,Yes
+3110,Male,26.0,14,Community Outreach Specialist,IT,Affluent Customer,Yes
+3111,Male,23.0,42,Associate Professor,Financial Services,Mass Customer,Yes
+3112,Male,19.0,41,Internal Auditor,Retail,High Net Worth,Yes
+3113,Female,50.0,52,Teacher,Property,Mass Customer,Yes
+3114,Male,45.0,48,Teacher,IT,Mass Customer,Yes
+3115,Male,39.0,40,Nuclear Power Engineer,Manufacturing,Mass Customer,No
+3117,Female,24.0,68,Cost Accountant,Financial Services,Affluent Customer,Yes
+3118,Male,27.0,54,Occupational Therapist,Health,High Net Worth,No
+3120,Female,41.0,89,Clinical Specialist,Health,Mass Customer,Yes
+3121,Male,61.0,82,Data Coordiator,Manufacturing,Mass Customer,No
+3123,Female,43.0,71,Dental Hygienist,Health,High Net Worth,No
+3124,Female,39.0,73,Account Executive,Retail,High Net Worth,Yes
+3125,Female,41.0,2,Social Worker,Health,High Net Worth,Yes
+3126,Male,33.0,7,Statistician IV,Financial Services,High Net Worth,No
+3127,Male,49.0,39,Research Nurse,Health,Mass Customer,No
+3128,Female,54.0,96,Geological Engineer,Manufacturing,High Net Worth,Yes
+3129,Female,64.0,44,Analog Circuit Design manager,Property,High Net Worth,Yes
+3130,Female,49.0,53,VP Product Management,Telecommunications,Mass Customer,No
+3132,Male,45.0,33,Sales Representative,Retail,Mass Customer,Yes
+3133,Female,21.0,89,Quality Control Specialist,Manufacturing,Mass Customer,No
+3135,Male,58.0,83,Staff Scientist,Financial Services,Mass Customer,No
+3136,Male,21.0,60,Marketing Manager,Retail,Mass Customer,Yes
+3138,Male,49.0,34,Paralegal,Financial Services,Mass Customer,Yes
+3139,Male,46.0,65,Paralegal,Financial Services,High Net Worth,Yes
+3140,Female,34.0,2,Legal Assistant,Manufacturing,High Net Worth,No
+3141,Female,24.0,92,Associate Professor,Retail,Mass Customer,Yes
+3142,Male,27.0,98,Electrical Engineer,Manufacturing,Mass Customer,No
+3143,Female,23.0,0,Chief Design Engineer,Manufacturing,Mass Customer,No
+3144,Male,41.0,94,Programmer Analyst III,Manufacturing,Mass Customer,Yes
+3145,Male,41.0,17,Paralegal,Financial Services,High Net Worth,Yes
+3146,Female,42.0,79,Project Manager,Property,Mass Customer,No
+3152,Female,20.0,6,Teacher,Financial Services,High Net Worth,Yes
+3153,Female,46.0,87,Compensation Analyst,Financial Services,High Net Worth,No
+3154,Female,62.0,63,Desktop Support Technician,Telecommunications,Mass Customer,Yes
+3155,Female,43.0,88,Office Assistant I,IT,Affluent Customer,Yes
+3158,Male,50.0,27,VP Quality Control,Telecommunications,Mass Customer,Yes
+3160,Male,41.0,87,Mechanical Systems Engineer,IT,Mass Customer,No
+3162,Female,42.0,76,Media Manager IV,Argiculture,Mass Customer,Yes
+3163,Male,52.0,38,Environmental Specialist,Argiculture,Affluent Customer,No
+3164,Female,34.0,53,Human Resources Assistant II,Manufacturing,Mass Customer,Yes
+3165,Female,45.0,56,Business Systems Development Analyst,Manufacturing,Affluent Customer,Yes
+3166,Male,65.0,96,Social Worker,Health,Mass Customer,No
+3167,Male,25.0,36,Web Designer IV,Property,Mass Customer,No
+3168,Male,44.0,89,Assistant Manager,Health,Affluent Customer,No
+3169,Male,56.0,96,Payment Adjustment Coordinator,IT,Mass Customer,Yes
+3170,Female,52.0,67,Nurse Practicioner,Entertainment,Mass Customer,No
+3174,Female,43.0,67,Research Associate,Financial Services,Affluent Customer,No
+3175,Male,35.0,82,Operator,Health,Mass Customer,No
+3178,Male,48.0,21,VP Quality Control,Retail,Mass Customer,Yes
+3179,Male,40.0,87,Assistant Media Planner,Entertainment,Affluent Customer,Yes
+3181,Male,43.0,39,Senior Editor,Financial Services,High Net Worth,No
+3183,Male,45.0,64,Junior Executive,Health,Mass Customer,No
+3184,Female,43.0,2,Civil Engineer,Manufacturing,Affluent Customer,Yes
+3185,Male,64.0,25,Senior Financial Analyst,Financial Services,Mass Customer,No
+3187,Male,46.0,75,Senior Quality Engineer,Financial Services,Mass Customer,Yes
+3189,Male,57.0,40,Environmental Specialist,Financial Services,Mass Customer,No
+3191,Female,60.0,29,Director of Sales,Financial Services,Affluent Customer,Yes
+3192,Female,51.0,37,Payment Adjustment Coordinator,Financial Services,High Net Worth,Yes
+3193,Female,41.0,6,Web Designer IV,Property,High Net Worth,No
+3194,Male,42.0,38,Physical Therapy Assistant,Manufacturing,Mass Customer,No
+3195,Female,39.0,4,Tax Accountant,Manufacturing,Mass Customer,No
+3196,Female,42.0,11,Engineer IV,Health,Mass Customer,No
+3197,Male,44.0,83,Environmental Specialist,Health,High Net Worth,No
+3198,Male,22.0,66,Media Manager III,Manufacturing,Mass Customer,Yes
+3201,Male,20.0,61,Assistant Professor,Financial Services,Mass Customer,Yes
+3202,Male,25.0,74,Office Assistant IV,Financial Services,Mass Customer,Yes
+3204,Female,25.0,51,Media Manager III,Health,Mass Customer,Yes
+3206,Female,25.0,32,Financial Advisor,Financial Services,Mass Customer,No
+3209,Female,56.0,10,Civil Engineer,Manufacturing,Affluent Customer,No
+3210,Female,32.0,80,Junior Executive,Manufacturing,Mass Customer,No
+3211,Female,26.0,52,Automation Specialist II,Health,High Net Worth,Yes
+3212,Female,39.0,62,Analog Circuit Design manager,Financial Services,Affluent Customer,No
+3214,Female,27.0,2,Software Engineer III,Financial Services,Mass Customer,Yes
+3216,Male,22.0,59,Database Administrator III,Manufacturing,Mass Customer,Yes
+3217,Female,52.0,95,Physical Therapy Assistant,Manufacturing,Mass Customer,No
+3218,Female,44.0,38,Information Systems Manager,Argiculture,Mass Customer,Yes
+3219,Female,22.0,94,Web Developer III,Financial Services,Mass Customer,No
+3220,Male,47.0,53,Research Assistant IV,Manufacturing,Affluent Customer,No
+3221,Female,60.0,59,Internal Auditor,Property,High Net Worth,Yes
+3224,Female,24.0,67,Automation Specialist III,Manufacturing,Affluent Customer,No
+3225,Male,39.0,19,Chief Design Engineer,Health,Mass Customer,Yes
+3228,Female,55.0,36,Social Worker,Health,Mass Customer,No
+3229,Male,55.0,69,Sales Representative,Retail,High Net Worth,Yes
+3230,Female,50.0,31,Executive Secretary,Financial Services,Mass Customer,No
+3232,Female,26.0,7,Payment Adjustment Coordinator,Financial Services,Mass Customer,Yes
+3233,Male,61.0,7,Tax Accountant,Financial Services,Mass Customer,Yes
+3234,Male,33.0,35,Safety Technician II,Manufacturing,Mass Customer,Yes
+3235,Male,55.0,88,Business Systems Development Analyst,Property,Affluent Customer,Yes
+3237,Female,55.0,94,Assistant Manager,Manufacturing,Mass Customer,No
+3238,Male,42.0,23,Executive Secretary,Retail,Mass Customer,No
+3239,Female,48.0,15,Staff Scientist,Health,High Net Worth,No
+3241,Male,40.0,34,Budget/Accounting Analyst IV,Manufacturing,Mass Customer,Yes
+3242,Female,62.0,4,General Manager,Manufacturing,Affluent Customer,Yes
+3243,Male,47.0,24,Media Manager I,Health,Mass Customer,No
+3244,Female,61.0,24,Systems Administrator I,Financial Services,Mass Customer,No
+3245,Male,61.0,86,Graphic Designer,IT,High Net Worth,No
+3246,Female,52.0,73,Senior Cost Accountant,Financial Services,Mass Customer,Yes
+3247,Female,35.0,0,Structural Engineer,Manufacturing,Mass Customer,Yes
+3251,Female,43.0,95,Safety Technician II,Financial Services,High Net Worth,Yes
+3253,Female,30.0,42,Cost Accountant,Financial Services,High Net Worth,Yes
+3254,Female,19.0,8,Human Resources Assistant I,Financial Services,Mass Customer,No
+3256,Female,34.0,76,Professor,Financial Services,Affluent Customer,No
+3258,Female,41.0,77,Sales Representative,Retail,Mass Customer,Yes
+3260,Female,41.0,6,Research Associate,Telecommunications,High Net Worth,No
+3262,Male,60.0,65,Product Engineer,Entertainment,Mass Customer,No
+3263,Female,38.0,37,Business Systems Development Analyst,Manufacturing,Affluent Customer,No
+3268,Female,34.0,93,General Manager,Manufacturing,Mass Customer,No
+3270,Male,63.0,47,Administrative Officer,Financial Services,Mass Customer,Yes
+3271,Female,34.0,21,Chief Design Engineer,Property,High Net Worth,Yes
+3273,Female,42.0,72,General Manager,Entertainment,Mass Customer,No
+3275,Female,44.0,24,Computer Systems Analyst IV,Manufacturing,Mass Customer,No
+3278,Male,37.0,66,VP Product Management,Financial Services,Affluent Customer,No
+3279,Male,61.0,55,Staff Scientist,Financial Services,Mass Customer,No
+3280,Female,33.0,49,General Manager,Financial Services,Mass Customer,Yes
+3282,Female,61.0,8,Clinical Specialist,Health,High Net Worth,No
+3283,Female,41.0,46,Administrative Officer,Property,Mass Customer,Yes
+3284,Female,28.0,98,Chief Design Engineer,Retail,Affluent Customer,No
+3285,Male,33.0,51,Recruiter,Health,Affluent Customer,Yes
+3286,Male,59.0,23,Assistant Media Planner,Entertainment,Mass Customer,No
+3289,Male,42.0,43,Assistant Manager,Property,Mass Customer,No
+3291,Female,64.0,33,Staff Accountant II,Manufacturing,Mass Customer,No
+3292,Male,47.0,71,Web Designer I,Retail,Affluent Customer,Yes
+3294,Female,33.0,90,Director of Sales,Manufacturing,Affluent Customer,No
+3295,Male,56.0,14,Human Resources Assistant III,Retail,High Net Worth,Yes
+3296,Female,45.0,78,Quality Engineer,Financial Services,Affluent Customer,Yes
+3297,Male,45.0,39,Product Engineer,Manufacturing,Mass Customer,No
+3299,Female,40.0,27,Systems Administrator II,Manufacturing,Affluent Customer,Yes
+3300,Male,59.0,47,Executive Secretary,Retail,Mass Customer,No
+3302,Male,63.0,17,Compensation Analyst,Financial Services,Affluent Customer,No
+3303,Male,53.0,51,Structural Engineer,Telecommunications,Affluent Customer,Yes
+3305,Male,43.0,25,Senior Developer,Health,Mass Customer,Yes
+3306,Male,29.0,50,Compensation Analyst,Financial Services,Mass Customer,No
+3307,Female,41.0,96,Analyst Programmer,Health,High Net Worth,No
+3308,Female,41.0,5,Cost Accountant,Financial Services,Mass Customer,Yes
+3310,Female,58.0,83,VP Marketing,Property,Affluent Customer,Yes
+3315,Female,25.0,77,Account Executive,Property,Mass Customer,Yes
+3317,Male,49.0,35,Actuary,Financial Services,Mass Customer,Yes
+3320,Female,26.0,16,Nuclear Power Engineer,Manufacturing,High Net Worth,No
+3323,Male,47.0,99,Account Representative I,Health,High Net Worth,No
+3326,Male,45.0,83,Nurse,Manufacturing,High Net Worth,Yes
+3327,Male,47.0,84,Teacher,Manufacturing,Mass Customer,No
+3328,Female,58.0,58,Food Chemist,Health,Mass Customer,No
+3332,Female,21.0,43,Account Representative III,Health,Mass Customer,No
+3333,Female,41.0,30,Software Test Engineer II,Property,Mass Customer,Yes
+3334,Female,55.0,63,VP Product Management,Health,Mass Customer,Yes
+3335,Male,40.0,47,Editor,Health,Mass Customer,No
+3336,Male,41.0,47,Research Assistant IV,Manufacturing,Mass Customer,Yes
+3339,Male,34.0,76,Programmer Analyst III,Health,Mass Customer,No
+3341,Female,39.0,19,Help Desk Technician,Retail,Affluent Customer,Yes
+3346,Female,28.0,61,Software Consultant,Financial Services,High Net Worth,No
+3348,Female,63.0,93,Pharmacist,Health,High Net Worth,Yes
+3349,Male,39.0,11,Director of Sales,Argiculture,Affluent Customer,No
+3350,Male,45.0,53,Analog Circuit Design manager,Manufacturing,Affluent Customer,No
+3352,Male,25.0,14,Human Resources Assistant IV,Manufacturing,Affluent Customer,No
+3355,Female,30.0,50,Staff Accountant I,Manufacturing,Mass Customer,No
+3356,Male,61.0,47,Safety Technician II,Financial Services,Mass Customer,Yes
+3357,Male,21.0,25,Design Engineer,Manufacturing,Affluent Customer,No
+3358,Male,46.0,30,Engineer I,Manufacturing,Affluent Customer,Yes
+3360,Female,57.0,77,Quality Engineer,Health,Affluent Customer,No
+3361,Female,52.0,68,General Manager,Property,Mass Customer,Yes
+3362,Male,48.0,60,VP Accounting,Financial Services,Affluent Customer,No
+3363,Male,20.0,25,Electrical Engineer,Manufacturing,High Net Worth,Yes
+3366,Male,45.0,98,Technical Writer,Manufacturing,Mass Customer,Yes
+3367,Female,19.0,75,Librarian,Entertainment,Mass Customer,Yes
+3368,Female,52.0,7,Technical Writer,Financial Services,Affluent Customer,No
+3371,Female,42.0,56,Analyst Programmer,Retail,Mass Customer,No
+3373,Female,29.0,19,Research Associate,Health,Mass Customer,No
+3374,Female,60.0,77,Sales Associate,Manufacturing,Mass Customer,Yes
+3375,Male,27.0,37,Accounting Assistant I,Financial Services,High Net Worth,Yes
+3379,Female,21.0,51,Food Chemist,Health,Mass Customer,Yes
+3380,Male,65.0,41,Speech Pathologist,Manufacturing,High Net Worth,Yes
+3383,Male,38.0,47,Financial Analyst,Financial Services,Affluent Customer,Yes
+3386,Male,20.0,24,Structural Engineer,IT,High Net Worth,Yes
+3387,Female,43.0,19,General Manager,Manufacturing,Affluent Customer,Yes
+3388,Male,33.0,81,VP Marketing,Retail,Mass Customer,No
+3392,Male,43.0,41,Tax Accountant,Financial Services,Mass Customer,No
+3393,Female,66.0,23,Technical Writer,Retail,Mass Customer,Yes
+3394,Male,45.0,39,Environmental Specialist,Health,Mass Customer,No
+3396,Male,59.0,18,Research Assistant I,Manufacturing,Mass Customer,Yes
+3399,Male,24.0,95,VP Accounting,Financial Services,Mass Customer,No
+3400,Female,32.0,46,Sales Associate,Financial Services,Mass Customer,Yes
+3402,Female,35.0,73,Statistician II,Retail,Mass Customer,No
+3403,Female,26.0,27,Senior Financial Analyst,Financial Services,Mass Customer,Yes
+3404,Female,46.0,2,GIS Technical Architect,Property,Affluent Customer,No
+3406,Female,41.0,35,Business Systems Development Analyst,IT,Mass Customer,Yes
+3407,Male,58.0,53,Cost Accountant,Financial Services,High Net Worth,Yes
+3408,Female,47.0,10,Tax Accountant,Manufacturing,Mass Customer,No
+3409,Female,43.0,75,Desktop Support Technician,Argiculture,Mass Customer,No
+3413,Female,22.0,93,VP Accounting,Financial Services,Mass Customer,No
+3415,Male,57.0,43,Quality Engineer,Property,High Net Worth,Yes
+3417,Female,47.0,91,Social Worker,Health,Mass Customer,No
+3418,Female,60.0,18,Systems Administrator IV,Health,High Net Worth,No
+3420,Male,39.0,96,Financial Advisor,Financial Services,Mass Customer,Yes
+3421,Female,57.0,60,Computer Systems Analyst II,Health,Affluent Customer,Yes
+3422,Female,42.0,38,Professor,Manufacturing,Mass Customer,No
+3423,Female,20.0,57,Registered Nurse,Health,Affluent Customer,No
+3424,Female,43.0,39,Automation Specialist III,Manufacturing,Affluent Customer,Yes
+3425,Male,34.0,32,GIS Technical Architect,Manufacturing,Mass Customer,Yes
+3426,Male,61.0,40,Assistant Media Planner,Entertainment,Mass Customer,No
+3427,Male,39.0,67,Help Desk Operator,Financial Services,Mass Customer,Yes
+3428,Female,45.0,77,Chemical Engineer,Manufacturing,Mass Customer,Yes
+3430,Male,56.0,77,Research Nurse,Health,Affluent Customer,Yes
+3431,Male,23.0,97,Community Outreach Specialist,Property,Affluent Customer,No
+3432,Female,31.0,99,Junior Executive,Argiculture,Mass Customer,Yes
+3433,Female,22.0,10,Computer Systems Analyst II,Property,Mass Customer,No
+3434,Female,46.0,20,Account Coordinator,Health,Mass Customer,No
+3438,Male,24.0,11,Project Manager,Manufacturing,Mass Customer,No
+3440,Female,62.0,18,Senior Sales Associate,Manufacturing,Mass Customer,No
+3441,Female,31.0,44,Legal Assistant,Manufacturing,High Net Worth,Yes
+3442,Female,58.0,17,Research Associate,Retail,Mass Customer,Yes
+3444,Female,42.0,75,Nurse Practicioner,Manufacturing,Affluent Customer,No
+3448,Male,43.0,26,Software Consultant,Financial Services,High Net Worth,No
+3449,Female,45.0,52,VP Quality Control,Argiculture,High Net Worth,Yes
+3450,Female,26.0,85,Safety Technician III,Retail,Mass Customer,No
+3452,Female,55.0,22,Marketing Manager,Retail,Mass Customer,No
+3453,Female,31.0,57,Product Engineer,Retail,Affluent Customer,No
+3458,Male,42.0,35,Web Developer III,Manufacturing,High Net Worth,Yes
+3460,Male,20.0,22,Actuary,Financial Services,Mass Customer,No
+3461,Male,57.0,28,Environmental Specialist,Manufacturing,Affluent Customer,Yes
+3462,Female,63.0,96,Registered Nurse,Health,High Net Worth,No
+3463,Male,35.0,7,Compensation Analyst,Financial Services,Affluent Customer,No
+3464,Female,37.0,38,Staff Accountant III,Financial Services,Mass Customer,Yes
+3465,Female,42.0,71,Chemical Engineer,Manufacturing,High Net Worth,Yes
+3466,Male,40.0,65,Marketing Assistant,IT,Mass Customer,No
+3467,Male,40.0,31,VP Quality Control,IT,Mass Customer,No
+3469,Female,32.0,90,Nurse Practicioner,Health,Mass Customer,Yes
+3470,Female,52.0,56,Recruiting Manager,Health,Affluent Customer,Yes
+3471,Female,66.0,95,Quality Engineer,IT,High Net Worth,Yes
+3474,Male,40.0,93,Assistant Manager,Manufacturing,Mass Customer,No
+3475,Female,34.0,12,Director of Sales,Retail,Affluent Customer,No
+3477,Female,24.0,90,Senior Developer,Financial Services,Affluent Customer,Yes
+3478,Male,33.0,54,Quality Control Specialist,Health,Mass Customer,No
+3481,Male,22.0,37,Systems Administrator IV,Manufacturing,High Net Worth,No
+3482,Female,20.0,71,Clinical Specialist,Health,Affluent Customer,Yes
+3483,Male,63.0,19,Senior Sales Associate,Health,High Net Worth,Yes
+3484,Female,43.0,10,Information Systems Manager,Financial Services,High Net Worth,Yes
+3485,Female,39.0,11,Account Representative II,Financial Services,High Net Worth,Yes
+3486,Male,63.0,67,Business Systems Development Analyst,Manufacturing,Mass Customer,No
+3487,Female,42.0,4,Analyst Programmer,Health,High Net Worth,No
+3488,Male,44.0,63,Speech Pathologist,Manufacturing,Mass Customer,Yes
+3489,Female,50.0,90,Help Desk Operator,Argiculture,Mass Customer,Yes
+3490,Male,39.0,45,VP Product Management,Financial Services,High Net Worth,No
+3491,Female,44.0,69,Business Systems Development Analyst,Financial Services,Affluent Customer,No
+3492,Male,54.0,83,Civil Engineer,Manufacturing,Mass Customer,No
+3493,Male,56.0,30,Research Assistant I,Health,High Net Worth,No
+3494,Male,21.0,72,Account Representative IV,Argiculture,High Net Worth,No
+3495,Female,32.0,57,Programmer III,Financial Services,High Net Worth,No
+3496,Male,34.0,99,Editor,Manufacturing,Mass Customer,Yes
+3497,Female,34.0,73,Administrative Assistant IV,Manufacturing,Affluent Customer,Yes
+3501,Female,50.0,63,Operator,Telecommunications,Mass Customer,Yes
+3502,Male,22.0,5,Senior Sales Associate,Retail,High Net Worth,Yes
+3504,Female,56.0,39,Business Systems Development Analyst,Manufacturing,Mass Customer,Yes
+3506,Female,44.0,19,Web Designer I,Financial Services,Mass Customer,No
+3507,Male,65.0,70,Physical Therapy Assistant,Financial Services,Mass Customer,No
+3508,Male,33.0,89,Pharmacist,Health,Mass Customer,No
+3509,Female,41.0,85,Pharmacist,Health,Mass Customer,Yes
+3511,Male,53.0,23,Food Chemist,Health,Affluent Customer,No
+3512,Male,26.0,68,VP Accounting,Financial Services,Mass Customer,Yes
+3515,Female,45.0,11,Staff Scientist,Telecommunications,High Net Worth,Yes
+3518,Female,39.0,45,Biostatistician I,IT,Mass Customer,Yes
+3519,Male,42.0,16,Software Consultant,Manufacturing,Mass Customer,Yes
+3520,Male,56.0,41,Research Nurse,Health,Mass Customer,Yes
+3522,Female,30.0,73,Cost Accountant,Financial Services,High Net Worth,Yes
+3524,Male,46.0,38,Design Engineer,Financial Services,Mass Customer,Yes
+3526,Male,41.0,84,General Manager,Telecommunications,High Net Worth,Yes
+3527,Female,41.0,77,Senior Cost Accountant,Financial Services,High Net Worth,No
+3529,Female,59.0,37,Structural Analysis Engineer,IT,High Net Worth,Yes
+3531,Female,51.0,4,Marketing Manager,Retail,Affluent Customer,Yes
+3532,Female,29.0,27,Media Manager I,Health,High Net Worth,Yes
+3534,Female,45.0,92,Associate Professor,Manufacturing,Affluent Customer,Yes
+3535,Female,25.0,8,Technical Writer,Manufacturing,High Net Worth,No
+3536,Male,52.0,46,Professor,Retail,Affluent Customer,No
+3537,Male,23.0,1,Graphic Designer,Financial Services,Mass Customer,No
+3538,Male,42.0,19,Marketing Manager,Health,Mass Customer,No
+3542,Female,45.0,23,Financial Analyst,Financial Services,Mass Customer,No
+3543,Female,33.0,15,Food Chemist,Health,High Net Worth,Yes
+3546,Female,36.0,91,GIS Technical Architect,Manufacturing,Affluent Customer,Yes
+3547,Male,45.0,19,Senior Financial Analyst,Financial Services,Affluent Customer,No
+3549,Female,54.0,0,Sales Representative,Retail,Mass Customer,No
+3550,Female,31.0,50,Environmental Tech,Retail,Mass Customer,Yes
+3551,Male,58.0,37,Pharmacist,Health,Mass Customer,Yes
+3552,Male,27.0,33,Internal Auditor,Retail,Affluent Customer,Yes
+3553,Male,45.0,97,Graphic Designer,Health,Mass Customer,No
+3554,Male,42.0,34,GIS Technical Architect,IT,Mass Customer,Yes
+3556,Female,22.0,38,Senior Developer,Manufacturing,High Net Worth,No
+3559,Female,35.0,80,Assistant Media Planner,Entertainment,High Net Worth,Yes
+3560,Male,39.0,98,Structural Analysis Engineer,Retail,Mass Customer,Yes
+3561,Female,51.0,15,Help Desk Operator,Financial Services,Mass Customer,Yes
+3566,Male,43.0,96,Social Worker,Health,Affluent Customer,Yes
+3567,Female,39.0,17,Nurse,Financial Services,Affluent Customer,Yes
+3568,Female,64.0,13,Nurse,Retail,Affluent Customer,No
+3571,Female,43.0,9,Senior Sales Associate,Property,Mass Customer,Yes
+3572,Male,34.0,54,Sales Representative,Retail,Affluent Customer,Yes
+3573,Female,23.0,68,Accounting Assistant I,Manufacturing,Mass Customer,Yes
+3574,Female,29.0,33,Clinical Specialist,Health,Mass Customer,No
+3575,Female,46.0,82,Administrative Assistant I,IT,Affluent Customer,Yes
+3577,Male,56.0,29,Staff Scientist,Retail,High Net Worth,No
+3578,Female,63.0,57,Staff Accountant IV,Property,Mass Customer,No
+3579,Female,32.0,32,Software Test Engineer III,Health,High Net Worth,No
+3582,Female,58.0,66,Media Manager II,Property,Mass Customer,No
+3583,Female,55.0,71,Assistant Professor,Retail,Affluent Customer,No
+3586,Female,41.0,79,Registered Nurse,Health,Affluent Customer,No
+3589,Female,58.0,73,Computer Systems Analyst II,Health,High Net Worth,No
+3591,Male,41.0,15,Accountant III,Financial Services,Mass Customer,No
+3593,Female,24.0,71,Legal Assistant,Retail,Mass Customer,No
+3594,Male,34.0,45,Marketing Assistant,Manufacturing,Mass Customer,No
+3596,Female,42.0,57,Executive Secretary,Retail,Mass Customer,No
+3598,Male,25.0,72,Computer Systems Analyst III,Manufacturing,Affluent Customer,Yes
+3601,Female,44.0,85,Junior Executive,IT,Mass Customer,No
+3602,Female,31.0,23,Account Coordinator,Health,Mass Customer,No
+3603,Male,65.0,90,Sales Representative,Retail,Mass Customer,Yes
+3604,Male,49.0,3,VP Quality Control,Health,High Net Worth,Yes
+3607,Male,19.0,99,Clinical Specialist,Health,Mass Customer,No
+3608,Male,47.0,86,Nurse Practicioner,Argiculture,High Net Worth,No
+3609,Male,22.0,69,Marketing Manager,Manufacturing,Mass Customer,No
+3610,Male,33.0,1,Graphic Designer,Financial Services,High Net Worth,Yes
+3613,Male,48.0,27,Budget/Accounting Analyst II,Health,Mass Customer,Yes
+3615,Female,41.0,63,Safety Technician II,IT,Mass Customer,Yes
+3616,Male,19.0,42,Product Engineer,Property,High Net Worth,No
+3617,Female,30.0,11,Structural Analysis Engineer,Manufacturing,Mass Customer,Yes
+3618,Male,54.0,2,Statistician IV,Retail,Affluent Customer,Yes
+3620,Male,28.0,21,Computer Systems Analyst II,Retail,Mass Customer,No
+3621,Female,45.0,13,Developer IV,Health,High Net Worth,No
+3622,Female,36.0,84,Compensation Analyst,Financial Services,Mass Customer,No
+3623,Male,35.0,56,Senior Quality Engineer,Manufacturing,Affluent Customer,Yes
+3625,Female,66.0,24,VP Marketing,Manufacturing,High Net Worth,Yes
+3626,Female,41.0,86,Senior Cost Accountant,Financial Services,Mass Customer,Yes
+3628,Female,45.0,47,Financial Advisor,Financial Services,Mass Customer,Yes
+3629,Female,43.0,17,Editor,Health,High Net Worth,No
+3630,Female,41.0,16,Tax Accountant,Property,Affluent Customer,Yes
+3631,Female,57.0,76,Project Manager,IT,High Net Worth,Yes
+3636,Female,49.0,42,Director of Sales,Financial Services,Mass Customer,Yes
+3638,Female,24.0,73,Associate Professor,Manufacturing,Mass Customer,No
+3639,Female,46.0,49,Food Chemist,Health,High Net Worth,No
+3641,Male,44.0,78,Civil Engineer,Manufacturing,Affluent Customer,No
+3644,Male,52.0,13,Physical Therapy Assistant,Financial Services,High Net Worth,Yes
+3645,Male,58.0,47,Structural Analysis Engineer,Manufacturing,High Net Worth,No
+3646,Female,38.0,0,Social Worker,Health,Mass Customer,No
+3648,Female,66.0,82,Paralegal,Financial Services,Mass Customer,No
+3649,Female,42.0,66,Office Assistant II,Property,Mass Customer,Yes
+3650,Female,20.0,85,Office Assistant I,IT,Mass Customer,Yes
+3652,Male,65.0,20,Nurse,Health,High Net Worth,Yes
+3659,Female,43.0,76,VP Sales,Financial Services,High Net Worth,No
+3660,Male,39.0,99,Administrative Assistant IV,Financial Services,Mass Customer,No
+3661,Male,54.0,34,Research Associate,Manufacturing,Mass Customer,Yes
+3662,Male,42.0,79,Community Outreach Specialist,Retail,Mass Customer,No
+3664,Female,30.0,5,Software Test Engineer I,Manufacturing,Mass Customer,Yes
+3665,Female,31.0,19,Dental Hygienist,Health,Mass Customer,No
+3666,Male,63.0,56,Statistician II,Health,High Net Worth,No
+3667,Female,37.0,3,Graphic Designer,Retail,Mass Customer,Yes
+3668,Female,65.0,79,Desktop Support Technician,Property,Mass Customer,Yes
+3669,Male,42.0,11,Design Engineer,Manufacturing,Affluent Customer,No
+3674,Male,21.0,59,Tax Accountant,Property,Mass Customer,No
+3675,Male,20.0,88,Analog Circuit Design manager,Property,Affluent Customer,Yes
+3676,Male,54.0,27,Health Coach I,Health,Affluent Customer,No
+3677,Male,33.0,3,Senior Financial Analyst,Financial Services,Mass Customer,Yes
+3678,Female,50.0,52,Engineer IV,Manufacturing,Mass Customer,No
+3680,Male,36.0,17,Accountant I,Retail,High Net Worth,No
+3681,Female,58.0,90,Community Outreach Specialist,Property,Mass Customer,Yes
+3682,Male,41.0,94,GIS Technical Architect,Financial Services,Mass Customer,Yes
+3684,Male,46.0,13,Food Chemist,Health,High Net Worth,Yes
+3685,Male,30.0,86,Human Resources Manager,Financial Services,Affluent Customer,Yes
+3687,Male,48.0,84,Software Engineer III,Manufacturing,Mass Customer,Yes
+3688,Male,26.0,87,General Manager,IT,Affluent Customer,Yes
+3690,Female,63.0,86,Chemical Engineer,Manufacturing,Mass Customer,No
+3691,Male,46.0,73,Environmental Tech,Retail,Affluent Customer,No
+3695,Male,42.0,33,Account Coordinator,Entertainment,Affluent Customer,Yes
+3698,Female,24.0,49,Geological Engineer,Manufacturing,Mass Customer,No
+3699,Female,29.0,40,Recruiting Manager,Manufacturing,Mass Customer,No
+3700,Male,48.0,64,Associate Professor,Entertainment,Mass Customer,No
+3702,Male,27.0,74,Biostatistician IV,Health,Mass Customer,No
+3703,Male,46.0,37,Teacher,Property,Affluent Customer,No
+3704,Male,45.0,54,Health Coach III,Health,High Net Worth,Yes
+3706,Male,54.0,20,Assistant Professor,Argiculture,Affluent Customer,Yes
+3707,Male,27.0,10,Senior Editor,Retail,Mass Customer,Yes
+3708,Female,57.0,72,Cost Accountant,Financial Services,Mass Customer,No
+3709,Female,65.0,31,GIS Technical Architect,Health,Mass Customer,No
+3711,Female,59.0,61,Associate Professor,Manufacturing,Affluent Customer,Yes
+3712,Female,62.0,22,Recruiting Manager,Financial Services,Mass Customer,No
+3714,Male,58.0,83,VP Sales,Manufacturing,Mass Customer,No
+3715,Female,45.0,19,Computer Systems Analyst I,Argiculture,High Net Worth,Yes
+3717,Male,61.0,88,Senior Financial Analyst,Financial Services,Mass Customer,Yes
+3719,Female,63.0,26,Sales Representative,Retail,Mass Customer,No
+3721,Female,25.0,84,Senior Quality Engineer,Financial Services,Mass Customer,Yes
+3723,Female,26.0,31,Accountant II,Financial Services,High Net Worth,No
+3726,Female,43.0,36,GIS Technical Architect,Property,Mass Customer,No
+3729,Male,59.0,6,Financial Analyst,Financial Services,Mass Customer,No
+3730,Female,60.0,85,Junior Executive,Manufacturing,Affluent Customer,No
+3732,Female,27.0,47,Research Associate,Manufacturing,Mass Customer,No
+3734,Female,43.0,46,Help Desk Technician,Manufacturing,Mass Customer,No
+3735,Male,58.0,91,Senior Quality Engineer,Entertainment,Mass Customer,No
+3736,Male,28.0,64,Senior Developer,Argiculture,Mass Customer,Yes
+3737,Female,39.0,86,Design Engineer,Manufacturing,Affluent Customer,No
+3738,Female,60.0,19,Professor,Financial Services,High Net Worth,Yes
+3739,Female,28.0,59,Environmental Tech,IT,High Net Worth,No
+3740,Female,40.0,82,Dental Hygienist,Health,Mass Customer,No
+3742,Female,58.0,79,Editor,Property,High Net Worth,Yes
+3743,Female,33.0,85,Tax Accountant,Property,Mass Customer,No
+3745,Female,42.0,90,Dental Hygienist,Health,Mass Customer,Yes
+3747,Female,30.0,8,Web Developer IV,Manufacturing,Mass Customer,Yes
+3750,Male,48.0,78,Chemical Engineer,Manufacturing,Affluent Customer,Yes
+3753,Female,22.0,16,Office Assistant II,Manufacturing,Mass Customer,No
+3755,Male,26.0,38,Chief Design Engineer,Financial Services,High Net Worth,Yes
+3758,Female,60.0,71,Recruiting Manager,Telecommunications,Mass Customer,Yes
+3759,Female,25.0,68,Programmer IV,Property,Mass Customer,Yes
+3761,Female,46.0,87,Biostatistician II,Telecommunications,Mass Customer,Yes
+3765,Female,57.0,20,Automation Specialist IV,Property,Mass Customer,No
+3766,Male,50.0,47,Desktop Support Technician,Financial Services,Mass Customer,Yes
+3768,Female,49.0,44,Senior Financial Analyst,Financial Services,Mass Customer,Yes
+3769,Male,27.0,40,Desktop Support Technician,Health,High Net Worth,Yes
+3770,Male,32.0,54,Legal Assistant,Argiculture,Mass Customer,No
+3771,Female,45.0,78,Electrical Engineer,Manufacturing,Mass Customer,No
+3772,Female,21.0,45,Physical Therapy Assistant,Manufacturing,Mass Customer,Yes
+3774,Female,21.0,38,Statistician I,Property,High Net Worth,No
+3776,Male,43.0,46,Recruiter,Retail,Mass Customer,Yes
+3777,Female,50.0,13,Cost Accountant,Financial Services,High Net Worth,Yes
+3778,Male,48.0,99,Dental Hygienist,Health,High Net Worth,No
+3780,Male,26.0,10,Desktop Support Technician,Financial Services,High Net Worth,No
+3781,Female,58.0,30,Graphic Designer,Retail,Mass Customer,Yes
+3782,Male,46.0,12,Environmental Specialist,Financial Services,Mass Customer,No
+3783,Female,45.0,61,Compensation Analyst,Financial Services,Mass Customer,No
+3785,Female,51.0,93,Compensation Analyst,Financial Services,Affluent Customer,No
+3787,Female,54.0,1,Systems Administrator III,Manufacturing,High Net Worth,No
+3788,Female,57.0,73,Environmental Specialist,Financial Services,Mass Customer,No
+3789,Male,63.0,52,Civil Engineer,Manufacturing,Mass Customer,Yes
+3790,Male,61.0,91,Senior Editor,Retail,Mass Customer,Yes
+3792,Female,44.0,81,VP Marketing,Financial Services,Affluent Customer,Yes
+3795,Male,63.0,88,Systems Administrator III,Argiculture,High Net Worth,Yes
+3796,Male,54.0,51,Paralegal,Financial Services,Mass Customer,Yes
+3797,Female,40.0,76,Occupational Therapist,Health,Affluent Customer,Yes
+3799,Female,49.0,94,Tax Accountant,Property,High Net Worth,No
+3801,Female,49.0,76,Research Nurse,Health,Mass Customer,Yes
+3802,Female,49.0,9,Chief Design Engineer,Telecommunications,High Net Worth,Yes
+3803,Female,59.0,54,Dental Hygienist,Health,Mass Customer,Yes
+3805,Female,42.0,52,Software Test Engineer II,Property,Affluent Customer,No
+3807,Female,44.0,73,Analyst Programmer,Retail,Mass Customer,No
+3808,Male,50.0,66,Recruiting Manager,Manufacturing,Mass Customer,Yes
+3810,Female,45.0,22,Food Chemist,Health,Affluent Customer,No
+3812,Female,42.0,91,VP Product Management,Retail,Mass Customer,Yes
+3813,Male,41.0,12,Media Manager IV,IT,Mass Customer,Yes
+3814,Female,36.0,10,VP Product Management,Financial Services,Mass Customer,Yes
+3815,Male,39.0,99,Librarian,Entertainment,Mass Customer,Yes
+3816,Female,50.0,93,Safety Technician I,Property,Mass Customer,Yes
+3818,Male,55.0,5,Sales Representative,Retail,Mass Customer,Yes
+3820,Female,40.0,65,Business Systems Development Analyst,IT,Mass Customer,No
+3821,Female,32.0,96,VP Marketing,Manufacturing,Affluent Customer,No
+3823,Female,55.0,5,Budget/Accounting Analyst II,Retail,Affluent Customer,No
+3828,Female,28.0,81,Dental Hygienist,Health,Mass Customer,No
+3830,Male,65.0,92,Sales Representative,Retail,High Net Worth,No
+3831,Male,48.0,10,Librarian,Entertainment,Affluent Customer,Yes
+3832,Female,46.0,30,Safety Technician III,Financial Services,High Net Worth,No
+3833,Female,34.0,88,Account Coordinator,Manufacturing,Mass Customer,No
+3834,Female,47.0,59,Compensation Analyst,Financial Services,Mass Customer,Yes
+3836,Female,25.0,16,Electrical Engineer,Manufacturing,Affluent Customer,Yes
+3838,Female,33.0,59,Sales Associate,Financial Services,Affluent Customer,Yes
+3839,Female,28.0,78,Account Executive,Manufacturing,High Net Worth,Yes
+3841,Male,30.0,64,Desktop Support Technician,Manufacturing,Affluent Customer,No
+3845,Female,64.0,72,Legal Assistant,Manufacturing,Mass Customer,Yes
+3846,Female,64.0,57,Geologist III,Manufacturing,Mass Customer,No
+3847,Female,59.0,8,Analyst Programmer,Health,Mass Customer,Yes
+3849,Female,52.0,2,Database Administrator III,Property,Mass Customer,Yes
+3851,Male,25.0,5,Senior Sales Associate,Manufacturing,High Net Worth,No
+3854,Female,24.0,47,VP Quality Control,Property,High Net Worth,Yes
+3856,Female,28.0,74,Accounting Assistant III,Property,Affluent Customer,No
+3857,Male,34.0,64,Structural Engineer,Financial Services,Mass Customer,Yes
+3858,Female,21.0,57,Librarian,Entertainment,Mass Customer,Yes
+3861,Male,51.0,87,Junior Executive,Retail,Affluent Customer,No
+3866,Female,29.0,56,Structural Engineer,Health,Mass Customer,Yes
+3867,Female,21.0,14,Geologist II,IT,Mass Customer,Yes
+3868,Female,22.0,60,Social Worker,Health,Affluent Customer,Yes
+3870,Female,35.0,31,Social Worker,Health,Mass Customer,No
+3872,Female,63.0,14,Sales Representative,Retail,High Net Worth,Yes
+3873,Male,41.0,32,Compensation Analyst,Financial Services,Mass Customer,No
+3876,Female,53.0,22,Internal Auditor,Financial Services,High Net Worth,No
+3880,Female,52.0,77,Web Designer I,Manufacturing,Mass Customer,No
+3882,Female,43.0,18,Human Resources Assistant III,Health,Mass Customer,Yes
+3884,Female,34.0,69,Web Designer II,Manufacturing,High Net Worth,Yes
+3886,Female,24.0,74,Recruiting Manager,Manufacturing,Affluent Customer,No
+3888,Female,32.0,4,Programmer Analyst I,IT,High Net Worth,Yes
+3889,Male,44.0,39,General Manager,Retail,Affluent Customer,No
+3891,Female,42.0,61,Staff Accountant II,Retail,High Net Worth,Yes
+3894,Male,38.0,70,Health Coach II,IT,Affluent Customer,No
+3895,Male,25.0,18,Business Systems Development Analyst,IT,Affluent Customer,Yes
+3897,Female,52.0,36,Junior Executive,Manufacturing,High Net Worth,Yes
+3898,Male,61.0,91,Registered Nurse,Health,Mass Customer,No
+3899,Male,64.0,23,Research Associate,Health,Affluent Customer,Yes
+3900,Female,33.0,78,GIS Technical Architect,Financial Services,Mass Customer,Yes
+3901,Female,46.0,98,Marketing Manager,Argiculture,High Net Worth,No
+3902,Female,59.0,2,Payment Adjustment Coordinator,Manufacturing,Affluent Customer,No
+3904,Female,42.0,15,Sales Representative,Retail,Affluent Customer,No
+3905,Female,52.0,72,Product Engineer,Argiculture,High Net Worth,No
+3906,Male,38.0,87,Cost Accountant,Financial Services,High Net Worth,No
+3910,Male,39.0,38,VP Sales,IT,Mass Customer,No
+3912,Male,33.0,89,Social Worker,Health,Affluent Customer,No
+3913,Female,60.0,11,Community Outreach Specialist,Retail,Mass Customer,Yes
+3914,Female,32.0,79,Assistant Manager,Entertainment,Affluent Customer,Yes
+3915,Female,60.0,17,Statistician I,Financial Services,Affluent Customer,No
+3917,Male,22.0,79,Chemical Engineer,Manufacturing,Mass Customer,No
+3919,Female,56.0,38,Cost Accountant,Financial Services,High Net Worth,No
+3920,Male,59.0,90,Environmental Specialist,Telecommunications,Mass Customer,Yes
+3921,Female,44.0,93,Mechanical Systems Engineer,Manufacturing,High Net Worth,No
+3923,Male,42.0,90,Product Engineer,Financial Services,High Net Worth,No
+3924,Male,43.0,72,Editor,Property,High Net Worth,Yes
+3926,Male,65.0,24,Account Executive,Manufacturing,Mass Customer,Yes
+3932,Male,33.0,85,Senior Editor,Financial Services,Mass Customer,No
+3934,Female,42.0,38,Sales Associate,Manufacturing,Mass Customer,Yes
+3936,Male,60.0,57,Paralegal,Financial Services,Affluent Customer,Yes
+3937,Male,41.0,81,Tax Accountant,Property,Mass Customer,No
+3938,Female,46.0,25,Account Executive,Financial Services,High Net Worth,Yes
+3940,Female,42.0,9,Sales Representative,Retail,Mass Customer,No
+3941,Female,42.0,27,Technical Writer,Manufacturing,Mass Customer,Yes
+3942,Female,55.0,82,Administrative Officer,Manufacturing,Mass Customer,No
+3943,Male,22.0,19,VP Accounting,Financial Services,Affluent Customer,No
+3944,Male,47.0,28,Engineer III,IT,Affluent Customer,No
+3948,Male,33.0,44,Occupational Therapist,Health,Mass Customer,No
+3949,Male,18.0,24,Web Designer IV,Manufacturing,High Net Worth,Yes
+3950,Male,51.0,72,Senior Financial Analyst,Financial Services,High Net Worth,Yes
+3953,Female,20.0,79,Help Desk Operator,Health,Affluent Customer,Yes
+3954,Male,20.0,63,Human Resources Assistant III,Financial Services,High Net Worth,No
+3955,Female,49.0,87,Geologist II,Argiculture,Mass Customer,Yes
+3956,Male,63.0,54,Administrative Assistant III,Retail,Mass Customer,Yes
+3958,Male,50.0,8,Actuary,Financial Services,Affluent Customer,Yes
+3961,Female,27.0,11,Recruiter,Health,High Net Worth,Yes
+3967,Female,42.0,90,Senior Editor,Manufacturing,Affluent Customer,No
+3969,Female,42.0,93,Accountant II,Manufacturing,Affluent Customer,Yes
+3970,Female,50.0,73,Sales Representative,Retail,High Net Worth,Yes
+3973,Female,56.0,24,Editor,Manufacturing,High Net Worth,No
+3975,Female,48.0,2,Administrative Assistant I,Entertainment,Affluent Customer,No
+3977,Female,54.0,31,Biostatistician II,Manufacturing,Mass Customer,Yes
+3978,Female,48.0,4,Developer II,Financial Services,Mass Customer,No
+3980,Male,56.0,41,Web Designer I,Manufacturing,Mass Customer,No
+3981,Female,25.0,34,Quality Control Specialist,Health,Mass Customer,No
+3982,Female,58.0,89,General Manager,Manufacturing,Mass Customer,Yes
+3984,Male,60.0,74,Librarian,Entertainment,Affluent Customer,No
+3985,Female,21.0,44,Web Developer IV,Property,Mass Customer,No
+3988,Female,25.0,97,Automation Specialist IV,Health,Mass Customer,Yes
+3989,Male,20.0,75,Environmental Specialist,Argiculture,Affluent Customer,Yes
+3990,Male,22.0,99,Desktop Support Technician,Health,High Net Worth,No
+3991,Male,34.0,61,Chief Design Engineer,Manufacturing,Mass Customer,Yes
+3992,Male,40.0,99,Database Administrator IV,Manufacturing,Affluent Customer,Yes
+3993,Female,45.0,6,Librarian,Entertainment,Mass Customer,No
+3994,Female,31.0,5,Structural Analysis Engineer,Manufacturing,Affluent Customer,No
+3995,Male,44.0,93,Staff Scientist,Manufacturing,Mass Customer,Yes
+3996,Female,44.0,8,VP Product Management,Health,Mass Customer,No
+3997,Female,18.0,87,Statistician II,Manufacturing,High Net Worth,Yes
